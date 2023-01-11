@@ -1,0 +1,62 @@
+[
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "ProMedica Bay Park Hospital",
+    "direct_url": "promedica-bay-park-hospital",
+    "zip_code": "43616"
+  },
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "ProMedica Flower Hospital",
+    "direct_url": "promedica-flower-hospital",
+    "zip_code": "43560"
+  },
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "ProMedica Fostoria Community Hospital",
+    "direct_url": "promedica-fostoria-community-hospital",
+    "zip_code": "44830"
+  },
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "Lima Memorial Health System",
+    "direct_url": "lima-memorial-health-system",
+    "zip_code": "45804"
+  },
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "ProMedica Memorial Hospital",
+    "direct_url": "promedica-memorial-hospital",
+    "zip_code": "43420"
+  },
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "ProMedica Monroe Regional Hospital",
+    "direct_url": "promedica-monroe-regional-hospital",
+    "zip_code": "48162"
+  },
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "ProMedica Wildwood Orthopaedic and Spine Hospital",
+    "direct_url": "promedica-wildwood-orthopaedic-and-spine-hospital",
+    "zip_code": "43615"
+  },
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "ProMedica Defiance Regional Hospital",
+    "direct_url": "promedica-defiance-regional-hospital",
+    "zip_code": "43512"
+  },
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "ProMedica Toledo Hospital",
+    "direct_url": "promedica-toledo-hospital",
+    "zip_code": "43606"
+  },
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "ProMedica Russell J. Ebeid Childrens Hospital",
+    "direct_url": "promedica-russell-j-ebeid-children-s-hospital",
+    "zip_code": "43606"
+  },
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "ProMedica Coldwater Regional Hospital",
+    "direct_url": "promedica-coldwater-regional-hospital",
+    "zip_code": "49036"
+  },
+  {
+    "replace(replace(replace(name,\"/\",''),\"'\",''),'\"','')": "ProMedica Charles and Virginia Hickman Hospital",
+    "direct_url": "promedica-charles-and-virginia-hickman-hospital",
+    "zip_code": "49221"
+  }
+]
