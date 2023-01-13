@@ -1,10 +1,10 @@
-$locationType = "PPG"
+$locationType = "Tier2-3"
 $template = "/sitecore/templates/Project/pmdt-jss-site/LocationsFolder/" + $locationType
 $listSection = "/sitecore/templates/Project/pmdt-jss-site/LocationsFolder/ListSection"
 $folderTemplate = "/sitecore/templates/Common/Folder"
 $parentPath ="master:/sitecore/content/pmdt-jss-site/Content/Database/NewLocations/" + $locationType
 #Read CSV file
-$importList = $importList =  curl 'https://rogelio1502.github.io/pmdt_json/ppg_url_zip.json' -UseBasicParsing
+$importList = $importList =  curl 'https://rogelio1502.github.io/pmdt_json/tier2-3_url_zip.json' -UseBasicParsing
 $importList = $importList | ConvertFrom-Json
 $c = 0
 foreach ( $row in $importList ) {
