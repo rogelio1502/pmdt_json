@@ -1,0 +1,4403 @@
+[
+  {
+    "id": 8,
+    "Latitude": "41.6207872",
+    "Longitude": "-83.4799506",
+    "Address": "2801 Bay Park Drive ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 18,
+    "Latitude": null,
+    "Longitude": null,
+    "Address": null,
+    "ZipCode": "43560",
+    "City": null,
+    "State": null
+  },
+  {
+    "id": 19,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 21,
+    "Latitude": "40.7355618",
+    "Longitude": "-84.0858791",
+    "Address": "1001 Bellefontaine Ave. ",
+    "ZipCode": "45804",
+    "City": "Lima",
+    "State": "Ohio"
+  },
+  {
+    "id": 22,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 23,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 N. Macomb St. ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 27,
+    "Latitude": "41.6737363",
+    "Longitude": "-83.67370460000001",
+    "Address": "2901 N. Reynolds Road ",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 38,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 40,
+    "Latitude": "41.6787941",
+    "Longitude": "-83.5927002",
+    "Address": "1 ProMedica Parkway ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 41,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 44,
+    "Latitude": "41.7103358",
+    "Longitude": "-83.6943191",
+    "Address": "5308 Harroun Road Suite 160",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 46,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 47,
+    "Latitude": "41.1510983",
+    "Longitude": "-83.42307939999999",
+    "Address": "455 W. Fourth St. Suite 100",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 48,
+    "Latitude": "41.9167948",
+    "Longitude": "-84.0465195",
+    "Address": "901 Kimole Lane Suite A-1",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 50,
+    "Latitude": "41.9685777",
+    "Longitude": "-83.9644588",
+    "Address": "5449 S. Occidental Hwy. ",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 52,
+    "Latitude": "41.6741917",
+    "Longitude": "-83.5948238",
+    "Address": "2109 Hughes Drive Suite 720",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 53,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 54,
+    "Latitude": "41.678478",
+    "Longitude": "-83.5945103",
+    "Address": "2100 W. Central Ave. Suite 100A",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 60,
+    "Latitude": "41.6748",
+    "Longitude": "-83.595376",
+    "Address": "2121 Hughes Drive Suite 310",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 62,
+    "Latitude": "41.6623638",
+    "Longitude": "-83.56503769999999",
+    "Address": "2105 Lawrence Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 63,
+    "Latitude": "41.3391765",
+    "Longitude": "-83.1329846",
+    "Address": "710 Cleveland Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 66,
+    "Latitude": "41.914112",
+    "Longitude": "-84.0469324",
+    "Address": "781 Lakeshire Trail ",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 67,
+    "Latitude": "41.9145603",
+    "Longitude": "-84.048873",
+    "Address": "777 Kimole Lane Grace Christman Building. Suite 140",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 69,
+    "Latitude": "41.6741917",
+    "Longitude": "-83.5948238",
+    "Address": "2109 Hughes Drive Suite 450",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 72,
+    "Latitude": "41.678478",
+    "Longitude": "-83.5945103",
+    "Address": "2100 W. Central Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 73,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd. 1st Floor",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 75,
+    "Latitude": "41.9131182",
+    "Longitude": "-84.0478821",
+    "Address": "770 Riverside Ave. Suite 105",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 76,
+    "Latitude": "41.1510983",
+    "Longitude": "-83.42307939999999",
+    "Address": "455 W. 4th Street Suite 20",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 78,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd Suite 640",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 83,
+    "Latitude": "41.7077756",
+    "Longitude": "-83.66700729999999",
+    "Address": "5520 Monroe St. ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 84,
+    "Latitude": "41.6207872",
+    "Longitude": "-83.4799506",
+    "Address": "2801 Bay Park Drive ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 86,
+    "Latitude": "41.6207872",
+    "Longitude": "-83.4799506",
+    "Address": "2801 Bay Park Drive ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 88,
+    "Latitude": "41.6207872",
+    "Longitude": "-83.4799506",
+    "Address": "2801 Bay Park Drive ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 93,
+    "Latitude": "41.8546647",
+    "Longitude": "-84.3566285",
+    "Address": "331 W. Main St. ",
+    "ZipCode": "49221",
+    "City": "Hudson",
+    "State": "Michigan"
+  },
+  {
+    "id": 97,
+    "Latitude": "41.6748",
+    "Longitude": "-83.595376",
+    "Address": "2121 Hughes Drive 1st Floor",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 99,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "1252 Ralston Ave. Suite 301 ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 100,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 101,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 103,
+    "Latitude": "41.7093178",
+    "Longitude": "-83.6904552",
+    "Address": "5200 Harroun Road ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 104,
+    "Latitude": "41.3002029",
+    "Longitude": "-84.3745218",
+    "Address": "1250 Ralston Ave. Suite 105",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 106,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 110,
+    "Latitude": "41.7103358",
+    "Longitude": "-83.6943191",
+    "Address": "5308 Harroun Road Suite 0050",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 111,
+    "Latitude": "41.7094604",
+    "Longitude": "-83.69121389999999",
+    "Address": "5300 Harroun Road Suite 304",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 113,
+    "Latitude": "41.6802208",
+    "Longitude": "-83.59420440000001",
+    "Address": "2120 W. Central Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 114,
+    "Latitude": "41.5218318",
+    "Longitude": "-84.32174239999999",
+    "Address": "121 Westfield Drive ",
+    "ZipCode": "43502",
+    "City": "Archbold",
+    "State": "Ohio"
+  },
+  {
+    "id": 116,
+    "Latitude": "41.1629838",
+    "Longitude": "-83.4237603",
+    "Address": "501 Van Buren St. Suite 203",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 117,
+    "Latitude": "41.340326",
+    "Longitude": "-83.1372157",
+    "Address": "605 Third Ave. Suite B",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 118,
+    "Latitude": "41.5581149",
+    "Longitude": "-83.6784727",
+    "Address": "5757 Monclova Road Suite 6",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 119,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 121,
+    "Latitude": "41.6741917",
+    "Longitude": "-83.5948238",
+    "Address": "2109 Hughes Drive Jobst Tower. 1st Floor",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 133,
+    "Latitude": "41.7130498",
+    "Longitude": "-83.6839555",
+    "Address": "5855 Monroe St. Suite 201",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 134,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 135,
+    "Latitude": "41.6741917",
+    "Longitude": "-83.5948238",
+    "Address": "2109 Hughes Drive Suite 550",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 137,
+    "Latitude": "41.8350684",
+    "Longitude": "-83.8830356",
+    "Address": "157 W. Brooke Lane ",
+    "ZipCode": "49228",
+    "City": "Blissfield",
+    "State": "Michigan"
+  },
+  {
+    "id": 138,
+    "Latitude": "42.01239229999999",
+    "Longitude": "-84.1902015",
+    "Address": "400 N. Main St. ",
+    "ZipCode": "49265",
+    "City": "Onsted",
+    "State": "Michigan"
+  },
+  {
+    "id": 139,
+    "Latitude": "41.9332258",
+    "Longitude": "-84.0037639",
+    "Address": "3245 N. Adrian Highway ",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 140,
+    "Latitude": "41.7464565",
+    "Longitude": "-83.6237852",
+    "Address": "7300 Secor Road Ste. 6",
+    "ZipCode": "48144",
+    "City": "Lambertville",
+    "State": "Michigan"
+  },
+  {
+    "id": 141,
+    "Latitude": "41.5770786",
+    "Longitude": "-83.68824819999999",
+    "Address": "660 Beaver Creek Circle Suite 120",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 142,
+    "Latitude": "41.678248",
+    "Longitude": "-83.59655719999999",
+    "Address": "2150 W. Central Ave. Room H",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 147,
+    "Latitude": "41.6740292",
+    "Longitude": "-83.7020785",
+    "Address": "3020 N. McCord Road Suite 101",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 149,
+    "Latitude": "41.0816088",
+    "Longitude": "-83.11033689999999",
+    "Address": "3101 W. US Route 224 ",
+    "ZipCode": "44883",
+    "City": "Tiffin",
+    "State": "Ohio"
+  },
+  {
+    "id": 151,
+    "Latitude": "41.5298893",
+    "Longitude": "-83.6375863",
+    "Address": "1601 Brigham Drive Suite 180",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 152,
+    "Latitude": "41.7088714",
+    "Longitude": "-83.4999808",
+    "Address": "4805 Suder Ave. ",
+    "ZipCode": "43611",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 153,
+    "Latitude": "41.6344082",
+    "Longitude": "-83.47248209999999",
+    "Address": "3156 Dustin Road Suite 102",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 155,
+    "Latitude": "41.5792602",
+    "Longitude": "-83.87670589999999",
+    "Address": "22 Turtle Creek Circle ",
+    "ZipCode": "43558",
+    "City": "Swanton",
+    "State": "Ohio"
+  },
+  {
+    "id": 160,
+    "Latitude": "41.5900482",
+    "Longitude": "-83.5684258",
+    "Address": "1215 Grassy Lane ",
+    "ZipCode": "43460",
+    "City": "Rossford",
+    "State": "Ohio"
+  },
+  {
+    "id": 164,
+    "Latitude": "41.8546647",
+    "Longitude": "-84.3566285",
+    "Address": "331 W. Main St. ",
+    "ZipCode": "49247",
+    "City": "Hudson",
+    "State": "Michigan"
+  },
+  {
+    "id": 167,
+    "Latitude": "41.9167948",
+    "Longitude": "-84.0465195",
+    "Address": "901 Kimole Lane ",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 169,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 170,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 178,
+    "Latitude": "41.678248",
+    "Longitude": "-83.59655719999999",
+    "Address": "2150 W. Central Ave 3rd fl.",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 179,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 181,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "ProMedica Fostoria Community Hospita 501 Van Buren St.",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 182,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 184,
+    "Latitude": "41.6214328",
+    "Longitude": "-83.48073189999999",
+    "Address": "2751 Bay Park Drive Suite 201",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 185,
+    "Latitude": "41.6738116",
+    "Longitude": "-83.67241129999999",
+    "Address": "2865 N. Reynolds Road Suite 150",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 186,
+    "Latitude": "41.6735874",
+    "Longitude": "-83.67225759999999",
+    "Address": "2865 N. Reynolds Road Suite 160",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 187,
+    "Latitude": "41.5297956",
+    "Longitude": "-83.63759499999999",
+    "Address": "1601 Brigham Drive Suite 120",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 188,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "1252 Ralston Ave. Suite 304",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 189,
+    "Latitude": "41.678248",
+    "Longitude": "-83.59655719999999",
+    "Address": "2150 W. Central Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 190,
+    "Latitude": "41.5298893",
+    "Longitude": "-83.6375863",
+    "Address": "1601 Brigham Drive Suite 150",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 193,
+    "Latitude": "41.6901498",
+    "Longitude": "-83.6364796",
+    "Address": "3909 Woodley Road Suite 100",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 194,
+    "Latitude": "41.577062",
+    "Longitude": "-83.6882136",
+    "Address": "660 Beaver Creek Circle Suite 110",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 195,
+    "Latitude": "41.5770786",
+    "Longitude": "-83.68824819999999",
+    "Address": "660 Beaver Creek Circle Suite 100",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 197,
+    "Latitude": "41.53777669999999",
+    "Longitude": "-84.13167109999999",
+    "Address": "725 S. Shoop Ave. ",
+    "ZipCode": "43567",
+    "City": "Wauseon",
+    "State": "Ohio"
+  },
+  {
+    "id": 198,
+    "Latitude": "41.6214264",
+    "Longitude": "-83.4810246",
+    "Address": "2751 Bay Park Drive Suite 204",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 199,
+    "Latitude": "41.7342429",
+    "Longitude": "-83.6235774",
+    "Address": "3175 Smith Road ",
+    "ZipCode": "48144",
+    "City": "Lambertville",
+    "State": "Michigan"
+  },
+  {
+    "id": 200,
+    "Latitude": "41.6732086",
+    "Longitude": "-83.7012312",
+    "Address": "2940 N. McCord Road ",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 201,
+    "Latitude": "41.5579697",
+    "Longitude": "-83.67706559999999",
+    "Address": "5705 Monclova Road Suite 202",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 202,
+    "Latitude": "41.96554400000001",
+    "Longitude": "-84.007532",
+    "Address": "ProMedica Charles and Virginia Hickman Hospital 5640 N. Adrian Hwy. Suite A",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 203,
+    "Latitude": "41.3774553",
+    "Longitude": "-83.6682536",
+    "Address": "1037 Conneaut St. Suite 202",
+    "ZipCode": "43402",
+    "City": "Bowling Green",
+    "State": "Ohio"
+  },
+  {
+    "id": 204,
+    "Latitude": "41.156998",
+    "Longitude": "-83.41687019999999",
+    "Address": "Specialty Clinic 501 Van Buren St.",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 205,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. Suite 1",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 208,
+    "Latitude": "41.411293",
+    "Longitude": "-84.08749880000001",
+    "Address": "1600 E. Riverview Ave. ",
+    "ZipCode": "43545",
+    "City": "Napoleon",
+    "State": "Ohio"
+  },
+  {
+    "id": 210,
+    "Latitude": "41.6214264",
+    "Longitude": "-83.4810246",
+    "Address": "2751 Bay Park Drive Suite 305",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 211,
+    "Latitude": "41.4996158",
+    "Longitude": "-82.93607569999999",
+    "Address": "615 Fulton St. ",
+    "ZipCode": "43452",
+    "City": "Port Clinton",
+    "State": "Ohio"
+  },
+  {
+    "id": 213,
+    "Latitude": "41.5385582",
+    "Longitude": "-84.1349798",
+    "Address": "734 S. Shoop Ave. Suite B",
+    "ZipCode": "43567",
+    "City": "Wauseon",
+    "State": "Ohio"
+  },
+  {
+    "id": 214,
+    "Latitude": "41.9145603",
+    "Longitude": "-84.048873",
+    "Address": "777 Kimole Lane Grace Christman Building. Suite 220",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 218,
+    "Latitude": "41.3000074",
+    "Longitude": "-84.3747391",
+    "Address": "1250 Ralston Ave. Suite 202",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 219,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "1252 Ralston Ave. Suite 302",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 220,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "1252 Ralston Ave. Suite 400",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 222,
+    "Latitude": "41.7114673",
+    "Longitude": "-83.6763764",
+    "Address": "5700 Monroe Street Suite 310",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 225,
+    "Latitude": "41.5298893",
+    "Longitude": "-83.6375863",
+    "Address": "1601 Brigham Drive Suite 250",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 226,
+    "Latitude": "41.9145694",
+    "Longitude": "-84.0488352",
+    "Address": "777 Kimole Lane Suite 240",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 227,
+    "Latitude": "41.9920267",
+    "Longitude": "-83.94178719999999",
+    "Address": "200 E. Russell Road Suite C",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 229,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "1252 Ralston Ave. MOB 2. Suite 402",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 231,
+    "Latitude": "41.9324865",
+    "Longitude": "-83.38872649999999",
+    "Address": "1180 N. Monroe St. ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 234,
+    "Latitude": "41.7114196",
+    "Longitude": "-83.6765269",
+    "Address": "5700 Monroe St. Suite 211",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 237,
+    "Latitude": "41.340262",
+    "Longitude": "-83.13677439999999",
+    "Address": "605 Third Ave. Suite D",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 238,
+    "Latitude": "41.2987493",
+    "Longitude": "-84.3777989",
+    "Address": "1250 Ralston Ave. Suite 104",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 240,
+    "Latitude": "41.7127658",
+    "Longitude": "-83.8989363",
+    "Address": "1990 County Road U ",
+    "ZipCode": "43540",
+    "City": "Metamora",
+    "State": "Ohio"
+  },
+  {
+    "id": 241,
+    "Latitude": "41.7114049",
+    "Longitude": "-83.6763172",
+    "Address": "5700 Monroe Street Suite 206",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 242,
+    "Latitude": "41.3002029",
+    "Longitude": "-84.3745218",
+    "Address": "1250 Ralston Ave. Suite 204",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 245,
+    "Latitude": "41.5900482",
+    "Longitude": "-83.5684258",
+    "Address": "1215 Grassy Lane ",
+    "ZipCode": "43460",
+    "City": "Rossford",
+    "State": "Ohio"
+  },
+  {
+    "id": 246,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 247,
+    "Latitude": "41.5770786",
+    "Longitude": "-83.68824819999999",
+    "Address": "660 Beaver Creek Circle Suite 200",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 248,
+    "Latitude": "41.6800973",
+    "Longitude": "-83.59575649999999",
+    "Address": "2130 W. Central Ave. Suites 101; 102; 103",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 250,
+    "Latitude": "41.3389909",
+    "Longitude": "-83.13673399999999",
+    "Address": "1922 Glen Springs Drive ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 251,
+    "Latitude": "41.5135338",
+    "Longitude": "-82.9102362",
+    "Address": "1854 E. Perry St. ",
+    "ZipCode": "43452",
+    "City": "Port Clinton",
+    "State": "Ohio"
+  },
+  {
+    "id": 253,
+    "Latitude": "41.3002029",
+    "Longitude": "-84.3745218",
+    "Address": "1250 Ralston Ave. Suite 205",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 254,
+    "Latitude": "41.7103358",
+    "Longitude": "-83.6943191",
+    "Address": "5308 Harroun Road Suite 150",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 255,
+    "Latitude": "41.5298893",
+    "Longitude": "-83.6375863",
+    "Address": "1601 Brigham Drive Suite 250A",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 256,
+    "Latitude": "41.7104413",
+    "Longitude": "-83.67562699999999",
+    "Address": "5700 Monroe Street Suite 303",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 259,
+    "Latitude": "41.6214328",
+    "Longitude": "-83.48073189999999",
+    "Address": "2751 Bay Park Drive Suite 201",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 260,
+    "Latitude": "41.67326449999999",
+    "Longitude": "-83.5952066",
+    "Address": "2121 Hughes Drive Suite 750",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 262,
+    "Latitude": "40.7355618",
+    "Longitude": "-84.0858791",
+    "Address": "1001 Bellafontaine Ave. ",
+    "ZipCode": "45804",
+    "City": "Lima",
+    "State": "Ohio"
+  },
+  {
+    "id": 263,
+    "Latitude": "41.4465268",
+    "Longitude": "-82.7108554",
+    "Address": "1111 Hayes Ave. ",
+    "ZipCode": "44870",
+    "City": "Sandusky",
+    "State": "Ohio"
+  },
+  {
+    "id": 265,
+    "Latitude": "41.6748",
+    "Longitude": "-83.595376",
+    "Address": "2121 Hughes Drive Suite 220",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 266,
+    "Latitude": "40.7355618",
+    "Longitude": "-84.0858791",
+    "Address": "1001 Bellafontaine Ave. ",
+    "ZipCode": "45804",
+    "City": "Lima",
+    "State": "Ohio"
+  },
+  {
+    "id": 267,
+    "Latitude": "41.92557",
+    "Longitude": "-83.3869108",
+    "Address": "730 N. Macomb St. Suite 300",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 268,
+    "Latitude": "41.6748",
+    "Longitude": "-83.595376",
+    "Address": "2121 Hughes Drive Suite 980",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 270,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "ProMedica Defiance Regional Hospital 1252 Ralston Ave. Suite 402",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 272,
+    "Latitude": "41.6342787",
+    "Longitude": "-83.4724518",
+    "Address": "3156 Dustin Road Suite 203",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 273,
+    "Latitude": "41.5298893",
+    "Longitude": "-83.6375863",
+    "Address": "1601 Brigham Drive Suite 200",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 275,
+    "Latitude": "41.7114196",
+    "Longitude": "-83.67627899999999",
+    "Address": "5700 Monroe Street Suite 203",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 276,
+    "Latitude": "41.71235619999999",
+    "Longitude": "-83.6790958",
+    "Address": "5800 Monroe St. Suite G",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 277,
+    "Latitude": "41.711526",
+    "Longitude": "-83.67620869999999",
+    "Address": "5700 Monroe Street Suite 308",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 278,
+    "Latitude": "41.9145527",
+    "Longitude": "-84.04884199999999",
+    "Address": "777 Kimole Lane Suite 100",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 279,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "1252 Ralston Ave. Suite 402",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 281,
+    "Latitude": "41.5298893",
+    "Longitude": "-83.6375863",
+    "Address": "1601 Brigham Drive Suite 250",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 283,
+    "Latitude": "41.710221",
+    "Longitude": "-83.69157799999999",
+    "Address": "5300 Harroun Road Suite 155",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 287,
+    "Latitude": "41.6901774",
+    "Longitude": "-83.63655659999999",
+    "Address": "3909 Woodley Road Suite 600",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 288,
+    "Latitude": "41.6748",
+    "Longitude": "-83.595376",
+    "Address": "2109 Hughes Drive Suite 220",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 289,
+    "Latitude": "41.6214264",
+    "Longitude": "-83.4810246",
+    "Address": "2751 Bay Park Drive Suite 303",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 290,
+    "Latitude": "41.7114049",
+    "Longitude": "-83.6763172",
+    "Address": "5700 Monroe St. Suite 201",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 291,
+    "Latitude": "41.6735645",
+    "Longitude": "-83.67225759999999",
+    "Address": "2865 N. Reynolds Road Suite 170",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 292,
+    "Latitude": "41.7104603",
+    "Longitude": "-83.67560589999999",
+    "Address": "5700 Monroe Street Suite 209",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 294,
+    "Latitude": "41.5770786",
+    "Longitude": "-83.68824819999999",
+    "Address": "660 Beaver Creek Circle Suite 120",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 295,
+    "Latitude": "41.678248",
+    "Longitude": "-83.59655719999999",
+    "Address": "2150 W. Central Ave. Room H",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 298,
+    "Latitude": "41.5298893",
+    "Longitude": "-83.6375863",
+    "Address": "1601 Brigham Drive Suite 180",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 307,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 308,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 309,
+    "Latitude": "41.3391765",
+    "Longitude": "-83.1329846",
+    "Address": "710 Cleveland Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 310,
+    "Latitude": "41.6207872",
+    "Longitude": "-83.4799506",
+    "Address": "2801 Bay Park Drive ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 311,
+    "Latitude": "41.7093178",
+    "Longitude": "-83.6904552",
+    "Address": "5200 Harroun Road ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 319,
+    "Latitude": "41.6741917",
+    "Longitude": "-83.5948238",
+    "Address": "2109 Hughes Drive Jobst Tower. 1st Floor",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 320,
+    "Latitude": "41.3391765",
+    "Longitude": "-83.1329846",
+    "Address": "710 Cleveland Avenue ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 321,
+    "Latitude": "41.6741917",
+    "Longitude": "-83.5948238",
+    "Address": "2109 Hughes Drive 1st Floor",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 322,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd. 2nd Floor",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 324,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 326,
+    "Latitude": "41.9654225",
+    "Longitude": "-84.00448829999999",
+    "Address": "5660 N. Adrian Highway ",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 327,
+    "Latitude": "41.9579609",
+    "Longitude": "-83.67560659999999",
+    "Address": "100 Powell Dr. Suite 3",
+    "ZipCode": "48131",
+    "City": "Dundee",
+    "State": "Michigan"
+  },
+  {
+    "id": 329,
+    "Latitude": "41.7654399",
+    "Longitude": "-83.5960908",
+    "Address": "2000 W. Dean Road ",
+    "ZipCode": "48182",
+    "City": "Temperance",
+    "State": "Michigan"
+  },
+  {
+    "id": 330,
+    "Latitude": "41.1510983",
+    "Longitude": "-83.42307939999999",
+    "Address": "455 W. 4th St. Suite 010 ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 331,
+    "Latitude": "42.01239229999999",
+    "Longitude": "-84.1902015",
+    "Address": "400 N. Main St. ",
+    "ZipCode": "49265",
+    "City": "Onsted",
+    "State": "Michigan"
+  },
+  {
+    "id": 333,
+    "Latitude": "41.7033673",
+    "Longitude": "-83.69473219999999",
+    "Address": "4848 Holland-Sylvania Road Suite 202",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 334,
+    "Latitude": "41.5772392",
+    "Longitude": "-83.68773729999999",
+    "Address": "660 Beaver Creek Circle Suite 210",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 335,
+    "Latitude": "41.6214264",
+    "Longitude": "-83.4810246",
+    "Address": "2751 Bay Park Drive ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 336,
+    "Latitude": "41.678248",
+    "Longitude": "-83.59655719999999",
+    "Address": "2150 W. Central Ave. Third Floor",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 337,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "1252 Ralston Ave. Suite 301",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 341,
+    "Latitude": "41.38364199999999",
+    "Longitude": "-83.320458",
+    "Address": "116 S. Main St. ",
+    "ZipCode": "43430",
+    "City": "Gibsonburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 342,
+    "Latitude": "41.3126964",
+    "Longitude": "-82.9818662",
+    "Address": "509 W. McPherson Highway ",
+    "ZipCode": "43410",
+    "City": "Clyde",
+    "State": "Ohio"
+  },
+  {
+    "id": 343,
+    "Latitude": "41.3391765",
+    "Longitude": "-83.1329846",
+    "Address": "710 Cleveland Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 344,
+    "Latitude": "41.5298893",
+    "Longitude": "-83.6375863",
+    "Address": "1601 Brigham Drive Levis Commons. Suite 100",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 345,
+    "Latitude": "41.61240919999999",
+    "Longitude": "-83.7050512",
+    "Address": "6855 Springvalley Drive #155",
+    "ZipCode": "43528",
+    "City": "Holland",
+    "State": "Ohio"
+  },
+  {
+    "id": 346,
+    "Latitude": "41.396061",
+    "Longitude": "-83.64993609999999",
+    "Address": "1180 N. Main St. Suites 1-2",
+    "ZipCode": "43402",
+    "City": "Bowling Green",
+    "State": "Ohio"
+  },
+  {
+    "id": 355,
+    "Latitude": "41.7112838",
+    "Longitude": "-83.6764257",
+    "Address": "5700 Monroe St. Suite 309 ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 359,
+    "Latitude": "41.6737363",
+    "Longitude": "-83.67370460000001",
+    "Address": "2901 N. Reynolds Road Entrance D",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 360,
+    "Latitude": "41.678248",
+    "Longitude": "-83.59655719999999",
+    "Address": "2150 W. Central Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 374,
+    "Latitude": "42.0123749",
+    "Longitude": "-84.19024979999999",
+    "Address": "400 N. Main St. Suite A",
+    "ZipCode": "49265",
+    "City": "Onsted",
+    "State": "Michigan"
+  },
+  {
+    "id": 375,
+    "Latitude": "42.0010145",
+    "Longitude": "-83.9373341",
+    "Address": "501 E. Cummins St. ",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 380,
+    "Latitude": "41.6782979",
+    "Longitude": "-83.62038699999999",
+    "Address": "3142 W. Central Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 388,
+    "Latitude": "41.8350684",
+    "Longitude": "-83.8830356",
+    "Address": "157 W. Brooke Lane ",
+    "ZipCode": "49228",
+    "City": "Blissfield",
+    "State": "Michigan"
+  },
+  {
+    "id": 393,
+    "Latitude": "41.6207872",
+    "Longitude": "-83.4799506",
+    "Address": "2801 Bay Park Drive ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 396,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 398,
+    "Latitude": "41.7093178",
+    "Longitude": "-83.6904552",
+    "Address": "5200 Harroun Road ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 399,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 400,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 402,
+    "Latitude": "41.6748",
+    "Longitude": "-83.595376",
+    "Address": "2121 Hughes Drive Suite 640",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 406,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 407,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 408,
+    "Latitude": "41.710221",
+    "Longitude": "-83.69157799999999",
+    "Address": "ProMedica Flower Hospital 5300 Harroun Road. Suite 010",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 409,
+    "Latitude": "41.9145694",
+    "Longitude": "-84.0488352",
+    "Address": "Grace Christman Medical Building 777 Kimole Lane. Suite 130",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 410,
+    "Latitude": "41.6787941",
+    "Longitude": "-83.5927002",
+    "Address": "ProMedica Russell J. Ebeid Childrens Hospital 1 ProMedica Parkway. Entrance B. Floor 4",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 411,
+    "Latitude": "41.9397054",
+    "Longitude": "-83.39604799999999",
+    "Address": "800 Stewart Road ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 416,
+    "Latitude": "41.6214264",
+    "Longitude": "-83.4810246",
+    "Address": "2751 Bay Park Drive Suite 130",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 417,
+    "Latitude": "41.7093178",
+    "Longitude": "-83.6904552",
+    "Address": "5200 Harroun Road ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 418,
+    "Latitude": "41.6214264",
+    "Longitude": "-83.4810246",
+    "Address": "2751 Bay Park Drive Suite 202",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 421,
+    "Latitude": "41.9114849",
+    "Longitude": "-84.0469324",
+    "Address": "755 High St. ",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 424,
+    "Latitude": "41.34031909999999",
+    "Longitude": "-83.15279750000001",
+    "Address": "595 Bartson Rd. Ste. A",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 429,
+    "Latitude": "41.916592",
+    "Longitude": "-83.3934194",
+    "Address": "214 E. Elm Ave. Suite 200",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 459,
+    "Latitude": "41.7112838",
+    "Longitude": "-83.6764257",
+    "Address": "5700 Monroe St. Suite 102",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 461,
+    "Latitude": "41.5569989",
+    "Longitude": "-83.682211",
+    "Address": "5901 Monclova Road ",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 462,
+    "Latitude": "41.7130498",
+    "Longitude": "-83.6839555",
+    "Address": "5855 Monroe St. ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 475,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. Suite 103",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 481,
+    "Latitude": "41.303143",
+    "Longitude": "-82.9484726",
+    "Address": "1076 McPherson Hwy. Suite 1",
+    "ZipCode": "43410",
+    "City": "Clyde",
+    "State": "Ohio"
+  },
+  {
+    "id": 483,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 484,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 486,
+    "Latitude": "41.1510983",
+    "Longitude": "-83.42307939999999",
+    "Address": "455 W. Fourth St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 488,
+    "Latitude": "41.6735368",
+    "Longitude": "-83.67190939999999",
+    "Address": "2865 N. Reynolds Road ",
+    "ZipCode": null,
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 492,
+    "Latitude": "41.9272767",
+    "Longitude": "-83.38929689999999",
+    "Address": "901 N. Macomb St. Suite 1",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 495,
+    "Latitude": "41.7048175",
+    "Longitude": "-83.66396779999999",
+    "Address": "4888 Whiteford Road ",
+    "ZipCode": "43623",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 500,
+    "Latitude": "41.297789",
+    "Longitude": "-84.3798729",
+    "Address": "1260 Ralson Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 504,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 505,
+    "Latitude": "41.9205575",
+    "Longitude": "-83.42078549999999",
+    "Address": "1704 S. Custer Road ",
+    "ZipCode": "48161",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 512,
+    "Latitude": "41.9365583",
+    "Longitude": "-83.3888831",
+    "Address": "1420 N. Monroe St. ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 534,
+    "Latitude": "41.6800973",
+    "Longitude": "-83.59575649999999",
+    "Address": "2130 W. Central Ave. Suite 300",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 643,
+    "Latitude": null,
+    "Longitude": null,
+    "Address": "2109 Hughes Drive #840",
+    "ZipCode": null,
+    "City": null,
+    "State": "Ohio"
+  },
+  {
+    "id": 651,
+    "Latitude": "41.6214264",
+    "Longitude": "-83.4810246",
+    "Address": "2751 Bay Park Drive #300 ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 652,
+    "Latitude": "41.678248",
+    "Longitude": "-83.59655719999999",
+    "Address": "2150 W. Central Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 749,
+    "Latitude": "41.9145694",
+    "Longitude": "-84.0488352",
+    "Address": "777 Kimole Lane Suite 260",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 750,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1250 Ralston Ave.  Suite 106",
+    "ZipCode": "43512",
+    "City": "Defiance ",
+    "State": "Ohio"
+  },
+  {
+    "id": 751,
+    "Latitude": "41.340326",
+    "Longitude": "-83.1372157",
+    "Address": "605 Third Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 753,
+    "Latitude": "42.0020404",
+    "Longitude": "-83.9370445",
+    "Address": "500 E. Pottawatamie St. ",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 754,
+    "Latitude": "41.53777669999999",
+    "Longitude": "-84.13167109999999",
+    "Address": "725 S. Shoop Ave ",
+    "ZipCode": "43567",
+    "City": "Wauseon",
+    "State": "Ohio"
+  },
+  {
+    "id": 772,
+    "Latitude": "41.9255701",
+    "Longitude": "-83.3869107",
+    "Address": "730 N. Macomb St.  Suite 419",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 843,
+    "Latitude": "41.6735368",
+    "Longitude": "-83.67190939999999",
+    "Address": "2865 N. Reynolds Rd.  #A",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 868,
+    "Latitude": "41.2886911",
+    "Longitude": "-82.8823371",
+    "Address": "1400 W. Main St. ",
+    "ZipCode": "44811",
+    "City": "Bellevue",
+    "State": "Ohio"
+  },
+  {
+    "id": 870,
+    "Latitude": "41.6358754",
+    "Longitude": "-83.46893969999999",
+    "Address": "3316 Navarre Ave. Suite F",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 871,
+    "Latitude": "41.5272206",
+    "Longitude": "-83.63612139999999",
+    "Address": "25950 N. Dixie Highway Suite 500",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 876,
+    "Latitude": "41.6343618",
+    "Longitude": "-83.4822733",
+    "Address": "1050 Isaac Street Drive #128",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 900,
+    "Latitude": "41.6735645",
+    "Longitude": "-83.67225759999999",
+    "Address": "2865 N. Reynolds Road Suite 170",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 906,
+    "Latitude": "41.3797949",
+    "Longitude": "-83.1160572",
+    "Address": "2390 Enterprise Drive ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 907,
+    "Latitude": "41.8976543",
+    "Longitude": "-84.0641476",
+    "Address": "146 S. Charles St. ",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 911,
+    "Latitude": "41.9205215",
+    "Longitude": "-83.4149022",
+    "Address": "407 S. Telegraph Road ",
+    "ZipCode": "48161",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 913,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 N. Macomb  ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 914,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren Street  ",
+    "ZipCode": "44830",
+    "City": "Fostoria ",
+    "State": "Ohio"
+  },
+  {
+    "id": 921,
+    "Latitude": "41.6800973",
+    "Longitude": "-83.59575649999999",
+    "Address": "2130 W. Central Ave. Suite 105",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 923,
+    "Latitude": "41.6576142",
+    "Longitude": "-83.5470978",
+    "Address": "1806 Madison Ave. ",
+    "ZipCode": "43604",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 925,
+    "Latitude": "41.6748",
+    "Longitude": "-83.595376",
+    "Address": "2109 Hughes Drive Suite 400",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 926,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 North Macomb St. ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 927,
+    "Latitude": "41.6214264",
+    "Longitude": "-83.4810246",
+    "Address": "2751 Bay Park Dr.  Suite 110",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 931,
+    "Latitude": "41.7114049",
+    "Longitude": "-83.6763172",
+    "Address": "5700 Monroe St. Suite 106",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 935,
+    "Latitude": "41.7104413",
+    "Longitude": "-83.67562699999999",
+    "Address": "5700 Monroe St. Suite 207",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 939,
+    "Latitude": "41.7104223",
+    "Longitude": "-83.67564809999999",
+    "Address": "5700 Monroe St. Suite 301",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 942,
+    "Latitude": "41.7112838",
+    "Longitude": "-83.6764257",
+    "Address": "5700 Monroe St. Suite 101",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 943,
+    "Latitude": "41.7112838",
+    "Longitude": "-83.6764257",
+    "Address": "5700 Monroe St. Suite 309",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 944,
+    "Latitude": "41.7112838",
+    "Longitude": "-83.6764257",
+    "Address": "5700 Monroe St. Suite 109",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 945,
+    "Latitude": "41.7117881",
+    "Longitude": "-83.6766815",
+    "Address": "5700 Monroe St. Suite 110",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 948,
+    "Latitude": "41.711526",
+    "Longitude": "-83.67620869999999",
+    "Address": "5700 Monroe St. Suite 113",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 950,
+    "Latitude": "41.7112838",
+    "Longitude": "-83.6764257",
+    "Address": "5700 Monroe St. Suite 108",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 952,
+    "Latitude": "41.71064639999999",
+    "Longitude": "-83.6777965",
+    "Address": "5700 Monroe St. Suite 115",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 953,
+    "Latitude": "41.9274456",
+    "Longitude": "-83.38953880000001",
+    "Address": "901 N. Macomb St Suite 110",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 958,
+    "Latitude": "41.6470166",
+    "Longitude": "-83.5354612",
+    "Address": "One Owens Corning Parkway Suite B-2",
+    "ZipCode": "43659",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 959,
+    "Latitude": "41.6107267",
+    "Longitude": "-83.5573356",
+    "Address": "513 Superior ",
+    "ZipCode": "43460",
+    "City": "Rossford",
+    "State": "Ohio"
+  },
+  {
+    "id": 962,
+    "Latitude": "41.6116243",
+    "Longitude": "-83.7013558",
+    "Address": "6711 Airport Highway ",
+    "ZipCode": "43528",
+    "City": "Holland",
+    "State": "Ohio"
+  },
+  {
+    "id": 964,
+    "Latitude": "41.6741937",
+    "Longitude": "-83.7050512",
+    "Address": "6755 Central Ave  ",
+    "ZipCode": "43617",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 967,
+    "Latitude": "41.9579609",
+    "Longitude": "-83.67560659999999",
+    "Address": "100 Powell Drive ",
+    "ZipCode": "48131",
+    "City": "Dundee",
+    "State": "Michigan"
+  },
+  {
+    "id": 968,
+    "Latitude": "41.9356145",
+    "Longitude": "-83.3886625",
+    "Address": "55 Cole Road ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 969,
+    "Latitude": "41.9169274",
+    "Longitude": "-83.4019308",
+    "Address": "219 W. Front Street ",
+    "ZipCode": "48161",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 971,
+    "Latitude": "41.92557",
+    "Longitude": "-83.3869108",
+    "Address": "730 N. Macomb Street ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 973,
+    "Latitude": "41.9274456",
+    "Longitude": "-83.38953880000001",
+    "Address": "901 N. Macomb Street. Ste. 102 ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 974,
+    "Latitude": "41.9301585",
+    "Longitude": "-83.3898025",
+    "Address": "1060 N. Monroe Street ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 977,
+    "Latitude": "41.991394",
+    "Longitude": "-83.28998159999999",
+    "Address": "7825 N. Dixie Highway ",
+    "ZipCode": "48166",
+    "City": "Newport",
+    "State": "Michigan"
+  },
+  {
+    "id": 983,
+    "Latitude": "41.1510983",
+    "Longitude": "-83.42307939999999",
+    "Address": "455 W. Fourth Street ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 984,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 987,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 989,
+    "Latitude": "41.690861",
+    "Longitude": "-83.63917499999999",
+    "Address": "4041 W. Sylvania Ave. Suite 100",
+    "ZipCode": "43623",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 991,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd. Jobst Tower Entrance",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 998,
+    "Latitude": "41.710221",
+    "Longitude": "-83.69157799999999",
+    "Address": "5300 Harroun Road Suite 118",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1008,
+    "Latitude": "41.3752928",
+    "Longitude": "-83.66701090000001",
+    "Address": "960 W. Wooster Suite 110",
+    "ZipCode": "43402",
+    "City": "Bowling Green",
+    "State": "Ohio"
+  },
+  {
+    "id": 1009,
+    "Latitude": "41.1144846",
+    "Longitude": "-83.201864",
+    "Address": "81 Ashwood Drive ",
+    "ZipCode": "44883",
+    "City": "Tiffin",
+    "State": "Ohio"
+  },
+  {
+    "id": 1013,
+    "Latitude": "41.3420817",
+    "Longitude": "-83.1453155",
+    "Address": "2281 Hayes Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1022,
+    "Latitude": "41.9255701",
+    "Longitude": "-83.3869107",
+    "Address": "730 N. Macomb St Suite 329",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1025,
+    "Latitude": "41.7114049",
+    "Longitude": "-83.6763172",
+    "Address": "5700 Monroe St. Suite 204",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1028,
+    "Latitude": "41.4707091",
+    "Longitude": "-83.29913359999999",
+    "Address": "3105 S. State Route 51 ",
+    "ZipCode": "43416",
+    "City": "Elmore",
+    "State": "Ohio"
+  },
+  {
+    "id": 1029,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 1030,
+    "Latitude": "41.6207872",
+    "Longitude": "-83.4799506",
+    "Address": "2801 Bay Park Drive ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1032,
+    "Latitude": "41.7093178",
+    "Longitude": "-83.6904552",
+    "Address": "5200 Harroun Road ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1033,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1035,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1036,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 N. Macomb St. ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1037,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd.  ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1038,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1041,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 N. Macomb Street ",
+    "ZipCode": null,
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1042,
+    "Latitude": "41.9377477",
+    "Longitude": "-83.39421209999999",
+    "Address": "650 Stewart Rd. ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1043,
+    "Latitude": "41.6748",
+    "Longitude": "-83.595376",
+    "Address": "2109 Hughes Dr. Suite 760",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1045,
+    "Latitude": "41.6214264",
+    "Longitude": "-83.4810246",
+    "Address": "2751 Bay Park Drive Suite 130",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1046,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 N. Macomb St. ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1047,
+    "Latitude": "41.5579697",
+    "Longitude": "-83.67706559999999",
+    "Address": "5705 Monclova Rd. Suite 205",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 1049,
+    "Latitude": "42.05578939999999",
+    "Longitude": "-83.37946869999999",
+    "Address": "111 Medical Center Drive ",
+    "ZipCode": "48117",
+    "City": "Carleton",
+    "State": "Michigan"
+  },
+  {
+    "id": 1050,
+    "Latitude": "41.8869676",
+    "Longitude": "-83.3926731",
+    "Address": "14930 LaPlaisance Rd. Suite 118",
+    "ZipCode": "48161",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1055,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "1252 Ralston Ave. Suite 401",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 1057,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 N. Macomb Street ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1058,
+    "Latitude": "41.7093178",
+    "Longitude": "-83.6904552",
+    "Address": "5200 Harroun Road ",
+    "ZipCode": "43260",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1059,
+    "Latitude": "41.6207872",
+    "Longitude": "-83.4799506",
+    "Address": "2801 Bay Park Drive ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1062,
+    "Latitude": "41.7093178",
+    "Longitude": "-83.6904552",
+    "Address": "5200 Harroun Road Suite 100",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1065,
+    "Latitude": "41.678478",
+    "Longitude": "-83.5945103",
+    "Address": "2100 W. Central Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1066,
+    "Latitude": "41.7112838",
+    "Longitude": "-83.6764257",
+    "Address": "5700 Monroe Street Suite 210",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1067,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. Located In Entrance 2",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1068,
+    "Latitude": "41.678298",
+    "Longitude": "-83.6203984",
+    "Address": "3144 W. Central Ave ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1069,
+    "Latitude": "41.3417112",
+    "Longitude": "-83.152923",
+    "Address": "2575 Hayes Ave. Ste. 2",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1070,
+    "Latitude": "41.6379181",
+    "Longitude": "-83.4540387",
+    "Address": "3929 Navarre Ave. ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1073,
+    "Latitude": "41.92557",
+    "Longitude": "-83.3869108",
+    "Address": "730 N. Macomb St. Suite 429-A",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1074,
+    "Latitude": "41.6214328",
+    "Longitude": "-83.48073189999999",
+    "Address": "2751 Bay Park Drive Suite 300",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1076,
+    "Latitude": "41.6802208",
+    "Longitude": "-83.59420440000001",
+    "Address": "2120 W. Central Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1077,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1079,
+    "Latitude": "41.916592",
+    "Longitude": "-83.3934194",
+    "Address": "214 E. Elm Ave. Suite 101",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1080,
+    "Latitude": "41.3118774",
+    "Longitude": "-82.98134709999999",
+    "Address": "455 W. McPherson Hwy.  Suite B",
+    "ZipCode": "43410",
+    "City": "Clyde",
+    "State": "Ohio"
+  },
+  {
+    "id": 1081,
+    "Latitude": "41.7114673",
+    "Longitude": "-83.6763764",
+    "Address": "5700 Monroe Street Suite 310",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1083,
+    "Latitude": "41.6576142",
+    "Longitude": "-83.5470978",
+    "Address": "1806 Madison Ave. 2nd Floor",
+    "ZipCode": "43604",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1086,
+    "Latitude": "41.6207872",
+    "Longitude": "-83.4799506",
+    "Address": "2801 Bay Park Dr ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1087,
+    "Latitude": "41.6787941",
+    "Longitude": "-83.5927002",
+    "Address": "1 ProMedica Parkway. Entrance B ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1089,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 1090,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1091,
+    "Latitude": "41.9913349",
+    "Longitude": "-83.28990349999999",
+    "Address": "7825 N. Dixie Hwy. Suite 101",
+    "ZipCode": "48166",
+    "City": "Newport",
+    "State": "Michigan"
+  },
+  {
+    "id": 1097,
+    "Latitude": "42.0010145",
+    "Longitude": "-83.9373341",
+    "Address": "501 E. Cummins ",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 1107,
+    "Latitude": null,
+    "Longitude": null,
+    "Address": " ",
+    "ZipCode": null,
+    "City": null,
+    "State": null
+  },
+  {
+    "id": 1108,
+    "Latitude": null,
+    "Longitude": null,
+    "Address": " ",
+    "ZipCode": null,
+    "City": null,
+    "State": null
+  },
+  {
+    "id": 1109,
+    "Latitude": null,
+    "Longitude": null,
+    "Address": " ",
+    "ZipCode": null,
+    "City": null,
+    "State": null
+  },
+  {
+    "id": 1110,
+    "Latitude": null,
+    "Longitude": null,
+    "Address": " ",
+    "ZipCode": null,
+    "City": null,
+    "State": null
+  },
+  {
+    "id": 1111,
+    "Latitude": null,
+    "Longitude": null,
+    "Address": " ",
+    "ZipCode": null,
+    "City": null,
+    "State": null
+  },
+  {
+    "id": 1112,
+    "Latitude": null,
+    "Longitude": null,
+    "Address": " ",
+    "ZipCode": null,
+    "City": null,
+    "State": null
+  },
+  {
+    "id": 1115,
+    "Latitude": null,
+    "Longitude": null,
+    "Address": " ",
+    "ZipCode": null,
+    "City": null,
+    "State": null
+  },
+  {
+    "id": 1124,
+    "Latitude": "41.5135338",
+    "Longitude": "-82.9102362",
+    "Address": "1854 E. Perry Street Suite 4",
+    "ZipCode": "43452",
+    "City": "Port Clinton",
+    "State": "Ohio"
+  },
+  {
+    "id": 1126,
+    "Latitude": "41.6832757",
+    "Longitude": "-83.6214986",
+    "Address": "3430 Secor Road ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1127,
+    "Latitude": "41.34138799999999",
+    "Longitude": "-83.14456390000001",
+    "Address": "2265 Hayes Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1129,
+    "Latitude": "41.7112838",
+    "Longitude": "-83.6764257",
+    "Address": "5700 Monroe St. Suite 202",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1130,
+    "Latitude": "41.53777669999999",
+    "Longitude": "-84.13167109999999",
+    "Address": "725 S. Shoop Ave. ",
+    "ZipCode": "43567",
+    "City": "Wauseon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1132,
+    "Latitude": "41.3391765",
+    "Longitude": "-83.1329846",
+    "Address": "710 Cleveland Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1133,
+    "Latitude": "41.0419946",
+    "Longitude": "-83.6276931",
+    "Address": "1100 E. Main Cross Suite 159",
+    "ZipCode": "45840",
+    "City": "Findlay",
+    "State": "Ohio"
+  },
+  {
+    "id": 1134,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 1135,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1136,
+    "Latitude": null,
+    "Longitude": null,
+    "Address": null,
+    "ZipCode": "43420",
+    "City": null,
+    "State": null
+  },
+  {
+    "id": 1137,
+    "Latitude": "41.678248",
+    "Longitude": "-83.59655719999999",
+    "Address": "2150 W. Central Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1147,
+    "Latitude": "41.9145786",
+    "Longitude": "-84.04879729999999",
+    "Address": "777 Kimole Lane Suite 230",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1148,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 N. Macomb St. ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1149,
+    "Latitude": "41.9382287",
+    "Longitude": "-84.98983919999999",
+    "Address": "274 East Chicago Street ",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1150,
+    "Latitude": "40.0696896",
+    "Longitude": "-82.40302149999999",
+    "Address": "380 John St. ",
+    "ZipCode": "43055",
+    "City": "Newark",
+    "State": "Ohio"
+  },
+  {
+    "id": 1151,
+    "Latitude": "40.0557152",
+    "Longitude": "-82.551602",
+    "Address": "2790 Columbus Rd. ",
+    "ZipCode": "43023",
+    "City": "Granville",
+    "State": "Ohio"
+  },
+  {
+    "id": 1152,
+    "Latitude": "41.6207872",
+    "Longitude": "-83.4799506",
+    "Address": "2801 Bay Park Drive Suite 130",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1153,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 1154,
+    "Latitude": "41.7093178",
+    "Longitude": "-83.6904552",
+    "Address": "5200 Harroun Road ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1155,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1156,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1157,
+    "Latitude": "41.9274456",
+    "Longitude": "-83.38953880000001",
+    "Address": "901 Macomb Street ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1158,
+    "Latitude": "41.6732086",
+    "Longitude": "-83.7012312",
+    "Address": "2940 N. McCord Road",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1159,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1165,
+    "Latitude": "41.59032879999999",
+    "Longitude": "-83.68198099999999",
+    "Address": "1724 Indian Wood Circle ",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 1166,
+    "Latitude": "41.9324865",
+    "Longitude": "-83.38872649999999",
+    "Address": "1180 N. Monroe St. ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1167,
+    "Latitude": "41.9919938",
+    "Longitude": "-83.9418012",
+    "Address": "200 E. Russel Rd. ",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 1176,
+    "Latitude": "41.6800973",
+    "Longitude": "-83.59575649999999",
+    "Address": "2130 W. Central Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1177,
+    "Latitude": "41.6800973",
+    "Longitude": "-83.59575649999999",
+    "Address": "2130 W. Central Ave. Suite 203",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1179,
+    "Latitude": "41.6800973",
+    "Longitude": "-83.59575649999999",
+    "Address": "2130 W. Central Ave. Suite 202",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1180,
+    "Latitude": "41.6800973",
+    "Longitude": "-83.59575649999999",
+    "Address": "2130 W. Central Ave. Suite 203",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1182,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "1252 Ralston Ave. Suite 401",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 1183,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "1252 Ralston Ave. Suite 402",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 1187,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 North Macomb St. Fifth Floor",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1188,
+    "Latitude": "40.0896456",
+    "Longitude": "-84.6358541",
+    "Address": "716 Sweitzer Street ",
+    "ZipCode": "45331",
+    "City": "Greenville",
+    "State": "Ohio"
+  },
+  {
+    "id": 1192,
+    "Latitude": "41.92557",
+    "Longitude": "-83.3869108",
+    "Address": "730 N. Macomb St. Suite 416",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1196,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 N. Macomb St. ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1197,
+    "Latitude": "41.5238143",
+    "Longitude": "-83.6397594",
+    "Address": "5180 Chappel Drive ",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 1198,
+    "Latitude": "41.6800973",
+    "Longitude": "-83.59575649999999",
+    "Address": "2130 W. Central Ave. Suite 105",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1199,
+    "Latitude": "41.91309709999999",
+    "Longitude": "-84.0478712",
+    "Address": "770 Riverside Ave. Suite 106",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1201,
+    "Latitude": "41.92557",
+    "Longitude": "-83.3869108",
+    "Address": "730 N. Macomb Street Suite 229",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1212,
+    "Latitude": "41.5664768",
+    "Longitude": "-83.65318630000002",
+    "Address": "217 Golden Gate Plaza ",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 1213,
+    "Latitude": "41.7130498",
+    "Longitude": "-83.6839555",
+    "Address": "5855 Monroe Street ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1214,
+    "Latitude": "41.9167948",
+    "Longitude": "-84.0465195",
+    "Address": "901 Kimole Lane Suite A-4",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1215,
+    "Latitude": "41.8546647",
+    "Longitude": "-84.3566285",
+    "Address": "331 W. Main St. ",
+    "ZipCode": "49247",
+    "City": "Hudson",
+    "State": "Michigan"
+  },
+  {
+    "id": 1216,
+    "Latitude": "41.9332258",
+    "Longitude": "-84.0037639",
+    "Address": "3245 N. Adrian Highway Suite A",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1218,
+    "Latitude": "41.5579822",
+    "Longitude": "-83.67959429999999",
+    "Address": "5805 Monclova Road ",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 1221,
+    "Latitude": "41.9363468",
+    "Longitude": "-84.9860776",
+    "Address": "370 E. Chicago St. Suite 200",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1223,
+    "Latitude": "42.05036459999999",
+    "Longitude": "-84.7582003",
+    "Address": "413 N. Chicago St. ",
+    "ZipCode": "49252",
+    "City": "Litchfield",
+    "State": "Michigan"
+  },
+  {
+    "id": 1224,
+    "Latitude": "41.8742726",
+    "Longitude": "-85.17851399999999",
+    "Address": "721 E. Chicago St. ",
+    "ZipCode": "49028",
+    "City": "Bronson",
+    "State": "Michigan"
+  },
+  {
+    "id": 1225,
+    "Latitude": "41.9382287",
+    "Longitude": "-84.98983919999999",
+    "Address": "274 East Chicago Street  ",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1227,
+    "Latitude": "41.52738799999999",
+    "Longitude": "-83.6448288",
+    "Address": "6175 Levis Commons Blvd. ",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 1230,
+    "Latitude": "41.1349722",
+    "Longitude": "-84.6016334",
+    "Address": "1035 W. Wayne St. ",
+    "ZipCode": "45879",
+    "City": "Paulding",
+    "State": "Ohio"
+  },
+  {
+    "id": 1231,
+    "Latitude": "41.7096481",
+    "Longitude": "-83.69118449999999",
+    "Address": "5308 Harroun Road Suite 175",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1232,
+    "Latitude": "41.98981209999999",
+    "Longitude": "-83.96409059999999",
+    "Address": "6869 S. Occidental Hwy. ",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 1233,
+    "Latitude": "41.9324865",
+    "Longitude": "-83.38872649999999",
+    "Address": "1180 N Monroe St ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1234,
+    "Latitude": "41.71006420000001",
+    "Longitude": "-83.6915971",
+    "Address": "5308 Harroun Road Ste. 180",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1235,
+    "Latitude": "41.1467828",
+    "Longitude": "-83.39794640000001",
+    "Address": "751 Columbus Ave. Suite A",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1236,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren Street Suite 010",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1237,
+    "Latitude": "41.7096481",
+    "Longitude": "-83.69118449999999",
+    "Address": "5308 Harroun Road Suite 175",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1238,
+    "Latitude": "41.7096481",
+    "Longitude": "-83.69118449999999",
+    "Address": "5308 Harroun Road Suite 175",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1244,
+    "Latitude": "41.5579697",
+    "Longitude": "-83.67706559999999",
+    "Address": "5705 Monclova Road Suite 205",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 1245,
+    "Latitude": "41.1629838",
+    "Longitude": "-83.4237603",
+    "Address": "501 Van Buren St. Suite 203 ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1246,
+    "Latitude": "41.5272206",
+    "Longitude": "-83.63612139999999",
+    "Address": "25950 N. Dixie Hwy. Suite 500",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 1249,
+    "Latitude": "41.5272206",
+    "Longitude": "-83.63612139999999",
+    "Address": "25950 N. Dixie Hwy. Suite 500",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 1252,
+    "Latitude": "41.936338",
+    "Longitude": "-84.9854124",
+    "Address": "370 E Chicago St.  Suite 300",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1253,
+    "Latitude": "41.9363304",
+    "Longitude": "-84.98577600000002",
+    "Address": "370 East Chicago St. Suite 400",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1254,
+    "Latitude": "41.9381876",
+    "Longitude": "-84.988011",
+    "Address": "320 E. Chicago St. ",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1266,
+    "Latitude": "41.9371841",
+    "Longitude": "-84.98715779999999",
+    "Address": "356 E. Chicago St ",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1275,
+    "Latitude": "41.52738799999999",
+    "Longitude": "-83.6448288",
+    "Address": "6175 Levis Commons Blvd. Suite 104",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 1276,
+    "Latitude": "41.92557",
+    "Longitude": "-83.3869108",
+    "Address": "730 N. Macomb St. Suite 200",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1277,
+    "Latitude": "41.9382287",
+    "Longitude": "-84.98983919999999",
+    "Address": "274 E. Chicago St. ",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1280,
+    "Latitude": "41.9920267",
+    "Longitude": "-83.94178719999999",
+    "Address": "200 E. Russell Rd. Suite C",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 1281,
+    "Latitude": "41.92557",
+    "Longitude": "-83.3869108",
+    "Address": "730 N. Macomb St. Suite 300",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1282,
+    "Latitude": "42.0005383",
+    "Longitude": "-83.9377769",
+    "Address": "502 E. Cummins St. ",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 1283,
+    "Latitude": "41.9302602",
+    "Longitude": "-83.3897499",
+    "Address": "1066 N. Monroe Street ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1284,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. 2nd floor",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1286,
+    "Latitude": "41.5094129",
+    "Longitude": "-83.7485446",
+    "Address": "1091 Pray Blvd. ",
+    "ZipCode": "43566",
+    "City": "Waterville",
+    "State": "Ohio"
+  },
+  {
+    "id": 1287,
+    "Latitude": "41.9145603",
+    "Longitude": "-84.048873",
+    "Address": "777 Kimole Lane Grace Christman Building | Suite 250",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1288,
+    "Latitude": "41.52738799999999",
+    "Longitude": "-83.6448288",
+    "Address": "6175 Levis Commons Blvd. Suite 104",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 1290,
+    "Latitude": "41.52738799999999",
+    "Longitude": "-83.6448288",
+    "Address": "6175 Levis Commons Blvd. Suite 104",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 1291,
+    "Latitude": "41.5135338",
+    "Longitude": "-82.9102362",
+    "Address": "1854 E. Perry St. ",
+    "ZipCode": "43452",
+    "City": "Port Clinton ",
+    "State": "Ohio"
+  },
+  {
+    "id": 1296,
+    "Latitude": "41.9382287",
+    "Longitude": "-84.98983919999999",
+    "Address": "274 E. Chicago St. ",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1297,
+    "Latitude": "41.5271622",
+    "Longitude": "-83.6360899",
+    "Address": "25950 N. Dixie Highway Suite 400",
+    "ZipCode": "43551",
+    "City": "Perrysburg",
+    "State": "Ohio"
+  },
+  {
+    "id": 1298,
+    "Latitude": "41.6735645",
+    "Longitude": "-83.67225759999999",
+    "Address": "2865 N. Reynolds Road Suite 170",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1301,
+    "Latitude": "41.7105413",
+    "Longitude": "-83.6777771",
+    "Address": "5700 Monroe St. Suite 114",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1302,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1304,
+    "Latitude": "41.92557",
+    "Longitude": "-83.3869108",
+    "Address": "730 N. Macomb St.  Suite 415",
+    "ZipCode": "48162",
+    "City": "Monroe ",
+    "State": "Michigan"
+  },
+  {
+    "id": 1306,
+    "Latitude": "41.7103358",
+    "Longitude": "-83.6943191",
+    "Address": "5308 Harroun Rd. Suite 285",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1307,
+    "Latitude": "41.6908811",
+    "Longitude": "-83.63908259999999",
+    "Address": "4041 W. Sylvania Ave. Suite 204",
+    "ZipCode": "43623",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1308,
+    "Latitude": "41.5058272",
+    "Longitude": "-82.932368",
+    "Address": "615 Fulton St. Suite 300",
+    "ZipCode": "43452",
+    "City": "Port Clinton",
+    "State": "Ohio"
+  },
+  {
+    "id": 1309,
+    "Latitude": "41.340326",
+    "Longitude": "-83.1372157",
+    "Address": "605 3rd Avenue Suite E",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1310,
+    "Latitude": "41.1629728",
+    "Longitude": "-83.4237529",
+    "Address": "501 Van Buren St. Suite 202",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1311,
+    "Latitude": "41.6207872",
+    "Longitude": "-83.4799506",
+    "Address": "2801 Bay Park Dr. ",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1312,
+    "Latitude": "41.2986899",
+    "Longitude": "-84.3767112",
+    "Address": "1200 Ralston Ave. ",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 1314,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1315,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 N. Macomb Street ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1316,
+    "Latitude": "41.6787941",
+    "Longitude": "-83.5927002",
+    "Address": "1 ProMedica Parkway ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1317,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "ProMedica Toledo Hospital 2142 N. Cove Blvd",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1318,
+    "Latitude": "41.9382287",
+    "Longitude": "-84.98983919999999",
+    "Address": "274 East Chicago Street ",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1319,
+    "Latitude": "41.9382287",
+    "Longitude": "-84.98983919999999",
+    "Address": "274 East Chicago Street ",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1320,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. 3rd Floor",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1322,
+    "Latitude": "41.9381876",
+    "Longitude": "-84.988011",
+    "Address": "320 East Chicago St. ",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1323,
+    "Latitude": "41.5579697",
+    "Longitude": "-83.67706559999999",
+    "Address": "5705 Monclova Rd. Suite 201",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 1325,
+    "Latitude": "41.711526",
+    "Longitude": "-83.67620869999999",
+    "Address": "5700 Monroe Street Suite 204 A",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1326,
+    "Latitude": "41.96554400000001",
+    "Longitude": "-84.007532",
+    "Address": "5640 N. Adrian Highway ",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1327,
+    "Latitude": "41.3417112",
+    "Longitude": "-83.152923",
+    "Address": "2575 Hayes Ave. Suite 1",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1328,
+    "Latitude": "41.67425859999999",
+    "Longitude": "-83.72645109999999",
+    "Address": "7634 W. Central Ave. ",
+    "ZipCode": "43617",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1329,
+    "Latitude": "41.6343214",
+    "Longitude": "-83.4724078",
+    "Address": "3156 Dustin Rd. Suite 300",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1330,
+    "Latitude": "41.1098043",
+    "Longitude": "-83.2177731",
+    "Address": "2495 W. Market St. ",
+    "ZipCode": "44883",
+    "City": "Tiffin",
+    "State": "Ohio"
+  },
+  {
+    "id": 1336,
+    "Latitude": "41.936338",
+    "Longitude": "-84.9854124",
+    "Address": "370 E. Chicago St. Suite 100",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1337,
+    "Latitude": "41.7077239",
+    "Longitude": "-83.695314",
+    "Address": "5150 Harroun Road ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1338,
+    "Latitude": "41.97039540000001",
+    "Longitude": "-84.00662059999999",
+    "Address": "1201 Shepherd Rd. ",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 1340,
+    "Latitude": "41.9682816",
+    "Longitude": "-83.9647935",
+    "Address": "5433 S. Occidental Hwy ",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 1341,
+    "Latitude": "41.3932055",
+    "Longitude": "-84.15002659999999",
+    "Address": "1000 Westmoreland Ave. Ste. D",
+    "ZipCode": "43545",
+    "City": "Napoleon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1343,
+    "Latitude": "41.9431583",
+    "Longitude": "-85.01612730000001",
+    "Address": "374 W. Chicago St. ",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1345,
+    "Latitude": "41.6331357",
+    "Longitude": "-83.4826916",
+    "Address": "1050 Isaac Streets Drive Suite 108",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1346,
+    "Latitude": "41.6337214",
+    "Longitude": "-83.48294129999999",
+    "Address": "1050 Isaac Streets Drive Suite 112",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1347,
+    "Latitude": "41.5581149",
+    "Longitude": "-83.6784727",
+    "Address": "5757 Monclova Road Suite 6",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 1348,
+    "Latitude": "41.9255701",
+    "Longitude": "-83.3869107",
+    "Address": "730 N. Macomb Street Suite 320",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1349,
+    "Latitude": "41.5581149",
+    "Longitude": "-83.6784727",
+    "Address": "5757 Monclova Road Suite 6",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 1350,
+    "Latitude": "41.9255701",
+    "Longitude": "-83.3869107",
+    "Address": "730 N. Macomb Street Suite 320",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1357,
+    "Latitude": "41.6214328",
+    "Longitude": "-83.48073189999999",
+    "Address": "2751 Bay Park Drive Suite 302",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1358,
+    "Latitude": "41.9369013",
+    "Longitude": "-84.9874245",
+    "Address": "360 E. Chicago St. Suite 106",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1359,
+    "Latitude": "41.9247312",
+    "Longitude": "-83.3880332",
+    "Address": "ProMedica Monroe Regional Hospital 730 N. Macomb St. Suite 225",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1360,
+    "Latitude": "41.9369013",
+    "Longitude": "-84.9874245",
+    "Address": "360 E. Chicago St. Suite 111",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1361,
+    "Latitude": "41.9369013",
+    "Longitude": "-84.9874245",
+    "Address": "360 E. Chicago St. Suite 111",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1365,
+    "Latitude": "41.9380369",
+    "Longitude": "-84.98704169999999",
+    "Address": "358 East Chicago St. Suite 203",
+    "ZipCode": "49036",
+    "City": "Coldwater",
+    "State": "Michigan"
+  },
+  {
+    "id": 1366,
+    "Latitude": "41.711526",
+    "Longitude": "-83.67620869999999",
+    "Address": "5700 Monroe St. Suite 100",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1367,
+    "Latitude": "41.96554400000001",
+    "Longitude": "-84.007532",
+    "Address": "ProMedica Charles and Virginia Hickman Hospital 5640 N. Adrian Hwy.",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1369,
+    "Latitude": "41.6772973",
+    "Longitude": "-83.7147171",
+    "Address": "3330 Meijer Drive Suite 1",
+    "ZipCode": "43617",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1370,
+    "Latitude": "41.3758959",
+    "Longitude": "-83.66694799999999",
+    "Address": "970 W. Wooster Street Suite 221",
+    "ZipCode": "43402",
+    "City": "Bowling Green",
+    "State": "Ohio"
+  },
+  {
+    "id": 1371,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "ProMedica Memorial Hospital 715 Taft Avenue - Suites 3B-1 and 3B-2",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1374,
+    "Latitude": "41.9145527",
+    "Longitude": "-84.04884199999999",
+    "Address": "777 Kimole Ln. Suite 100",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1376,
+    "Latitude": "41.9274456",
+    "Longitude": "-83.38953880000001",
+    "Address": "901 N. Macomb St. Suite 110",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1377,
+    "Latitude": "41.6214264",
+    "Longitude": "-83.4810246",
+    "Address": "2751 Bay Park Dr. Suite 130",
+    "ZipCode": "43616",
+    "City": "Oregon",
+    "State": "Ohio"
+  },
+  {
+    "id": 1378,
+    "Latitude": "41.1628266",
+    "Longitude": "-83.4242445",
+    "Address": "501 Van Buren St. ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1379,
+    "Latitude": "41.2998958",
+    "Longitude": "-84.37445699999999",
+    "Address": "1252 Ralston Ave. Suite 401",
+    "ZipCode": "43512",
+    "City": "Defiance",
+    "State": "Ohio"
+  },
+  {
+    "id": 1380,
+    "Latitude": "41.3395073",
+    "Longitude": "-83.1349326",
+    "Address": "715 S. Taft Ave. ",
+    "ZipCode": "43420",
+    "City": "Fremont",
+    "State": "Ohio"
+  },
+  {
+    "id": 1381,
+    "Latitude": "41.1637194",
+    "Longitude": "-83.4239599",
+    "Address": "506 Van Buren St. On the campus of ProMedica Fostoria Community Hospital",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1382,
+    "Latitude": "41.9682816",
+    "Longitude": "-83.9647935",
+    "Address": "5433 S. Occidental Hwy Suite C",
+    "ZipCode": "49286",
+    "City": "Tecumseh",
+    "State": "Michigan"
+  },
+  {
+    "id": 1384,
+    "Latitude": "41.9145694",
+    "Longitude": "-84.0488352",
+    "Address": "777 Kimole Lane Suite 250",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1387,
+    "Latitude": "41.96554400000001",
+    "Longitude": "-84.007532",
+    "Address": "5640 N Adrian Highway Suite N1015",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1391,
+    "Latitude": "41.96554400000001",
+    "Longitude": "-84.007532",
+    "Address": "5640 N. Adrian Hwy ",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1392,
+    "Latitude": "41.96554400000001",
+    "Longitude": "-84.007532",
+    "Address": "5640 N. Adrian Hwy. ",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1393,
+    "Latitude": "41.5607599",
+    "Longitude": "-83.6703298",
+    "Address": "1075 Medical Center Parkway ",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 1394,
+    "Latitude": "41.652393",
+    "Longitude": "-83.53651429999999",
+    "Address": "100 Madison Ave. ",
+    "ZipCode": "43604",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1395,
+    "Latitude": null,
+    "Longitude": null,
+    "Address": " ",
+    "ZipCode": null,
+    "City": null,
+    "State": null
+  },
+  {
+    "id": 1396,
+    "Latitude": "41.678248",
+    "Longitude": "-83.59655719999999",
+    "Address": "2150 W. Central Ave. ",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1397,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "2142 N. Cove Blvd. ProMedica Russell J. Ebeid Childrens Hospital. Renaissance Building. 4th Floor",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1398,
+    "Latitude": "41.92557",
+    "Longitude": "-83.3869108",
+    "Address": "730 N. Macomb St. Suite 229",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1399,
+    "Latitude": "41.6730403",
+    "Longitude": "-83.5949906",
+    "Address": "ProMedica Toledo Hospital - McIntosh Tower 2121 Hughes Drive. Suite 710",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1401,
+    "Latitude": "41.5664768",
+    "Longitude": "-83.65318630000002",
+    "Address": "217 Golden Gate Plaza ",
+    "ZipCode": "43537",
+    "City": "Maumee",
+    "State": "Ohio"
+  },
+  {
+    "id": 1402,
+    "Latitude": "41.7093178",
+    "Longitude": "-83.6904552",
+    "Address": "5200 Harroun Road ",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1403,
+    "Latitude": "41.9255529",
+    "Longitude": "-83.3887474",
+    "Address": "718 N. Macomb Street ",
+    "ZipCode": null,
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1404,
+    "Latitude": "41.9305161",
+    "Longitude": "-83.3896505",
+    "Address": "1086 N. Monroe Street ",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1405,
+    "Latitude": "41.92557",
+    "Longitude": "-83.3869108",
+    "Address": "730 N. Macomb Street Suite 305",
+    "ZipCode": "48162",
+    "City": "Monroe",
+    "State": "Michigan"
+  },
+  {
+    "id": 1407,
+    "Latitude": "41.6735368",
+    "Longitude": "-83.67190939999999",
+    "Address": "2865 S. Reynolds Rd. Suite 130",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1408,
+    "Latitude": "41.673718",
+    "Longitude": "-83.6722075",
+    "Address": "2865 N. Reynolds Road Suite 230",
+    "ZipCode": "43615",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1410,
+    "Latitude": "41.711526",
+    "Longitude": "-83.67620869999999",
+    "Address": "5700 Monroe Street Suite 111-A",
+    "ZipCode": "43560",
+    "City": "Sylvania",
+    "State": "Ohio"
+  },
+  {
+    "id": 1411,
+    "Latitude": "41.9145786",
+    "Longitude": "-84.04879729999999",
+    "Address": "777 Kimole Lane Suite 230",
+    "ZipCode": "49221",
+    "City": "Adrian",
+    "State": "Michigan"
+  },
+  {
+    "id": 1412,
+    "Latitude": "41.1629728",
+    "Longitude": "-83.4237529",
+    "Address": "501 Van Buren St. | Suite 202 ",
+    "ZipCode": "44830",
+    "City": "Fostoria",
+    "State": "Ohio"
+  },
+  {
+    "id": 1413,
+    "Latitude": "41.6214264",
+    "Longitude": "-83.4810246",
+    "Address": "2751 Bay Park Drive. Suite 303 ",
+    "ZipCode": "43616",
+    "City": null,
+    "State": "Oregon"
+  },
+  {
+    "id": 1415,
+    "Latitude": "41.6802208",
+    "Longitude": "-83.59420440000001",
+    "Address": "2120 W. Central Ave. Suite D.",
+    "ZipCode": "43606",
+    "City": "Toledo",
+    "State": "Ohio"
+  },
+  {
+    "id": 1418,
+    "Latitude": "41.3118774",
+    "Longitude": "-82.98134709999999",
+    "Address": "455 W. McPherson Highway ",
+    "ZipCode": "43410",
+    "City": "Clyde",
+    "State": "Ohio"
+  }
+]
