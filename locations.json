@@ -6,7 +6,8 @@
     "Address": "2801 Bay Park Drive ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-bay-park-hospital"
   },
   {
     "id": 18,
@@ -15,7 +16,8 @@
     "Address": null,
     "ZipCode": "43560",
     "City": null,
-    "State": null
+    "State": null,
+    "DirectURL": "promedica-flower-hospital"
   },
   {
     "id": 19,
@@ -24,7 +26,8 @@
     "Address": "501 Van Buren St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-fostoria-community-hospital"
   },
   {
     "id": 21,
@@ -33,7 +36,8 @@
     "Address": "1001 Bellefontaine Ave. ",
     "ZipCode": "45804",
     "City": "Lima",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "lima-memorial-health-system"
   },
   {
     "id": 22,
@@ -42,7 +46,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-memorial-hospital"
   },
   {
     "id": 23,
@@ -51,7 +56,8 @@
     "Address": "718 N. Macomb St. ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-regional-hospital"
   },
   {
     "id": 27,
@@ -60,7 +66,8 @@
     "Address": "2901 N. Reynolds Road ",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-wildwood-orthopaedic-and-spine-hospital"
   },
   {
     "id": 38,
@@ -69,7 +76,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-defiance-regional-hospital"
   },
   {
     "id": 40,
@@ -78,7 +86,8 @@
     "Address": "1 ProMedica Parkway ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-toledo-hospital"
   },
   {
     "id": 41,
@@ -87,7 +96,8 @@
     "Address": "2142 N. Cove Blvd. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-russell-j-ebeid-children-s-hospital"
   },
   {
     "id": 44,
@@ -96,7 +106,8 @@
     "Address": "5308 Harroun Road Suite 160",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-breast-surgery-1"
   },
   {
     "id": 46,
@@ -105,7 +116,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-memorial-hospital-women-s-diagnostic-center"
   },
   {
     "id": 47,
@@ -114,7 +126,8 @@
     "Address": "455 W. Fourth St. Suite 100",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-family-medicine-fostoria"
   },
   {
     "id": 48,
@@ -123,7 +136,8 @@
     "Address": "901 Kimole Lane Suite A-1",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-adrian"
   },
   {
     "id": 50,
@@ -132,7 +146,8 @@
     "Address": "5449 S. Occidental Hwy. ",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-tecumseh"
   },
   {
     "id": 52,
@@ -141,7 +156,8 @@
     "Address": "2109 Hughes Drive Suite 720",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-cardiothoracic-surgeons"
   },
   {
     "id": 53,
@@ -150,7 +166,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "coping-center-defiance-regional-hospital"
   },
   {
     "id": 54,
@@ -159,7 +176,8 @@
     "Address": "2100 W. Central Ave. Suite 100A",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-endocrinology-1"
   },
   {
     "id": 60,
@@ -168,7 +186,8 @@
     "Address": "2121 Hughes Drive Suite 310",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-orthopaedics-l-trauma-and-adult-reconstruction"
   },
   {
     "id": 62,
@@ -177,7 +196,8 @@
     "Address": "2105 Lawrence Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-russell-j-ebeid-children-s-hospital-finnegan-family-autism-center"
   },
   {
     "id": 63,
@@ -186,7 +206,8 @@
     "Address": "710 Cleveland Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-360health-fremont"
   },
   {
     "id": 66,
@@ -195,7 +216,8 @@
     "Address": "781 Lakeshire Trail ",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-internal-medicine-l-family-medicine"
   },
   {
     "id": 67,
@@ -204,7 +226,8 @@
     "Address": "777 Kimole Lane Grace Christman Building. Suite 140",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-mcclure-cardiology"
   },
   {
     "id": 69,
@@ -213,7 +236,8 @@
     "Address": "2109 Hughes Drive Suite 450",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-toledo"
   },
   {
     "id": 72,
@@ -222,7 +246,8 @@
     "Address": "2100 W. Central Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "mary-ellen-falzone-diabetes-center"
   },
   {
     "id": 73,
@@ -231,7 +256,8 @@
     "Address": "2142 N. Cove Blvd. 1st Floor",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "maternal-fetal-medicine-at-promedica-toledo-hospital"
   },
   {
     "id": 75,
@@ -240,7 +266,8 @@
     "Address": "770 Riverside Ave. Suite 105",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-orthopaedic-surgery-adrian"
   },
   {
     "id": 76,
@@ -249,7 +276,8 @@
     "Address": "455 W. 4th Street Suite 20",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-fostoria"
   },
   {
     "id": 78,
@@ -258,7 +286,8 @@
     "Address": "2142 N. Cove Blvd Suite 640",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-critical-care"
   },
   {
     "id": 83,
@@ -267,7 +296,8 @@
     "Address": "5520 Monroe St. ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-at-home"
   },
   {
     "id": 84,
@@ -276,7 +306,8 @@
     "Address": "2801 Bay Park Drive ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-bay-park-hospital-laboratory"
   },
   {
     "id": 86,
@@ -285,7 +316,8 @@
     "Address": "2801 Bay Park Drive ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-bay-park-hospital-radiology"
   },
   {
     "id": 88,
@@ -294,7 +326,8 @@
     "Address": "2801 Bay Park Drive ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-bay-park-hospital-women-s-center"
   },
   {
     "id": 93,
@@ -303,7 +336,8 @@
     "Address": "331 W. Main St. ",
     "ZipCode": "49221",
     "City": "Hudson",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-radiology-2"
   },
   {
     "id": 97,
@@ -312,7 +346,8 @@
     "Address": "2121 Hughes Drive 1st Floor",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-breast-care"
   },
   {
     "id": 99,
@@ -321,7 +356,8 @@
     "Address": "1252 Ralston Ave. Suite 301 ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-defiance-regional-hospital-cardiac-rehab"
   },
   {
     "id": 100,
@@ -330,7 +366,8 @@
     "Address": "501 Van Buren St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-fostoria-community-hospital-cardiac-rehab"
   },
   {
     "id": 101,
@@ -339,7 +376,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-memorial-hospital-cardiac-rehab-fremont"
   },
   {
     "id": 103,
@@ -348,7 +386,8 @@
     "Address": "5200 Harroun Road ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-flower-hospital-cardiac-rehab-sylvania"
   },
   {
     "id": 104,
@@ -357,7 +396,8 @@
     "Address": "1250 Ralston Ave. Suite 105",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-psychiatric-services"
   },
   {
     "id": 106,
@@ -366,7 +406,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-defiance-regional-hospital-laboratory"
   },
   {
     "id": 110,
@@ -375,7 +416,8 @@
     "Address": "5308 Harroun Road Suite 0050",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-flower-hospital-laboratory"
   },
   {
     "id": 111,
@@ -384,7 +426,8 @@
     "Address": "5300 Harroun Road Suite 304",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-family-medicine-flower"
   },
   {
     "id": 113,
@@ -393,7 +436,8 @@
     "Address": "2120 W. Central Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-genito-urinary-surgeons-toledo"
   },
   {
     "id": 114,
@@ -402,7 +446,8 @@
     "Address": "121 Westfield Drive ",
     "ZipCode": "43502",
     "City": "Archbold",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-genito-urinary-surgeons-archbold"
   },
   {
     "id": 116,
@@ -411,7 +456,8 @@
     "Address": "501 Van Buren St. Suite 203",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-genito-urinary-surgeons-fostoria"
   },
   {
     "id": 117,
@@ -420,7 +466,8 @@
     "Address": "605 Third Ave. Suite B",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-genito-urinary-surgeons-fremont"
   },
   {
     "id": 118,
@@ -429,7 +476,8 @@
     "Address": "5757 Monclova Road Suite 6",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-genito-urinary-surgeons-maumee"
   },
   {
     "id": 119,
@@ -438,7 +486,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "nu-el-a-lifetime-boutique"
   },
   {
     "id": 121,
@@ -447,7 +496,8 @@
     "Address": "2109 Hughes Drive Jobst Tower. 1st Floor",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-heart-failure-clinic-toledo"
   },
   {
     "id": 133,
@@ -456,7 +506,8 @@
     "Address": "5855 Monroe St. Suite 201",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-hospice-sylvania"
   },
   {
     "id": 134,
@@ -465,7 +516,8 @@
     "Address": "501 Van Buren St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "jobst-medication-therapy-management-fostoria"
   },
   {
     "id": 135,
@@ -474,7 +526,8 @@
     "Address": "2109 Hughes Drive Suite 550",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "jobst-medication-therapy-management-toledo"
   },
   {
     "id": 137,
@@ -483,7 +536,8 @@
     "Address": "157 W. Brooke Lane ",
     "ZipCode": "49228",
     "City": "Blissfield",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-blissfield"
   },
   {
     "id": 138,
@@ -492,7 +546,8 @@
     "Address": "400 N. Main St. ",
     "ZipCode": "49265",
     "City": "Onsted",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-onsted"
   },
   {
     "id": 139,
@@ -501,7 +556,8 @@
     "Address": "3245 N. Adrian Highway ",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-adrian"
   },
   {
     "id": 140,
@@ -510,7 +566,8 @@
     "Address": "7300 Secor Road Ste. 6",
     "ZipCode": "48144",
     "City": "Lambertville",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-lambertville"
   },
   {
     "id": 141,
@@ -519,7 +576,8 @@
     "Address": "660 Beaver Creek Circle Suite 120",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-arrowhead"
   },
   {
     "id": 142,
@@ -528,7 +586,8 @@
     "Address": "2150 W. Central Ave. Room H",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-center-for-health-services"
   },
   {
     "id": 147,
@@ -537,7 +596,8 @@
     "Address": "3020 N. McCord Road Suite 101",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-mccord-road"
   },
   {
     "id": 149,
@@ -546,7 +606,8 @@
     "Address": "3101 W. US Route 224 ",
     "ZipCode": "44883",
     "City": "Tiffin",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-tiffin"
   },
   {
     "id": 151,
@@ -555,7 +616,8 @@
     "Address": "1601 Brigham Drive Suite 180",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-levis-commons"
   },
   {
     "id": 152,
@@ -564,7 +626,8 @@
     "Address": "4805 Suder Ave. ",
     "ZipCode": "43611",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-point-place"
   },
   {
     "id": 153,
@@ -573,7 +636,8 @@
     "Address": "3156 Dustin Road Suite 102",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-oregon"
   },
   {
     "id": 155,
@@ -582,7 +646,8 @@
     "Address": "22 Turtle Creek Circle ",
     "ZipCode": "43558",
     "City": "Swanton",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-swanton"
   },
   {
     "id": 160,
@@ -591,7 +656,8 @@
     "Address": "1215 Grassy Lane ",
     "ZipCode": "43460",
     "City": "Rossford",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-rossford"
   },
   {
     "id": 164,
@@ -600,7 +666,8 @@
     "Address": "331 W. Main St. ",
     "ZipCode": "49247",
     "City": "Hudson",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-hudson"
   },
   {
     "id": 167,
@@ -609,7 +676,8 @@
     "Address": "901 Kimole Lane ",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-wolf-creek"
   },
   {
     "id": 169,
@@ -618,7 +686,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-memorial-hospital-laboratory"
   },
   {
     "id": 170,
@@ -627,7 +696,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-memorial-hospital-radiology"
   },
   {
     "id": 178,
@@ -636,7 +706,8 @@
     "Address": "2150 W. Central Ave 3rd fl.",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-360health-toledo"
   },
   {
     "id": 179,
@@ -645,7 +716,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pain-management-defiance"
   },
   {
     "id": 181,
@@ -654,7 +726,8 @@
     "Address": "ProMedica Fostoria Community Hospita 501 Van Buren St.",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pain-management-fostoria"
   },
   {
     "id": 182,
@@ -663,7 +736,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pain-management-fremont"
   },
   {
     "id": 184,
@@ -672,7 +746,8 @@
     "Address": "2751 Bay Park Drive Suite 201",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-assenmacher-orthopaedics-oregon"
   },
   {
     "id": 185,
@@ -681,7 +756,8 @@
     "Address": "2865 N. Reynolds Road Suite 150",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-assenmacher-orthopaedics-wildwood"
   },
   {
     "id": 186,
@@ -690,7 +766,8 @@
     "Address": "2865 N. Reynolds Road Suite 160",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-beer-orthopaedics"
   },
   {
     "id": 187,
@@ -699,7 +776,8 @@
     "Address": "1601 Brigham Drive Suite 120",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-karamali-and-cassavar-cardiology-perrysburg"
   },
   {
     "id": 188,
@@ -708,7 +786,8 @@
     "Address": "1252 Ralston Ave. Suite 304",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-karamali-and-cassavar-cardiology-defiance"
   },
   {
     "id": 189,
@@ -717,7 +796,8 @@
     "Address": "2150 W. Central Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-adult-medicine"
   },
   {
     "id": 190,
@@ -726,7 +806,8 @@
     "Address": "1601 Brigham Drive Suite 150",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-adult-neurology"
   },
   {
     "id": 193,
@@ -735,7 +816,8 @@
     "Address": "3909 Woodley Road Suite 100",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-alexis-medical-center"
   },
   {
     "id": 194,
@@ -744,7 +826,8 @@
     "Address": "660 Beaver Creek Circle Suite 110",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-arrowhead-family-practice"
   },
   {
     "id": 195,
@@ -753,7 +836,8 @@
     "Address": "660 Beaver Creek Circle Suite 100",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-arrowhead-pediatrics"
   },
   {
     "id": 197,
@@ -762,7 +846,8 @@
     "Address": "725 S. Shoop Ave. ",
     "ZipCode": "43567",
     "City": "Wauseon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-general-surgery-bariatrics-wauseon"
   },
   {
     "id": 198,
@@ -771,7 +856,8 @@
     "Address": "2751 Bay Park Drive Suite 204",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-bay-park-family-practice"
   },
   {
     "id": 199,
@@ -780,7 +866,8 @@
     "Address": "3175 Smith Road ",
     "ZipCode": "48144",
     "City": "Lambertville",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-family-medicine-lambertville"
   },
   {
     "id": 200,
@@ -789,7 +876,8 @@
     "Address": "2940 N. McCord Road ",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-cardiology-toledo"
   },
   {
     "id": 201,
@@ -798,7 +886,8 @@
     "Address": "5705 Monclova Road Suite 202",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-cardiology-maumee"
   },
   {
     "id": 202,
@@ -807,7 +896,8 @@
     "Address": "ProMedica Charles and Virginia Hickman Hospital 5640 N. Adrian Hwy. Suite A",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-cardiology-adrian"
   },
   {
     "id": 203,
@@ -816,7 +906,8 @@
     "Address": "1037 Conneaut St. Suite 202",
     "ZipCode": "43402",
     "City": "Bowling Green",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-cardiology-bowling-green"
   },
   {
     "id": 204,
@@ -825,7 +916,8 @@
     "Address": "Specialty Clinic 501 Van Buren St.",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-cardiology-fostoria"
   },
   {
     "id": 205,
@@ -834,7 +926,8 @@
     "Address": "715 S. Taft Ave. Suite 1",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-cardiology-fremont"
   },
   {
     "id": 208,
@@ -843,7 +936,8 @@
     "Address": "1600 E. Riverview Ave. ",
     "ZipCode": "43545",
     "City": "Napoleon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-cardiology-napoleon"
   },
   {
     "id": 210,
@@ -852,7 +946,8 @@
     "Address": "2751 Bay Park Drive Suite 305",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-cardiology-bay-park"
   },
   {
     "id": 211,
@@ -861,7 +956,8 @@
     "Address": "615 Fulton St. ",
     "ZipCode": "43452",
     "City": "Port Clinton",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-cardiology-port-clinton"
   },
   {
     "id": 213,
@@ -870,7 +966,8 @@
     "Address": "734 S. Shoop Ave. Suite B",
     "ZipCode": "43567",
     "City": "Wauseon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-cardiology-wauseon"
   },
   {
     "id": 214,
@@ -879,7 +976,8 @@
     "Address": "777 Kimole Lane Grace Christman Building. Suite 220",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-silverman-cardiology"
   },
   {
     "id": 218,
@@ -888,7 +986,8 @@
     "Address": "1250 Ralston Ave. Suite 202",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-defiance-internal-medicine"
   },
   {
     "id": 219,
@@ -897,7 +996,8 @@
     "Address": "1252 Ralston Ave. Suite 302",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-defiance-orthopaedic-center"
   },
   {
     "id": 220,
@@ -906,7 +1006,8 @@
     "Address": "1252 Ralston Ave. Suite 400",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-defiance-regional-ophthalmology"
   },
   {
     "id": 222,
@@ -915,7 +1016,8 @@
     "Address": "5700 Monroe Street Suite 310",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-ear-nose-and-throat-sylvania"
   },
   {
     "id": 225,
@@ -924,7 +1026,8 @@
     "Address": "1601 Brigham Drive Suite 250",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-ear-nose-and-throat-perrysburg"
   },
   {
     "id": 226,
@@ -933,7 +1036,8 @@
     "Address": "777 Kimole Lane Suite 240",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-ear-nose-and-throat-adrian"
   },
   {
     "id": 227,
@@ -942,7 +1046,8 @@
     "Address": "200 E. Russell Road Suite C",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-ear-nose-and-throat-tecumseh"
   },
   {
     "id": 229,
@@ -951,7 +1056,8 @@
     "Address": "1252 Ralston Ave. MOB 2. Suite 402",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-ear-nose-and-throat-defiance"
   },
   {
     "id": 231,
@@ -960,7 +1066,8 @@
     "Address": "1180 N. Monroe St. ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-eye-care-monroe"
   },
   {
     "id": 234,
@@ -969,7 +1076,8 @@
     "Address": "5700 Monroe St. Suite 211",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-eye-care-sylvania"
   },
   {
     "id": 237,
@@ -978,7 +1086,8 @@
     "Address": "605 Third Ave. Suite D",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-family-medicine-fremont-1"
   },
   {
     "id": 238,
@@ -987,7 +1096,8 @@
     "Address": "1250 Ralston Ave. Suite 104",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-defiance-family-medicine"
   },
   {
     "id": 240,
@@ -996,7 +1106,8 @@
     "Address": "1990 County Road U ",
     "ZipCode": "43540",
     "City": "Metamora",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-family-medicine-metamora"
   },
   {
     "id": 241,
@@ -1005,7 +1116,8 @@
     "Address": "5700 Monroe Street Suite 206",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-family-practice-of-toledo"
   },
   {
     "id": 242,
@@ -1014,7 +1126,8 @@
     "Address": "1250 Ralston Ave. Suite 204",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-general-surgery-defiance"
   },
   {
     "id": 245,
@@ -1023,7 +1136,8 @@
     "Address": "1215 Grassy Lane ",
     "ZipCode": "43460",
     "City": "Rossford",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-family-medicine-rossford"
   },
   {
     "id": 246,
@@ -1032,7 +1146,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-infectious-disease-and-pediatrics"
   },
   {
     "id": 247,
@@ -1041,7 +1156,8 @@
     "Address": "660 Beaver Creek Circle Suite 200",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-maumee"
   },
   {
     "id": 248,
@@ -1050,7 +1166,8 @@
     "Address": "2130 W. Central Ave. Suites 101; 102; 103",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurology-toledo"
   },
   {
     "id": 250,
@@ -1059,7 +1176,8 @@
     "Address": "1922 Glen Springs Drive ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-fremont"
   },
   {
     "id": 251,
@@ -1068,7 +1186,8 @@
     "Address": "1854 E. Perry St. ",
     "ZipCode": "43452",
     "City": "Port Clinton",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-port-clinton"
   },
   {
     "id": 253,
@@ -1077,7 +1196,8 @@
     "Address": "1250 Ralston Ave. Suite 205",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-defiance"
   },
   {
     "id": 254,
@@ -1086,7 +1206,8 @@
     "Address": "5308 Harroun Road Suite 150",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-i-gynecology-sylvania"
   },
   {
     "id": 255,
@@ -1095,7 +1216,8 @@
     "Address": "1601 Brigham Drive Suite 250A",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-perrysburg"
   },
   {
     "id": 256,
@@ -1104,7 +1226,8 @@
     "Address": "5700 Monroe Street Suite 303",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-sunforest-obstetrics-gynecology"
   },
   {
     "id": 259,
@@ -1113,7 +1236,8 @@
     "Address": "2751 Bay Park Drive Suite 201",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-physical-medicine-rehabilitation-oregon"
   },
   {
     "id": 260,
@@ -1122,7 +1246,8 @@
     "Address": "2121 Hughes Drive Suite 750",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-cardiology-toledo"
   },
   {
     "id": 262,
@@ -1131,7 +1256,8 @@
     "Address": "1001 Bellafontaine Ave. ",
     "ZipCode": "45804",
     "City": "Lima",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-cardiology-lima"
   },
   {
     "id": 263,
@@ -1140,7 +1266,8 @@
     "Address": "1111 Hayes Ave. ",
     "ZipCode": "44870",
     "City": "Sandusky",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-cardiology-sandusky"
   },
   {
     "id": 265,
@@ -1149,7 +1276,8 @@
     "Address": "2121 Hughes Drive Suite 220",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-gastroenterology-toledo"
   },
   {
     "id": 266,
@@ -1158,7 +1286,8 @@
     "Address": "1001 Bellafontaine Ave. ",
     "ZipCode": "45804",
     "City": "Lima",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-gastroenterology-lima"
   },
   {
     "id": 267,
@@ -1167,7 +1296,8 @@
     "Address": "730 N. Macomb St. Suite 300",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-pediatric-gastroenterology-monroe"
   },
   {
     "id": 268,
@@ -1176,7 +1306,8 @@
     "Address": "2121 Hughes Drive Suite 980",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-orthopaedic-surgery"
   },
   {
     "id": 270,
@@ -1185,7 +1316,8 @@
     "Address": "ProMedica Defiance Regional Hospital 1252 Ralston Ave. Suite 402",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-pulmonary-and-sleep-medicine-and-cystic-fibrosis-defiance"
   },
   {
     "id": 272,
@@ -1194,7 +1326,8 @@
     "Address": "3156 Dustin Road Suite 203",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatrics-sam-m-abaza-md"
   },
   {
     "id": 273,
@@ -1203,7 +1336,8 @@
     "Address": "1601 Brigham Drive Suite 200",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-perrysburg-pediatrics"
   },
   {
     "id": 275,
@@ -1212,7 +1346,8 @@
     "Address": "5700 Monroe Street Suite 203",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-port-sylvania-family-practice"
   },
   {
     "id": 276,
@@ -1221,7 +1356,8 @@
     "Address": "5800 Monroe St. Suite G",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-behavioral-health-sylvania"
   },
   {
     "id": 277,
@@ -1230,7 +1366,8 @@
     "Address": "5700 Monroe Street Suite 308",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pulmonary-sleep-medicine-toledo"
   },
   {
     "id": 278,
@@ -1239,7 +1376,8 @@
     "Address": "777 Kimole Lane Suite 100",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-pulmonary-sleep-medicine-adrian"
   },
   {
     "id": 279,
@@ -1248,7 +1386,8 @@
     "Address": "1252 Ralston Ave. Suite 402",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pulmonary-sleep-medicine-defiance"
   },
   {
     "id": 281,
@@ -1257,7 +1396,8 @@
     "Address": "1601 Brigham Drive Suite 250",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-river-road-family-medicine"
   },
   {
     "id": 283,
@@ -1266,7 +1406,8 @@
     "Address": "5300 Harroun Road Suite 155",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-sylvania-adult-pediatric-medicine"
   },
   {
     "id": 287,
@@ -1275,7 +1416,8 @@
     "Address": "3909 Woodley Road Suite 600",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-west-central-medical-group"
   },
   {
     "id": 288,
@@ -1284,7 +1426,8 @@
     "Address": "2109 Hughes Drive Suite 220",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-general-surgery-i-trauma"
   },
   {
     "id": 289,
@@ -1293,7 +1436,8 @@
     "Address": "2751 Bay Park Drive Suite 303",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-general-surgery-oregon"
   },
   {
     "id": 290,
@@ -1302,7 +1446,8 @@
     "Address": "5700 Monroe St. Suite 201",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-westgate-family-medicine"
   },
   {
     "id": 291,
@@ -1311,7 +1456,8 @@
     "Address": "2865 N. Reynolds Road Suite 170",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-wildwood-family-practice"
   },
   {
     "id": 292,
@@ -1320,7 +1466,8 @@
     "Address": "5700 Monroe Street Suite 209",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-internal-medicine-woodley"
   },
   {
     "id": 294,
@@ -1329,7 +1476,8 @@
     "Address": "660 Beaver Creek Circle Suite 120",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-radiology-5"
   },
   {
     "id": 295,
@@ -1338,7 +1486,8 @@
     "Address": "2150 W. Central Ave. Room H",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-radiology-6"
   },
   {
     "id": 298,
@@ -1347,7 +1496,8 @@
     "Address": "1601 Brigham Drive Suite 180",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-radiology-levis-commons"
   },
   {
     "id": 307,
@@ -1356,7 +1506,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-sleep-center-defiance"
   },
   {
     "id": 308,
@@ -1365,7 +1516,8 @@
     "Address": "501 Van Buren St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-sleep-center-fostoria"
   },
   {
     "id": 309,
@@ -1374,7 +1526,8 @@
     "Address": "710 Cleveland Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-sleep-center-fremont"
   },
   {
     "id": 310,
@@ -1383,7 +1536,8 @@
     "Address": "2801 Bay Park Drive ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-sleep-center-oregon"
   },
   {
     "id": 311,
@@ -1392,7 +1546,8 @@
     "Address": "5200 Harroun Road ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-sleep-center-sylvania"
   },
   {
     "id": 319,
@@ -1401,7 +1556,8 @@
     "Address": "2109 Hughes Drive Jobst Tower. 1st Floor",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-structural-heart-clinic"
   },
   {
     "id": 320,
@@ -1410,7 +1566,8 @@
     "Address": "710 Cleveland Avenue ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-eap"
   },
   {
     "id": 321,
@@ -1419,7 +1576,8 @@
     "Address": "2109 Hughes Drive 1st Floor",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-toledo-russell-j-ebeid-children-s-hospital-s-laboratory"
   },
   {
     "id": 322,
@@ -1428,7 +1586,8 @@
     "Address": "2142 N. Cove Blvd. 2nd Floor",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-toledo-hospital-radiology"
   },
   {
     "id": 324,
@@ -1437,7 +1596,8 @@
     "Address": "2142 N. Cove Blvd. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-palliative-medicine"
   },
   {
     "id": 326,
@@ -1446,7 +1606,8 @@
     "Address": "5660 N. Adrian Highway ",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-total-rehab-adrian"
   },
   {
     "id": 327,
@@ -1455,7 +1616,8 @@
     "Address": "100 Powell Dr. Suite 3",
     "ZipCode": "48131",
     "City": "Dundee",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-total-rehab-dundee"
   },
   {
     "id": 329,
@@ -1464,7 +1626,8 @@
     "Address": "2000 W. Dean Road ",
     "ZipCode": "48182",
     "City": "Temperance",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-total-rehab-temperance"
   },
   {
     "id": 330,
@@ -1473,7 +1636,8 @@
     "Address": "455 W. 4th St. Suite 010 ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-fostoria"
   },
   {
     "id": 331,
@@ -1482,7 +1646,8 @@
     "Address": "400 N. Main St. ",
     "ZipCode": "49265",
     "City": "Onsted",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-total-rehab-onsted"
   },
   {
     "id": 333,
@@ -1491,7 +1656,8 @@
     "Address": "4848 Holland-Sylvania Road Suite 202",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-sylvania"
   },
   {
     "id": 334,
@@ -1500,7 +1666,8 @@
     "Address": "660 Beaver Creek Circle Suite 210",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-maumee"
   },
   {
     "id": 335,
@@ -1509,7 +1676,8 @@
     "Address": "2751 Bay Park Drive ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-oregon"
   },
   {
     "id": 336,
@@ -1518,7 +1686,8 @@
     "Address": "2150 W. Central Ave. Third Floor",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-toledo"
   },
   {
     "id": 337,
@@ -1527,7 +1696,8 @@
     "Address": "1252 Ralston Ave. Suite 301",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-defiance"
   },
   {
     "id": 341,
@@ -1536,7 +1706,8 @@
     "Address": "116 S. Main St. ",
     "ZipCode": "43430",
     "City": "Gibsonburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-gibsonburg"
   },
   {
     "id": 342,
@@ -1545,7 +1716,8 @@
     "Address": "509 W. McPherson Highway ",
     "ZipCode": "43410",
     "City": "Clyde",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-clyde"
   },
   {
     "id": 343,
@@ -1554,7 +1726,8 @@
     "Address": "710 Cleveland Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-fremont"
   },
   {
     "id": 344,
@@ -1563,7 +1736,8 @@
     "Address": "1601 Brigham Drive Levis Commons. Suite 100",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-levis-commons"
   },
   {
     "id": 345,
@@ -1572,7 +1746,8 @@
     "Address": "6855 Springvalley Drive #155",
     "ZipCode": "43528",
     "City": "Holland",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-holland"
   },
   {
     "id": 346,
@@ -1581,7 +1756,8 @@
     "Address": "1180 N. Main St. Suites 1-2",
     "ZipCode": "43402",
     "City": "Bowling Green",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-bowling-green"
   },
   {
     "id": 355,
@@ -1590,7 +1766,8 @@
     "Address": "5700 Monroe St. Suite 309 ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "jobst-vascular-institute-vein-care"
   },
   {
     "id": 359,
@@ -1599,7 +1776,8 @@
     "Address": "2901 N. Reynolds Road Entrance D",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-wildwood-orthopaedic-and-spine-hospital-radiology"
   },
   {
     "id": 360,
@@ -1608,7 +1786,8 @@
     "Address": "2150 W. Central Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-women-s-services"
   },
   {
     "id": 374,
@@ -1617,7 +1796,8 @@
     "Address": "400 N. Main St. Suite A",
     "ZipCode": "49265",
     "City": "Onsted",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-family-medicine-onsted"
   },
   {
     "id": 375,
@@ -1626,7 +1806,8 @@
     "Address": "501 E. Cummins St. ",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-tecumseh-family-medicine"
   },
   {
     "id": 380,
@@ -1635,7 +1816,8 @@
     "Address": "3142 W. Central Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-specialty-pharmacy"
   },
   {
     "id": 388,
@@ -1644,7 +1826,8 @@
     "Address": "157 W. Brooke Lane ",
     "ZipCode": "49228",
     "City": "Blissfield",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-internal-medicine-i-pediatrics-i-family-medicine"
   },
   {
     "id": 393,
@@ -1653,7 +1836,8 @@
     "Address": "2801 Bay Park Drive ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-bay-park-hospital-surgery-center"
   },
   {
     "id": 396,
@@ -1662,7 +1846,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-defiance-regional-hospital-surgery-center"
   },
   {
     "id": 398,
@@ -1671,7 +1856,8 @@
     "Address": "5200 Harroun Road ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-flower-hospital-surgery-center"
   },
   {
     "id": 399,
@@ -1680,7 +1866,8 @@
     "Address": "501 Van Buren St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-fostoria-community-hospital-surgery-center"
   },
   {
     "id": 400,
@@ -1689,7 +1876,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-memorial-hospital-surgery-center"
   },
   {
     "id": 402,
@@ -1698,7 +1886,8 @@
     "Address": "2121 Hughes Drive Suite 640",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "cystic-fibrosis-center-of-northwest-ohio"
   },
   {
     "id": 406,
@@ -1707,7 +1896,8 @@
     "Address": "2142 N. Cove Blvd. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-toledo-hospital-surgery-center"
   },
   {
     "id": 407,
@@ -1716,7 +1906,8 @@
     "Address": "2142 N. Cove Blvd. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-russell-j-ebeid-children-s-hospital-surgery-center"
   },
   {
     "id": 408,
@@ -1725,7 +1916,8 @@
     "Address": "ProMedica Flower Hospital 5300 Harroun Road. Suite 010",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-hickman-cancer-center-sylvania"
   },
   {
     "id": 409,
@@ -1734,7 +1926,8 @@
     "Address": "Grace Christman Medical Building 777 Kimole Lane. Suite 130",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-hickman-cancer-center-adrian"
   },
   {
     "id": 410,
@@ -1743,7 +1936,8 @@
     "Address": "ProMedica Russell J. Ebeid Childrens Hospital 1 ProMedica Parkway. Entrance B. Floor 4",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-debbie-brass-children-s-cancer-center"
   },
   {
     "id": 411,
@@ -1752,7 +1946,8 @@
     "Address": "800 Stewart Road ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-cancer-center"
   },
   {
     "id": 416,
@@ -1761,7 +1956,8 @@
     "Address": "2751 Bay Park Drive Suite 130",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-heart-failure-clinic-oregon"
   },
   {
     "id": 417,
@@ -1770,7 +1966,8 @@
     "Address": "5200 Harroun Road ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-flower-hospital-radiology"
   },
   {
     "id": 418,
@@ -1779,7 +1976,8 @@
     "Address": "2751 Bay Park Drive Suite 202",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-oregon-pediatrics"
   },
   {
     "id": 421,
@@ -1788,7 +1986,8 @@
     "Address": "755 High St. ",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-internal-medicine-i-family-medicine-adrian"
   },
   {
     "id": 424,
@@ -1797,7 +1996,8 @@
     "Address": "595 Bartson Rd. Ste. A",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-ear-nose-and-throat-fremont"
   },
   {
     "id": 429,
@@ -1806,7 +2006,8 @@
     "Address": "214 E. Elm Ave. Suite 200",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-orthopaedic-surgery-elm-ave"
   },
   {
     "id": 459,
@@ -1815,7 +2016,8 @@
     "Address": "5700 Monroe St. Suite 102",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-endoscopy-center"
   },
   {
     "id": 461,
@@ -1824,7 +2026,8 @@
     "Address": "5901 Monclova Road ",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurology-maumee"
   },
   {
     "id": 462,
@@ -1833,7 +2036,8 @@
     "Address": "5855 Monroe St. ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-palliative-care"
   },
   {
     "id": 475,
@@ -1842,7 +2046,8 @@
     "Address": "501 Van Buren St. Suite 103",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pulmonary-sleep-medicine-fostoria"
   },
   {
     "id": 481,
@@ -1851,7 +2056,8 @@
     "Address": "1076 McPherson Hwy. Suite 1",
     "ZipCode": "43410",
     "City": "Clyde",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-clyde"
   },
   {
     "id": 483,
@@ -1860,7 +2066,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-defiance-regional-hospital-radiology"
   },
   {
     "id": 484,
@@ -1869,7 +2076,8 @@
     "Address": "501 Van Buren St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-fostoria-community-hospital-radiology"
   },
   {
     "id": 486,
@@ -1878,7 +2086,8 @@
     "Address": "455 W. Fourth St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-medical-center"
   },
   {
     "id": 488,
@@ -1887,7 +2096,8 @@
     "Address": "2865 N. Reynolds Road ",
     "ZipCode": null,
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-sports-medicine"
   },
   {
     "id": 492,
@@ -1896,7 +2106,8 @@
     "Address": "901 N. Macomb St. Suite 1",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-360health-monroe"
   },
   {
     "id": 495,
@@ -1905,7 +2116,8 @@
     "Address": "4888 Whiteford Road ",
     "ZipCode": "43623",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-podiatry-toledo"
   },
   {
     "id": 500,
@@ -1914,7 +2126,8 @@
     "Address": "1260 Ralson Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "kaitlyn-s-cottage"
   },
   {
     "id": 504,
@@ -1923,7 +2136,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "jobst-medication-therapy-management-fremont"
   },
   {
     "id": 505,
@@ -1932,7 +2146,8 @@
     "Address": "1704 S. Custer Road ",
     "ZipCode": "48161",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-family-medicine-monroe"
   },
   {
     "id": 512,
@@ -1941,7 +2156,8 @@
     "Address": "1420 N. Monroe St. ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-orthopaedic-surgery-monroe-st"
   },
   {
     "id": 534,
@@ -1950,7 +2166,8 @@
     "Address": "2130 W. Central Ave. Suite 300",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "consultants-in-laboratory-medicine"
   },
   {
     "id": 643,
@@ -1959,7 +2176,8 @@
     "Address": "2109 Hughes Drive #840",
     "ZipCode": null,
     "City": null,
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-stroke-network"
   },
   {
     "id": 651,
@@ -1968,7 +2186,8 @@
     "Address": "2751 Bay Park Drive #300 ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-and-gynecology-oregon"
   },
   {
     "id": 652,
@@ -1977,7 +2196,8 @@
     "Address": "2150 W. Central Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-toledo"
   },
   {
     "id": 749,
@@ -1986,7 +2206,8 @@
     "Address": "777 Kimole Lane Suite 260",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-jobst-vascular-adrian"
   },
   {
     "id": 750,
@@ -1995,7 +2216,8 @@
     "Address": "1250 Ralston Ave.  Suite 106",
     "ZipCode": "43512",
     "City": "Defiance ",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-defiance"
   },
   {
     "id": 751,
@@ -2004,7 +2226,8 @@
     "Address": "605 Third Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-fremont"
   },
   {
     "id": 753,
@@ -2013,7 +2236,8 @@
     "Address": "500 E. Pottawatamie St. ",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-jobst-vascular-tecumseh"
   },
   {
     "id": 754,
@@ -2022,7 +2246,8 @@
     "Address": "725 S. Shoop Ave ",
     "ZipCode": "43567",
     "City": "Wauseon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-wauseon"
   },
   {
     "id": 772,
@@ -2031,7 +2256,8 @@
     "Address": "730 N. Macomb St.  Suite 419",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-jobst-vascular-monroe"
   },
   {
     "id": 843,
@@ -2040,7 +2266,8 @@
     "Address": "2865 N. Reynolds Rd.  #A",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-toledo-orthopaedic-and-spine-surgeons"
   },
   {
     "id": 868,
@@ -2049,7 +2276,8 @@
     "Address": "1400 W. Main St. ",
     "ZipCode": "44811",
     "City": "Bellevue",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-bellevue"
   },
   {
     "id": 870,
@@ -2058,7 +2286,8 @@
     "Address": "3316 Navarre Ave. Suite F",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-urgent-care-oregon"
   },
   {
     "id": 871,
@@ -2067,7 +2296,8 @@
     "Address": "25950 N. Dixie Highway Suite 500",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-urgent-care-perrysburg"
   },
   {
     "id": 876,
@@ -2076,7 +2306,8 @@
     "Address": "1050 Isaac Street Drive #128",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-allergy-and-immunology-oregon"
   },
   {
     "id": 900,
@@ -2085,7 +2316,8 @@
     "Address": "2865 N. Reynolds Road Suite 170",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-physical-medicine-and-rehabilitation"
   },
   {
     "id": 906,
@@ -2094,7 +2326,8 @@
     "Address": "2390 Enterprise Drive ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-dorothy-l-kern-cancer-center"
   },
   {
     "id": 907,
@@ -2103,7 +2336,8 @@
     "Address": "146 S. Charles St. ",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-family-medicine-i-sports-medicine"
   },
   {
     "id": 911,
@@ -2112,7 +2346,8 @@
     "Address": "407 S. Telegraph Road ",
     "ZipCode": "48161",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-total-rehab-monroe-1"
   },
   {
     "id": 913,
@@ -2121,7 +2356,8 @@
     "Address": "718 N. Macomb  ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-total-rehab-monroe-regional-hospital"
   },
   {
     "id": 914,
@@ -2130,7 +2366,8 @@
     "Address": "501 Van Buren Street  ",
     "ZipCode": "44830",
     "City": "Fostoria ",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "cardiac-and-pulmonary-rehab-fostoria"
   },
   {
     "id": 921,
@@ -2139,7 +2376,8 @@
     "Address": "2130 W. Central Ave. Suite 105",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurosurgery-toledo"
   },
   {
     "id": 923,
@@ -2148,7 +2386,8 @@
     "Address": "1806 Madison Ave. ",
     "ZipCode": "43604",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "market-on-the-green"
   },
   {
     "id": 925,
@@ -2157,7 +2396,8 @@
     "Address": "2109 Hughes Drive Suite 400",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "jobst-vascular-institute"
   },
   {
     "id": 926,
@@ -2166,7 +2406,8 @@
     "Address": "718 North Macomb St. ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-regional-hospital-radiology"
   },
   {
     "id": 927,
@@ -2175,7 +2416,8 @@
     "Address": "2751 Bay Park Dr.  Suite 110",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "jobst-medication-therapy-management-oregon"
   },
   {
     "id": 931,
@@ -2184,7 +2426,8 @@
     "Address": "5700 Monroe St. Suite 106",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-general-surgery"
   },
   {
     "id": 935,
@@ -2193,7 +2436,8 @@
     "Address": "5700 Monroe St. Suite 207",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-internal-medicine-sylvania"
   },
   {
     "id": 939,
@@ -2202,7 +2446,8 @@
     "Address": "5700 Monroe St. Suite 301",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-toledo-pediatrics"
   },
   {
     "id": 942,
@@ -2211,7 +2456,8 @@
     "Address": "5700 Monroe St. Suite 101",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-general-surgery-bariatrics-sylvania"
   },
   {
     "id": 943,
@@ -2220,7 +2466,8 @@
     "Address": "5700 Monroe St. Suite 309",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-sylvania-1"
   },
   {
     "id": 944,
@@ -2229,7 +2476,8 @@
     "Address": "5700 Monroe St. Suite 109",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-imaging-1"
   },
   {
     "id": 945,
@@ -2238,7 +2486,8 @@
     "Address": "5700 Monroe St. Suite 110",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-health-and-wellness-center"
   },
   {
     "id": 948,
@@ -2247,7 +2496,8 @@
     "Address": "5700 Monroe St. Suite 113",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-optical"
   },
   {
     "id": 950,
@@ -2256,7 +2506,8 @@
     "Address": "5700 Monroe St. Suite 108",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-women-s-imaging-center"
   },
   {
     "id": 952,
@@ -2265,7 +2516,8 @@
     "Address": "5700 Monroe St. Suite 115",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-food-clinic-sylvania"
   },
   {
     "id": 953,
@@ -2274,7 +2526,8 @@
     "Address": "901 N. Macomb St Suite 110",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-pulmonary-clinic-monroe"
   },
   {
     "id": 958,
@@ -2283,7 +2536,8 @@
     "Address": "One Owens Corning Parkway Suite B-2",
     "ZipCode": "43659",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-at-owens-corning"
   },
   {
     "id": 959,
@@ -2292,7 +2546,8 @@
     "Address": "513 Superior ",
     "ZipCode": "43460",
     "City": "Rossford",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-rossford"
   },
   {
     "id": 962,
@@ -2301,7 +2556,8 @@
     "Address": "6711 Airport Highway ",
     "ZipCode": "43528",
     "City": "Holland",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-urgent-care-holland"
   },
   {
     "id": 964,
@@ -2310,7 +2566,8 @@
     "Address": "6755 Central Ave  ",
     "ZipCode": "43617",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-urgent-care-toledo-central"
   },
   {
     "id": 967,
@@ -2319,7 +2576,8 @@
     "Address": "100 Powell Drive ",
     "ZipCode": "48131",
     "City": "Dundee",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-dundee-westside-medical-building"
   },
   {
     "id": 968,
@@ -2328,7 +2586,8 @@
     "Address": "55 Cole Road ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-ahadi"
   },
   {
     "id": 969,
@@ -2337,7 +2596,8 @@
     "Address": "219 W. Front Street ",
     "ZipCode": "48161",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-kabir"
   },
   {
     "id": 971,
@@ -2346,7 +2606,8 @@
     "Address": "730 N. Macomb Street ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-monroe-professional-office-building"
   },
   {
     "id": 973,
@@ -2355,7 +2616,8 @@
     "Address": "901 N. Macomb Street. Ste. 102 ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-monroe-diagnostic-center"
   },
   {
     "id": 974,
@@ -2364,7 +2626,8 @@
     "Address": "1060 N. Monroe Street ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-delisle-center"
   },
   {
     "id": 977,
@@ -2373,7 +2636,8 @@
     "Address": "7825 N. Dixie Highway ",
     "ZipCode": "48166",
     "City": "Newport",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-newport"
   },
   {
     "id": 983,
@@ -2382,7 +2646,8 @@
     "Address": "455 W. Fourth Street ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-fostoria"
   },
   {
     "id": 984,
@@ -2391,7 +2656,8 @@
     "Address": "1200 Ralston Ave ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-express-care-defiance"
   },
   {
     "id": 987,
@@ -2400,7 +2666,8 @@
     "Address": "1200 Ralston Ave ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-defiance-1"
   },
   {
     "id": 989,
@@ -2409,7 +2676,8 @@
     "Address": "4041 W. Sylvania Ave. Suite 100",
     "ZipCode": "43623",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-pediatrics"
   },
   {
     "id": 991,
@@ -2418,7 +2686,8 @@
     "Address": "2142 N. Cove Blvd. Jobst Tower Entrance",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pulmonary-copd-education-clinic-toledo"
   },
   {
     "id": 998,
@@ -2427,7 +2696,8 @@
     "Address": "5300 Harroun Road Suite 118",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-orthopaedic-surgery-sylvania"
   },
   {
     "id": 1008,
@@ -2436,7 +2706,8 @@
     "Address": "960 W. Wooster Suite 110",
     "ZipCode": "43402",
     "City": "Bowling Green",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-bowling-green"
   },
   {
     "id": 1009,
@@ -2445,7 +2716,8 @@
     "Address": "81 Ashwood Drive ",
     "ZipCode": "44883",
     "City": "Tiffin",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-tiffin"
   },
   {
     "id": 1013,
@@ -2454,7 +2726,8 @@
     "Address": "2281 Hayes Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-general-surgery-fremont"
   },
   {
     "id": 1022,
@@ -2463,7 +2736,8 @@
     "Address": "730 N. Macomb St Suite 329",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-general-surgery-monroe-1"
   },
   {
     "id": 1025,
@@ -2472,7 +2746,8 @@
     "Address": "5700 Monroe St. Suite 204",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-family-medicine-sylvania"
   },
   {
     "id": 1028,
@@ -2481,7 +2756,8 @@
     "Address": "3105 S. State Route 51 ",
     "ZipCode": "43416",
     "City": "Elmore",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-internal-medicine-elmore"
   },
   {
     "id": 1029,
@@ -2490,7 +2766,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-defiance-regional-hospital-emergency-center"
   },
   {
     "id": 1030,
@@ -2499,7 +2776,8 @@
     "Address": "2801 Bay Park Drive ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-bay-park-hospital-emergency-center"
   },
   {
     "id": 1032,
@@ -2508,7 +2786,8 @@
     "Address": "5200 Harroun Road ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-flower-hospital-emergency-center"
   },
   {
     "id": 1033,
@@ -2517,7 +2796,8 @@
     "Address": "501 Van Buren St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-fostoria-community-hospital-emergency-center"
   },
   {
     "id": 1035,
@@ -2526,7 +2806,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-memorial-hospital-emergency-center"
   },
   {
     "id": 1036,
@@ -2535,7 +2816,8 @@
     "Address": "718 N. Macomb St. ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-regional-hospital-emergency-center"
   },
   {
     "id": 1037,
@@ -2544,7 +2826,8 @@
     "Address": "2142 N. Cove Blvd.  ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-russell-j-ebeid-children-s-hospital-emergency-center"
   },
   {
     "id": 1038,
@@ -2553,7 +2836,8 @@
     "Address": "2142 N. Cove Blvd. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-toledo-hospital-emergency-center"
   },
   {
     "id": 1041,
@@ -2562,7 +2846,8 @@
     "Address": "718 N. Macomb Street ",
     "ZipCode": null,
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-regional-hospital-surgery-center"
   },
   {
     "id": 1042,
@@ -2571,7 +2856,8 @@
     "Address": "650 Stewart Rd. ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-regional-hospital-family-medicine-residency"
   },
   {
     "id": 1043,
@@ -2580,7 +2866,8 @@
     "Address": "2109 Hughes Dr. Suite 760",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-hepatobiliary-pancreatic-and-endocrine-surgery"
   },
   {
     "id": 1045,
@@ -2589,7 +2876,8 @@
     "Address": "2751 Bay Park Drive Suite 130",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-bay-park-hospital-cardiac-rehab-oregon"
   },
   {
     "id": 1046,
@@ -2598,7 +2886,8 @@
     "Address": "718 N. Macomb St. ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-regional-hospital-cardiac-rehab"
   },
   {
     "id": 1047,
@@ -2607,7 +2896,8 @@
     "Address": "5705 Monclova Rd. Suite 205",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-maumee"
   },
   {
     "id": 1049,
@@ -2616,7 +2906,8 @@
     "Address": "111 Medical Center Drive ",
     "ZipCode": "48117",
     "City": "Carleton",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-family-medicine-carleton"
   },
   {
     "id": 1050,
@@ -2625,7 +2916,8 @@
     "Address": "14930 LaPlaisance Rd. Suite 118",
     "ZipCode": "48161",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-family-medicine"
   },
   {
     "id": 1055,
@@ -2634,7 +2926,8 @@
     "Address": "1252 Ralston Ave. Suite 401",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "jobst-medication-therapy-management-defiance"
   },
   {
     "id": 1057,
@@ -2643,7 +2936,8 @@
     "Address": "718 N. Macomb Street ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "jobst-medication-therapy-management-monroe"
   },
   {
     "id": 1058,
@@ -2652,7 +2946,8 @@
     "Address": "5200 Harroun Road ",
     "ZipCode": "43260",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pulmonary-clinic-sylvania"
   },
   {
     "id": 1059,
@@ -2661,7 +2956,8 @@
     "Address": "2801 Bay Park Drive ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pulmonary-clinic-oregon"
   },
   {
     "id": 1062,
@@ -2670,7 +2966,8 @@
     "Address": "5200 Harroun Road Suite 100",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "jobst-medication-therapy-management-sylvania"
   },
   {
     "id": 1065,
@@ -2679,7 +2976,8 @@
     "Address": "2100 W. Central Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-falzone-diabetes-center"
   },
   {
     "id": 1066,
@@ -2688,7 +2986,8 @@
     "Address": "5700 Monroe Street Suite 210",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-colorectal-surgery"
   },
   {
     "id": 1067,
@@ -2697,7 +2996,8 @@
     "Address": "501 Van Buren St. Located In Entrance 2",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-fostoria-community-hospital-outpatient-pharmacy"
   },
   {
     "id": 1068,
@@ -2706,7 +3006,8 @@
     "Address": "3144 W. Central Ave ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-adherence-pharmacy"
   },
   {
     "id": 1069,
@@ -2715,7 +3016,8 @@
     "Address": "2575 Hayes Ave. Ste. 2",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-laboratories-fremont"
   },
   {
     "id": 1070,
@@ -2724,7 +3026,8 @@
     "Address": "3929 Navarre Ave. ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-family-medicine-oregon"
   },
   {
     "id": 1073,
@@ -2733,7 +3036,8 @@
     "Address": "730 N. Macomb St. Suite 429-A",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-cardiology-monroe"
   },
   {
     "id": 1074,
@@ -2742,7 +3046,8 @@
     "Address": "2751 Bay Park Drive Suite 300",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-oregon"
   },
   {
     "id": 1076,
@@ -2751,7 +3056,8 @@
     "Address": "2120 W. Central Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-parkway-surgery-center"
   },
   {
     "id": 1077,
@@ -2760,7 +3066,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-heart-failure-clinic-fremont"
   },
   {
     "id": 1079,
@@ -2769,7 +3076,8 @@
     "Address": "214 E. Elm Ave. Suite 101",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-genito-urinary-surgeons-monroe"
   },
   {
     "id": 1080,
@@ -2778,7 +3086,8 @@
     "Address": "455 W. McPherson Hwy.  Suite B",
     "ZipCode": "43410",
     "City": "Clyde",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-internal-medicine-clyde"
   },
   {
     "id": 1081,
@@ -2787,7 +3096,8 @@
     "Address": "5700 Monroe Street Suite 310",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-audiology-1"
   },
   {
     "id": 1083,
@@ -2796,7 +3106,8 @@
     "Address": "1806 Madison Ave. 2nd Floor",
     "ZipCode": "43604",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-ebeid-institute"
   },
   {
     "id": 1086,
@@ -2805,7 +3116,8 @@
     "Address": "2801 Bay Park Dr ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-bay-park-hospital-cancer-center"
   },
   {
     "id": 1087,
@@ -2814,7 +3126,8 @@
     "Address": "1 ProMedica Parkway. Entrance B ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-toledo-hospital-cancer-care"
   },
   {
     "id": 1089,
@@ -2823,7 +3136,8 @@
     "Address": "1200 Ralston Ave ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-defiance-regional-hospital-cancer-center"
   },
   {
     "id": 1090,
@@ -2832,7 +3146,8 @@
     "Address": "501 Van Buren St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-fostoria-community-hospital-cancer-care"
   },
   {
     "id": 1091,
@@ -2841,7 +3156,8 @@
     "Address": "7825 N. Dixie Hwy. Suite 101",
     "ZipCode": "48166",
     "City": "Newport",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-family-medicine-newport"
   },
   {
     "id": 1097,
@@ -2850,7 +3166,8 @@
     "Address": "501 E. Cummins ",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-tecumseh"
   },
   {
     "id": 1107,
@@ -2859,7 +3176,8 @@
     "Address": " ",
     "ZipCode": null,
     "City": null,
-    "State": null
+    "State": null,
+    "DirectURL": "promedica-bay-park-hospital-orthopaedics"
   },
   {
     "id": 1108,
@@ -2868,7 +3186,8 @@
     "Address": " ",
     "ZipCode": null,
     "City": null,
-    "State": null
+    "State": null,
+    "DirectURL": "promedica-defiance-regional-hospital-orthopaedics"
   },
   {
     "id": 1109,
@@ -2877,7 +3196,8 @@
     "Address": " ",
     "ZipCode": null,
     "City": null,
-    "State": null
+    "State": null,
+    "DirectURL": "promedica-fostoria-community-hospital-orthopaedics"
   },
   {
     "id": 1110,
@@ -2886,7 +3206,8 @@
     "Address": " ",
     "ZipCode": null,
     "City": null,
-    "State": null
+    "State": null,
+    "DirectURL": "promedica-memorial-hospital-orthopaedics"
   },
   {
     "id": 1111,
@@ -2895,7 +3216,8 @@
     "Address": " ",
     "ZipCode": null,
     "City": null,
-    "State": null
+    "State": null,
+    "DirectURL": "promedica-russell-j-ebeids-childrens-hospital-orthopaedics"
   },
   {
     "id": 1112,
@@ -2904,7 +3226,8 @@
     "Address": " ",
     "ZipCode": null,
     "City": null,
-    "State": null
+    "State": null,
+    "DirectURL": "promedica-flower-hospital-orthopaedics"
   },
   {
     "id": 1115,
@@ -2913,7 +3236,8 @@
     "Address": " ",
     "ZipCode": null,
     "City": null,
-    "State": null
+    "State": null,
+    "DirectURL": "promedica-monroe-regional-hospital-orthopaedics"
   },
   {
     "id": 1124,
@@ -2922,7 +3246,8 @@
     "Address": "1854 E. Perry Street Suite 4",
     "ZipCode": "43452",
     "City": "Port Clinton",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-family-medicine-port-clinton"
   },
   {
     "id": 1126,
@@ -2931,7 +3256,8 @@
     "Address": "3430 Secor Road ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-urgent-care-toledo-secor"
   },
   {
     "id": 1127,
@@ -2940,7 +3266,8 @@
     "Address": "2265 Hayes Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-family-medicine-fremont"
   },
   {
     "id": 1129,
@@ -2949,7 +3276,8 @@
     "Address": "5700 Monroe St. Suite 202",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-rheumatology"
   },
   {
     "id": 1130,
@@ -2958,7 +3286,8 @@
     "Address": "725 S. Shoop Ave. ",
     "ZipCode": "43567",
     "City": "Wauseon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-hematology-oncology-associates-wauseon"
   },
   {
     "id": 1132,
@@ -2967,7 +3296,8 @@
     "Address": "710 Cleveland Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-behavioral-health-fremont"
   },
   {
     "id": 1133,
@@ -2976,7 +3306,8 @@
     "Address": "1100 E. Main Cross Suite 159",
     "ZipCode": "45840",
     "City": "Findlay",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-behavioral-health-findlay"
   },
   {
     "id": 1134,
@@ -2985,7 +3316,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pulmonary-clinic-defiance"
   },
   {
     "id": 1135,
@@ -2994,7 +3326,8 @@
     "Address": "501 Van Buren St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pulmonary-clinic-fostoria"
   },
   {
     "id": 1136,
@@ -3003,7 +3336,8 @@
     "Address": null,
     "ZipCode": "43420",
     "City": null,
-    "State": null
+    "State": null,
+    "DirectURL": "promedica-pulmonary-clinic-fremont"
   },
   {
     "id": 1137,
@@ -3012,7 +3346,8 @@
     "Address": "2150 W. Central Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-food-clinic-toledo"
   },
   {
     "id": 1147,
@@ -3021,7 +3356,8 @@
     "Address": "777 Kimole Lane Suite 230",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-urology-adrian"
   },
   {
     "id": 1148,
@@ -3030,7 +3366,8 @@
     "Address": "718 N. Macomb St. ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-regional-hospital-women-s-health-center"
   },
   {
     "id": 1149,
@@ -3039,7 +3376,8 @@
     "Address": "274 East Chicago Street ",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-regional-hospital"
   },
   {
     "id": 1150,
@@ -3048,7 +3386,8 @@
     "Address": "380 John St. ",
     "ZipCode": "43055",
     "City": "Newark",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-at-owens-corning-newark"
   },
   {
     "id": 1151,
@@ -3057,7 +3396,8 @@
     "Address": "2790 Columbus Rd. ",
     "ZipCode": "43023",
     "City": "Granville",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-at-owens-corning-granville"
   },
   {
     "id": 1152,
@@ -3066,7 +3406,8 @@
     "Address": "2801 Bay Park Drive Suite 130",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pulmonary-rehab-oregon"
   },
   {
     "id": 1153,
@@ -3075,7 +3416,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pulmonary-rehab-defiance"
   },
   {
     "id": 1154,
@@ -3084,7 +3426,8 @@
     "Address": "5200 Harroun Road ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pulmonary-rehab-sylvania"
   },
   {
     "id": 1155,
@@ -3093,7 +3436,8 @@
     "Address": "501 Van Buren St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pulmonary-rehab-fostoria"
   },
   {
     "id": 1156,
@@ -3102,7 +3446,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pulmonary-rehab-fremont"
   },
   {
     "id": 1157,
@@ -3111,7 +3456,8 @@
     "Address": "901 Macomb Street ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-pulmonary-rehab-monroe"
   },
   {
     "id": 1158,
@@ -3120,7 +3466,8 @@
     "Address": "2940 N. McCord Road",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-device-clinic"
   },
   {
     "id": 1159,
@@ -3129,7 +3476,8 @@
     "Address": "2142 N. Cove Blvd. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-heart-rhythm-center"
   },
   {
     "id": 1165,
@@ -3138,7 +3486,8 @@
     "Address": "1724 Indian Wood Circle ",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-learning-and-education-building"
   },
   {
     "id": 1166,
@@ -3147,7 +3496,8 @@
     "Address": "1180 N. Monroe St. ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-neurology-monroe"
   },
   {
     "id": 1167,
@@ -3156,7 +3506,8 @@
     "Address": "200 E. Russel Rd. ",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-neurology-tecumseh"
   },
   {
     "id": 1176,
@@ -3165,7 +3516,8 @@
     "Address": "2130 W. Central Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "neurosciences-center"
   },
   {
     "id": 1177,
@@ -3174,7 +3526,8 @@
     "Address": "2130 W. Central Ave. Suite 203",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-neurophysiology"
   },
   {
     "id": 1179,
@@ -3183,7 +3536,8 @@
     "Address": "2130 W. Central Ave. Suite 202",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-total-rehab-neurology"
   },
   {
     "id": 1180,
@@ -3192,7 +3546,8 @@
     "Address": "2130 W. Central Ave. Suite 203",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-audiology"
   },
   {
     "id": 1182,
@@ -3201,7 +3556,8 @@
     "Address": "1252 Ralston Ave. Suite 401",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-behavioral-health-defiance"
   },
   {
     "id": 1183,
@@ -3210,7 +3566,8 @@
     "Address": "1252 Ralston Ave. Suite 402",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurosurgery-defiance"
   },
   {
     "id": 1187,
@@ -3219,7 +3576,8 @@
     "Address": "718 North Macomb St. Fifth Floor",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-regional-hospital-cancer-and-infusion-services"
   },
   {
     "id": 1188,
@@ -3228,7 +3586,8 @@
     "Address": "716 Sweitzer Street ",
     "ZipCode": "45331",
     "City": "Greenville",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-360health-greenville"
   },
   {
     "id": 1192,
@@ -3237,7 +3596,8 @@
     "Address": "730 N. Macomb St. Suite 416",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-monroe-cardiology-amin"
   },
   {
     "id": 1196,
@@ -3246,7 +3606,8 @@
     "Address": "718 N. Macomb St. ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-sleep-center-monroe"
   },
   {
     "id": 1197,
@@ -3255,7 +3616,8 @@
     "Address": "5180 Chappel Drive ",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-gynecology-levis-commons"
   },
   {
     "id": 1198,
@@ -3264,7 +3626,8 @@
     "Address": "2130 W. Central Ave. Suite 105",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-spine-care"
   },
   {
     "id": 1199,
@@ -3273,7 +3636,8 @@
     "Address": "770 Riverside Ave. Suite 106",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-podiatry-adrian"
   },
   {
     "id": 1201,
@@ -3282,7 +3646,8 @@
     "Address": "730 N. Macomb Street Suite 229",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-family-medicine-monroe-1"
   },
   {
     "id": 1212,
@@ -3291,7 +3656,8 @@
     "Address": "217 Golden Gate Plaza ",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-ear-nose-and-throat-maumee"
   },
   {
     "id": 1213,
@@ -3300,7 +3666,8 @@
     "Address": "5855 Monroe Street ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-integrated-medical-solutions"
   },
   {
     "id": 1214,
@@ -3309,7 +3676,8 @@
     "Address": "901 Kimole Lane Suite A-4",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-family-medicine-adrian"
   },
   {
     "id": 1215,
@@ -3318,7 +3686,8 @@
     "Address": "331 W. Main St. ",
     "ZipCode": "49247",
     "City": "Hudson",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-family-medicine-hudson"
   },
   {
     "id": 1216,
@@ -3327,7 +3696,8 @@
     "Address": "3245 N. Adrian Highway Suite A",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-adrian-pediatrics"
   },
   {
     "id": 1218,
@@ -3336,7 +3706,8 @@
     "Address": "5805 Monclova Road ",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-maumee-cancer-center"
   },
   {
     "id": 1221,
@@ -3345,7 +3716,8 @@
     "Address": "370 E. Chicago St. Suite 200",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "coldwater-family-medical-center"
   },
   {
     "id": 1223,
@@ -3354,7 +3726,8 @@
     "Address": "413 N. Chicago St. ",
     "ZipCode": "49252",
     "City": "Litchfield",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "litchfield-family-medical-center"
   },
   {
     "id": 1224,
@@ -3363,7 +3736,8 @@
     "Address": "721 E. Chicago St. ",
     "ZipCode": "49028",
     "City": "Bronson",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-family-practice-of-bronson"
   },
   {
     "id": 1225,
@@ -3372,7 +3746,8 @@
     "Address": "274 East Chicago Street  ",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-regional-hospital-emergency-center"
   },
   {
     "id": 1227,
@@ -3381,7 +3756,8 @@
     "Address": "6175 Levis Commons Blvd. ",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurosurgery-perrysburg"
   },
   {
     "id": 1230,
@@ -3390,7 +3766,8 @@
     "Address": "1035 W. Wayne St. ",
     "ZipCode": "45879",
     "City": "Paulding",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-obstetrics-l-gynecology-paulding"
   },
   {
     "id": 1231,
@@ -3399,7 +3776,8 @@
     "Address": "5308 Harroun Road Suite 175",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pelvic-health"
   },
   {
     "id": 1232,
@@ -3408,7 +3786,8 @@
     "Address": "6869 S. Occidental Hwy. ",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-health-specialists-of-lenawee"
   },
   {
     "id": 1233,
@@ -3417,7 +3796,8 @@
     "Address": "1180 N Monroe St ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-neurosurgery-monroe"
   },
   {
     "id": 1234,
@@ -3426,7 +3806,8 @@
     "Address": "5308 Harroun Road Ste. 180",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pulmonary-sleep-medicine-sylvania"
   },
   {
     "id": 1235,
@@ -3435,7 +3816,8 @@
     "Address": "751 Columbus Ave. Suite A",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-family-medicine-fostoria-1"
   },
   {
     "id": 1236,
@@ -3444,7 +3826,8 @@
     "Address": "501 Van Buren Street Suite 010",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-behavioral-health-fostoria"
   },
   {
     "id": 1237,
@@ -3453,7 +3836,8 @@
     "Address": "5308 Harroun Road Suite 175",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-urogynecology"
   },
   {
     "id": 1238,
@@ -3462,7 +3846,8 @@
     "Address": "5308 Harroun Road Suite 175",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-gynecology"
   },
   {
     "id": 1244,
@@ -3471,7 +3856,8 @@
     "Address": "5705 Monclova Road Suite 205",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-allergy-and-immunology-maumee"
   },
   {
     "id": 1245,
@@ -3480,7 +3866,8 @@
     "Address": "501 Van Buren St. Suite 203 ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-fostoria-community-hospital-medical-office-building"
   },
   {
     "id": 1246,
@@ -3489,7 +3876,8 @@
     "Address": "25950 N. Dixie Hwy. Suite 500",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurology-multi-specialty-care"
   },
   {
     "id": 1249,
@@ -3498,7 +3886,8 @@
     "Address": "25950 N. Dixie Hwy. Suite 500",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-orthopaedics-multi-specialty-care"
   },
   {
     "id": 1252,
@@ -3507,7 +3896,8 @@
     "Address": "370 E Chicago St.  Suite 300",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-ear-nose-and-throat-coldwater"
   },
   {
     "id": 1253,
@@ -3516,7 +3906,8 @@
     "Address": "370 East Chicago St. Suite 400",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "coldwater-obstetrics-gynecology"
   },
   {
     "id": 1254,
@@ -3525,7 +3916,8 @@
     "Address": "320 E. Chicago St. ",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-general-surgery-coldwater"
   },
   {
     "id": 1266,
@@ -3534,7 +3926,8 @@
     "Address": "356 E. Chicago St ",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-regional-hospital-internal-medicine"
   },
   {
     "id": 1275,
@@ -3543,7 +3936,8 @@
     "Address": "6175 Levis Commons Blvd. Suite 104",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-internal-medicine-i-family-medicine-perrysburg"
   },
   {
     "id": 1276,
@@ -3552,7 +3946,8 @@
     "Address": "730 N. Macomb St. Suite 200",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-behavioral-health-monroe"
   },
   {
     "id": 1277,
@@ -3561,7 +3956,8 @@
     "Address": "274 E. Chicago St. ",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-behavioral-health-coldwater"
   },
   {
     "id": 1280,
@@ -3570,7 +3966,8 @@
     "Address": "200 E. Russell Rd. Suite C",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-pulmonary-sleep-medicine-tecumseh"
   },
   {
     "id": 1281,
@@ -3579,7 +3976,8 @@
     "Address": "730 N. Macomb St. Suite 300",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-pulmonary-sleep-medicine-monroe"
   },
   {
     "id": 1282,
@@ -3588,7 +3986,8 @@
     "Address": "502 E. Cummins St. ",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-behavioral-health-lenawee"
   },
   {
     "id": 1283,
@@ -3597,7 +3996,8 @@
     "Address": "1066 N. Monroe Street ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-monroe-gastroenterology"
   },
   {
     "id": 1284,
@@ -3606,7 +4006,8 @@
     "Address": "715 S. Taft Ave. 2nd floor",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-rheumatology-fremont"
   },
   {
     "id": 1286,
@@ -3615,7 +4016,8 @@
     "Address": "1091 Pray Blvd. ",
     "ZipCode": "43566",
     "City": "Waterville",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-defiance-internal-medicine-waterville"
   },
   {
     "id": 1287,
@@ -3624,7 +4026,8 @@
     "Address": "777 Kimole Lane Grace Christman Building | Suite 250",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-neurosurgery-adrian"
   },
   {
     "id": 1288,
@@ -3633,7 +4036,8 @@
     "Address": "6175 Levis Commons Blvd. Suite 104",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-perrysburg"
   },
   {
     "id": 1290,
@@ -3642,7 +4046,8 @@
     "Address": "6175 Levis Commons Blvd. Suite 104",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-colorectal-surgery-perrysburg"
   },
   {
     "id": 1291,
@@ -3651,7 +4056,8 @@
     "Address": "1854 E. Perry St. ",
     "ZipCode": "43452",
     "City": "Port Clinton ",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-internal-medicine-port-clinton"
   },
   {
     "id": 1296,
@@ -3660,7 +4066,8 @@
     "Address": "274 E. Chicago St. ",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-laboratories-coldwater"
   },
   {
     "id": 1297,
@@ -3669,7 +4076,8 @@
     "Address": "25950 N. Dixie Highway Suite 400",
     "ZipCode": "43551",
     "City": "Perrysburg",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-urgent-care-for-kids"
   },
   {
     "id": 1298,
@@ -3678,7 +4086,8 @@
     "Address": "2865 N. Reynolds Road Suite 170",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-regenerative-medicine"
   },
   {
     "id": 1301,
@@ -3687,7 +4096,8 @@
     "Address": "5700 Monroe St. Suite 114",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-natural-wellness-shop"
   },
   {
     "id": 1302,
@@ -3696,7 +4106,8 @@
     "Address": "2142 N. Cove Blvd. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-comprehensive-adult-sickle-cell-clinic"
   },
   {
     "id": 1304,
@@ -3705,7 +4116,8 @@
     "Address": "730 N. Macomb St.  Suite 415",
     "ZipCode": "48162",
     "City": "Monroe ",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-weight-loss-surgery-monroe"
   },
   {
     "id": 1306,
@@ -3714,7 +4126,8 @@
     "Address": "5308 Harroun Rd. Suite 285",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-gynecology-oncology-sylvania"
   },
   {
     "id": 1307,
@@ -3723,7 +4136,8 @@
     "Address": "4041 W. Sylvania Ave. Suite 204",
     "ZipCode": "43623",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-allergy-and-immunology-toledo"
   },
   {
     "id": 1308,
@@ -3732,7 +4146,8 @@
     "Address": "615 Fulton St. Suite 300",
     "ZipCode": "43452",
     "City": "Port Clinton",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-jobst-vascular-port-clinton"
   },
   {
     "id": 1309,
@@ -3741,7 +4156,8 @@
     "Address": "605 3rd Avenue Suite E",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurology-fremont"
   },
   {
     "id": 1310,
@@ -3750,7 +4166,8 @@
     "Address": "501 Van Buren St. Suite 202",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurology-fostoria"
   },
   {
     "id": 1311,
@@ -3759,7 +4176,8 @@
     "Address": "2801 Bay Park Dr. ",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-bay-park-hospital-labor-and-delivery"
   },
   {
     "id": 1312,
@@ -3768,7 +4186,8 @@
     "Address": "1200 Ralston Ave. ",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-defiance-regional-hospital-labor-and-delivery"
   },
   {
     "id": 1314,
@@ -3777,7 +4196,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-memorial-hospital-labor-and-delivery"
   },
   {
     "id": 1315,
@@ -3786,7 +4206,8 @@
     "Address": "718 N. Macomb Street ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-regional-hospital-labor-and-delivery"
   },
   {
     "id": 1316,
@@ -3795,7 +4216,8 @@
     "Address": "1 ProMedica Parkway ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-toledo-hospital-labor-and-delivery"
   },
   {
     "id": 1317,
@@ -3804,7 +4226,8 @@
     "Address": "ProMedica Toledo Hospital 2142 N. Cove Blvd",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "my-baby-me-boutique"
   },
   {
     "id": 1318,
@@ -3813,7 +4236,8 @@
     "Address": "274 East Chicago Street ",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-regional-hospital-labor-and-delivery"
   },
   {
     "id": 1319,
@@ -3822,7 +4246,8 @@
     "Address": "274 East Chicago Street ",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-regional-hospital-women-s-health-center"
   },
   {
     "id": 1320,
@@ -3831,7 +4256,8 @@
     "Address": "715 S. Taft Ave. 3rd Floor",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-cardiology-fremont"
   },
   {
     "id": 1322,
@@ -3840,7 +4266,8 @@
     "Address": "320 East Chicago St. ",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-total-rehab-coldwater"
   },
   {
     "id": 1323,
@@ -3849,7 +4276,8 @@
     "Address": "5705 Monclova Rd. Suite 201",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-gbur-cardiology"
   },
   {
     "id": 1325,
@@ -3858,7 +4286,8 @@
     "Address": "5700 Monroe Street Suite 204 A",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-infectious-disease"
   },
   {
     "id": 1326,
@@ -3867,7 +4296,8 @@
     "Address": "5640 N. Adrian Highway ",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-charles-and-virginia-hickman-hospital"
   },
   {
     "id": 1327,
@@ -3876,7 +4306,8 @@
     "Address": "2575 Hayes Ave. Suite 1",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-internal-medicine-i-pediatrics"
   },
   {
     "id": 1328,
@@ -3885,7 +4316,8 @@
     "Address": "7634 W. Central Ave. ",
     "ZipCode": "43617",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-plastic-and-reconstructive-surgery"
   },
   {
     "id": 1329,
@@ -3894,7 +4326,8 @@
     "Address": "3156 Dustin Rd. Suite 300",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-internal-medicine-oregon"
   },
   {
     "id": 1330,
@@ -3903,7 +4336,8 @@
     "Address": "2495 W. Market St. ",
     "ZipCode": "44883",
     "City": "Tiffin",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-internal-medicine-tiffin"
   },
   {
     "id": 1336,
@@ -3912,7 +4346,8 @@
     "Address": "370 E. Chicago St. Suite 100",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-cancer-center"
   },
   {
     "id": 1337,
@@ -3921,7 +4356,8 @@
     "Address": "5150 Harroun Road ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "eidi-family-rehabilitation-center"
   },
   {
     "id": 1338,
@@ -3930,7 +4366,8 @@
     "Address": "1201 Shepherd Rd. ",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-farms"
   },
   {
     "id": 1340,
@@ -3939,7 +4376,8 @@
     "Address": "5433 S. Occidental Hwy ",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-weight-management"
   },
   {
     "id": 1341,
@@ -3948,7 +4386,8 @@
     "Address": "1000 Westmoreland Ave. Ste. D",
     "ZipCode": "43545",
     "City": "Napoleon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-defiance-family-medicine-napoleon"
   },
   {
     "id": 1343,
@@ -3957,7 +4396,8 @@
     "Address": "374 W. Chicago St. ",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-regional-hospital-cardiac-rehab"
   },
   {
     "id": 1345,
@@ -3966,7 +4406,8 @@
     "Address": "1050 Isaac Streets Drive Suite 108",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurology-hasan"
   },
   {
     "id": 1346,
@@ -3975,7 +4416,8 @@
     "Address": "1050 Isaac Streets Drive Suite 112",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurology-szymanski"
   },
   {
     "id": 1347,
@@ -3984,7 +4426,8 @@
     "Address": "5757 Monclova Road Suite 6",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurology-maumee-hasan"
   },
   {
     "id": 1348,
@@ -3993,7 +4436,8 @@
     "Address": "730 N. Macomb Street Suite 320",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-neurology-monroe-hasan"
   },
   {
     "id": 1349,
@@ -4002,7 +4446,8 @@
     "Address": "5757 Monclova Road Suite 6",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-neurology-maumee-szymanski"
   },
   {
     "id": 1350,
@@ -4011,7 +4456,8 @@
     "Address": "730 N. Macomb Street Suite 320",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-neurology-monroe-szymanski"
   },
   {
     "id": 1357,
@@ -4020,7 +4466,8 @@
     "Address": "2751 Bay Park Drive Suite 302",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-ear-nose-and-throat-oregon"
   },
   {
     "id": 1358,
@@ -4029,7 +4476,8 @@
     "Address": "360 E. Chicago St. Suite 106",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-regional-hospital-pain-management"
   },
   {
     "id": 1359,
@@ -4038,7 +4486,8 @@
     "Address": "ProMedica Monroe Regional Hospital 730 N. Macomb St. Suite 225",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-heart-failure-clinic-monroe"
   },
   {
     "id": 1360,
@@ -4047,7 +4496,8 @@
     "Address": "360 E. Chicago St. Suite 111",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-regional-hospital-orthopaedic-surgery"
   },
   {
     "id": 1361,
@@ -4056,7 +4506,8 @@
     "Address": "360 E. Chicago St. Suite 111",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-regional-hospital-foot-and-ankle"
   },
   {
     "id": 1365,
@@ -4065,7 +4516,8 @@
     "Address": "358 East Chicago St. Suite 203",
     "ZipCode": "49036",
     "City": "Coldwater",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-regional-hospital-urology"
   },
   {
     "id": 1366,
@@ -4074,7 +4526,8 @@
     "Address": "5700 Monroe St. Suite 100",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "jobst-medication-therapy-management-promedica-health-and-wellness-center"
   },
   {
     "id": 1367,
@@ -4083,7 +4536,8 @@
     "Address": "ProMedica Charles and Virginia Hickman Hospital 5640 N. Adrian Hwy.",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "jobst-medication-therapy-management-adrian"
   },
   {
     "id": 1369,
@@ -4092,7 +4546,8 @@
     "Address": "3330 Meijer Drive Suite 1",
     "ZipCode": "43617",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-vision-associates-toledo"
   },
   {
     "id": 1370,
@@ -4101,7 +4556,8 @@
     "Address": "970 W. Wooster Street Suite 221",
     "ZipCode": "43402",
     "City": "Bowling Green",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-vision-associates-bowling-green"
   },
   {
     "id": 1371,
@@ -4110,7 +4566,8 @@
     "Address": "ProMedica Memorial Hospital 715 Taft Avenue - Suites 3B-1 and 3B-2",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-pulmonary-and-sleep-medicine-and-cystic-fibrosis-fremont"
   },
   {
     "id": 1374,
@@ -4119,7 +4576,8 @@
     "Address": "777 Kimole Ln. Suite 100",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "diabetes-education-promedica-charles-and-virginia-hickman-hospital"
   },
   {
     "id": 1376,
@@ -4128,7 +4586,8 @@
     "Address": "901 N. Macomb St. Suite 110",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "diabetes-education-promedica-monroe-regional-hospital"
   },
   {
     "id": 1377,
@@ -4137,7 +4596,8 @@
     "Address": "2751 Bay Park Dr. Suite 130",
     "ZipCode": "43616",
     "City": "Oregon",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "diabetes-education-promedica-bay-park-hospital"
   },
   {
     "id": 1378,
@@ -4146,7 +4606,8 @@
     "Address": "501 Van Buren St. ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "diabetes-education-promedica-fostoria-community-hospital"
   },
   {
     "id": 1379,
@@ -4155,7 +4616,8 @@
     "Address": "1252 Ralston Ave. Suite 401",
     "ZipCode": "43512",
     "City": "Defiance",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "diabetes-education-promedica-defiance-regional-hospital"
   },
   {
     "id": 1380,
@@ -4164,7 +4626,8 @@
     "Address": "715 S. Taft Ave. ",
     "ZipCode": "43420",
     "City": "Fremont",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "diabetes-education-promedica-memorial-hospital"
   },
   {
     "id": 1381,
@@ -4173,7 +4636,8 @@
     "Address": "506 Van Buren St. On the campus of ProMedica Fostoria Community Hospital",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-fostoria-community-hospital-dialysis-center"
   },
   {
     "id": 1382,
@@ -4182,7 +4646,8 @@
     "Address": "5433 S. Occidental Hwy Suite C",
     "ZipCode": "49286",
     "City": "Tecumseh",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-weight-loss-surgery-tecumseh"
   },
   {
     "id": 1384,
@@ -4191,7 +4656,8 @@
     "Address": "777 Kimole Lane Suite 250",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-neurology-adrian"
   },
   {
     "id": 1387,
@@ -4200,7 +4666,8 @@
     "Address": "5640 N Adrian Highway Suite N1015",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-charles-and-virginia-hickman-hospital-laboratory"
   },
   {
     "id": 1391,
@@ -4209,7 +4676,8 @@
     "Address": "5640 N. Adrian Hwy ",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-charles-and-virginia-hickman-hospital-women-s-health-center"
   },
   {
     "id": 1392,
@@ -4218,7 +4686,8 @@
     "Address": "5640 N. Adrian Hwy. ",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-charles-and-virginia-hickman-hospital-emergency-center"
   },
   {
     "id": 1393,
@@ -4227,7 +4696,8 @@
     "Address": "1075 Medical Center Parkway ",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-toledo-hospital-emergency-and-urgent-care"
   },
   {
     "id": 1394,
@@ -4236,7 +4706,8 @@
     "Address": "100 Madison Ave. ",
     "ZipCode": "43604",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-headquarters"
   },
   {
     "id": 1395,
@@ -4245,7 +4716,8 @@
     "Address": " ",
     "ZipCode": null,
     "City": null,
-    "State": null
+    "State": null,
+    "DirectURL": "promedica-physicians-ent"
   },
   {
     "id": 1396,
@@ -4254,7 +4726,8 @@
     "Address": "2150 W. Central Ave. ",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-pediatric-clinic-1"
   },
   {
     "id": 1397,
@@ -4263,7 +4736,8 @@
     "Address": "2142 N. Cove Blvd. ProMedica Russell J. Ebeid Childrens Hospital. Renaissance Building. 4th Floor",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-comprehensive-pediatric-sickle-cell-clinic"
   },
   {
     "id": 1398,
@@ -4272,7 +4746,8 @@
     "Address": "730 N. Macomb St. Suite 229",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-pain-management-monroe"
   },
   {
     "id": 1399,
@@ -4281,7 +4756,8 @@
     "Address": "ProMedica Toledo Hospital - McIntosh Tower 2121 Hughes Drive. Suite 710",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-cardiology-toledo-hospital-1"
   },
   {
     "id": 1401,
@@ -4290,7 +4766,8 @@
     "Address": "217 Golden Gate Plaza ",
     "ZipCode": "43537",
     "City": "Maumee",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-digestive-healthcare-maumee"
   },
   {
     "id": 1402,
@@ -4299,7 +4776,8 @@
     "Address": "5200 Harroun Road ",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-palliative-care-clinic"
   },
   {
     "id": 1403,
@@ -4308,7 +4786,8 @@
     "Address": "718 N. Macomb Street ",
     "ZipCode": null,
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-regional-hospital-palliative-medicine"
   },
   {
     "id": 1404,
@@ -4317,7 +4796,8 @@
     "Address": "1086 N. Monroe Street ",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-physicians-monroe-pediatrics"
   },
   {
     "id": 1405,
@@ -4326,7 +4806,8 @@
     "Address": "730 N. Macomb Street Suite 305",
     "ZipCode": "48162",
     "City": "Monroe",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "macomb-pharmacy-promedica-monroe-regional-hospital"
   },
   {
     "id": 1407,
@@ -4335,7 +4816,8 @@
     "Address": "2865 S. Reynolds Rd. Suite 130",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-toledo-orthopaedic-and-spine-surgeons-hand-clinic"
   },
   {
     "id": 1408,
@@ -4344,7 +4826,8 @@
     "Address": "2865 N. Reynolds Road Suite 230",
     "ZipCode": "43615",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-retina"
   },
   {
     "id": 1410,
@@ -4353,7 +4836,8 @@
     "Address": "5700 Monroe Street Suite 111-A",
     "ZipCode": "43560",
     "City": "Sylvania",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-covid-care-clinic"
   },
   {
     "id": 1411,
@@ -4362,7 +4846,8 @@
     "Address": "777 Kimole Lane Suite 230",
     "ZipCode": "49221",
     "City": "Adrian",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-genito-urinary-surgeons-adrian"
   },
   {
     "id": 1412,
@@ -4371,7 +4856,8 @@
     "Address": "501 Van Buren St. | Suite 202 ",
     "ZipCode": "44830",
     "City": "Fostoria",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-spine-care-fostoria"
   },
   {
     "id": 1413,
@@ -4380,7 +4866,8 @@
     "Address": "2751 Bay Park Drive. Suite 303 ",
     "ZipCode": "43616",
     "City": null,
-    "State": "Oregon"
+    "State": "Oregon",
+    "DirectURL": "promedica-genito-urinary-surgeons-oregon"
   },
   {
     "id": 1415,
@@ -4389,7 +4876,8 @@
     "Address": "2120 W. Central Ave. Suite D.",
     "ZipCode": "43606",
     "City": "Toledo",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-pediatric-urology"
   },
   {
     "id": 1418,
@@ -4398,6 +4886,7 @@
     "Address": "455 W. McPherson Highway ",
     "ZipCode": "43410",
     "City": "Clyde",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-physicians-internal-medicine-i-family-medicine"
   }
 ]
