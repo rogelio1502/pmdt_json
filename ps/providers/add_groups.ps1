@@ -37,7 +37,7 @@ foreach ( $row in $importList ) {
     	#Assign Field values to the Sitecore Item  
     	$item = $newItem
     	$item.Editing.BeginEdit()
-    	$item['Title'] = $row.TypeName
+    	$item['Title'] = $row.ProviderGroup
     	$item.Editing.EndEdit()
     	$c = $c + 1
     	Write-Host $c
