@@ -1,0 +1,7676 @@
+[
+  {
+    "name": "Boudreaux Laurie",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Beck Meghan",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Santus Kellie",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Murphy Michelle",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Monnett Heather",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Marriott-Duvall Kristy",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Arshad Amer",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Biggin Michael",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Badik Jill",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Barrow Danielle",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Barrow Danielle",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bauman Angela",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Beck Stefanie",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Beer Karl",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bhaskar Hemlata",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bodine-Zeller Kristen",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bodine-Zeller Kristen",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Brown Howard",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bruhl Kimberly",
+    "SpecialtyName": "Radiation Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Buerk Aaron",
+    "SpecialtyName": "Pediatric Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Callaghan Christine",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Clemons Mary",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hogan Stacey",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Gajdostik Beth",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kim Tasha",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kinsman Cindy",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Corder Mary",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Cotterman Nathan",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "DeMain Rosemary",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "DeRosa Robert",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "DeRosa Robert",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "DeVries Erica",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dillon Lindsay",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Dixon David",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Doman Daniel",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Downing Emily",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Dvorak Jon",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Farah Ndal",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ferris Keith",
+    "SpecialtyName": "Bariatric Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ferris Keith",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Elnegres Fuad",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Emch Kelly",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Evanoff John",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ewry James",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ondrus Kendra",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ford Elizabeth",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Freeman Steven",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Freeman Steven",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Furlong Judith",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Pakosz Lauren",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Pakosz Lauren",
+    "SpecialtyName": "Hepatopancreaticobiliary Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gauamis George",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Geha Tara",
+    "SpecialtyName": "Plastic and Reconstructive Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gietzen Paul",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gray William",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Gray William",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Guntsch Deborah",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hall Anna",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hall Matt",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Iova Cori",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Harper David",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Harper David",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Heif Muhannad",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Henderson Tiffanie",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Heringhaus Nathan",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hickey Lindsey",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hickey Lindsey",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hickey Lindsey",
+    "SpecialtyName": "Women's Health",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hoblet Vaughn",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hoffman Elizabeth",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hutchins Molly",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Iarussi Richard",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Irvine Timothy",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Jaara Ziad",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Judis Jeffrey",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Judis Jeffrey",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Justus Lou Anne",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kaiser Jamie",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Karolyi Tracy",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kasza Ryan",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Keazor Isioma",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Katrapati Parvati",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kennedy Carol",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Koneru Bhavani",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kuehne Michael",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kyser Stephen",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "LeRoux Laura",
+    "SpecialtyName": "Pediatric Hospitalist",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Maciejewski Jacob",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Normand Yvette",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Mason Renee",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Mason Renee",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Matos Stanley",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "McCoy Timothy",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Meis Mariellen",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Mercado Melchor",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Moritz Cynthia",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Mullen Jennifer",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Murnen Jayne",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Nash Jamie",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Newton Dean",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Niemann Chad",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Nelson-Brown Wendy",
+    "SpecialtyName": "Pediatric Hospitalist",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Obri Samer",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Olson Sheila",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Patibandla Anita",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Patibandla Anita",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Pelton Meghan",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Pruiett Kelley",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Riley Bryan",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "ODrobinak Simone",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Simpson Michelle",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Redfern Shirley",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Reichle-Carls Hollie",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Reiner Louis",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Reiter R. ",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Reiter R. ",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Reiter R. ",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rettig Janice",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rhames Jody",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Richards Joanne",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rivera Nicolas",
+    "SpecialtyName": "Pediatric Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Roessner Brian",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rolf-Andersen Joann",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rolf-Andersen Joann",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Yenrick Kellie",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Yenrick Kellie",
+    "SpecialtyName": "Structural Heart Disease",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Smidi Layla",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Servoss Michael",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sherratt Amanda",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Simo Kerri Ann",
+    "SpecialtyName": "Hepatopancreaticobiliary Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Simo Kerri Ann",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Smith Victoria",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Sprow Paula",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Sprow Paula",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Szynkowski Elizabeth",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stuckey Jordan",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Van Huysen Laura",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Wiercinski Kathryn",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Tausif Farzana",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Tourner Susan",
+    "SpecialtyName": "Pediatric Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Turk Kenneth",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Vogel Donald",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Waggoner Noss Alexis",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Waggoner Noss Alexis",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Watts Kendra",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Wiederhold Christopher",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Weigand Fred",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Winner David",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Winner David",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Winner David",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wright Lori",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Zucker David",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Goode Rebecca",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Gehrke Heather",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Carter Kathryn",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Brahaney Bonnie",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Brahaney Bonnie",
+    "SpecialtyName": "Oncology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Buehler Mary",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Cheney Mary",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Graham Bethany",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "LaGore Shane",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Lent Margaret",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Miller Melanie",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Miller Melanie",
+    "SpecialtyName": "Women's Health",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Miller Melanie",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Miller Melanie",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sobecki Joel",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Al-Sayed Samrah",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Amin Jatin",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Amin Jatin",
+    "SpecialtyName": "Interventional Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Gill Lisa",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Chalmers Jill",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Humphrey Richelle",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Marquardt David",
+    "SpecialtyName": "Pediatric Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Dai Rujuan",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rader Eric",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hopps Carin",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Arevalo Iracema",
+    "SpecialtyName": "Pediatric Infectious Disease",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Arevalo Iracema",
+    "SpecialtyName": "Immunology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Arevalo Iracema",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Masters Aaron",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sobbry Megan",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Brentlinger Lyndsay",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Wilcox Brandon",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Mutchler Rachel",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Moore Sean",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Datkun Lori",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Whitfield Claudeen",
+    "SpecialtyName": "Pediatric Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wisniewski Cary",
+    "SpecialtyName": "Plastic and Reconstructive Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kiker Tammy",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rapp Stanford",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hajar Nasser",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Charek-Claar Renee",
+    "SpecialtyName": "Palliative Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Nicholas-Bublick Selena",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Nicholas-Bublick Selena",
+    "SpecialtyName": "Parkinson's Disease",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Nicholas-Bublick Selena",
+    "SpecialtyName": "Movement Disorders",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Nicholas-Bublick Selena",
+    "SpecialtyName": "Essential tremor",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Nicholas-Bublick Selena",
+    "SpecialtyName": "Dystonia",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Nicholas-Bublick Selena",
+    "SpecialtyName": "Tourette syndrome",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Colyer Jr. William",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Colyer Jr. William",
+    "SpecialtyName": "Interventional Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Xia Chang",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Xia Chang",
+    "SpecialtyName": "Oncology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gallup Theresa",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Connole Shannon",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Connole Shannon",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Apoian Arminee",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Apoian Arminee",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Roca Pedro",
+    "SpecialtyName": "Maternal-Fetal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Roca Pedro",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Roca Pedro",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Harr Brian",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Shidyak Amjad",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Tank Jason",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Patel Ronak",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Richards Lisa",
+    "SpecialtyName": "Pediatric Endocrinology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Parkhurst Jennifer",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Johnson Kathleen",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Abdelwahed Ahmad",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Abdelwahed Ahmad",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Abdelwahed Ahmad",
+    "SpecialtyName": "Sleep Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Adusumilli Ravi",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Arquette Nancy",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Arquette Nancy",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Assenmacher Joseph",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Assenmacher Dennis",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Assenmacher Craig",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Badik Bryan",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Baer Melissa",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Baer Melissa",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bair Jeffrey",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Banerjee Sanjoy",
+    "SpecialtyName": "Pediatric Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Banoub Ashraf",
+    "SpecialtyName": "Critical Care/Intensivist",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Barnett Bruce",
+    "SpecialtyName": "Pediatric Pulmonary Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Barnett Bruce",
+    "SpecialtyName": "Pediatric Pulmonary and Sleep Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Basista Michael",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Berlacher Paul",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bernsdorff Kurt",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bialecki-Haase Dee Ann",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bishara Nagi",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Black Howard",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Boyle Emmett",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Boyle Emmett",
+    "SpecialtyName": "Prostate Cancer",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Burlingame Alan",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Cherfan Victor",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Cherfan Victor",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Cherfan Victor",
+    "SpecialtyName": "Weight Management",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Clark Rebecca",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Clay-Hufford Susan",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Cole Stephanie",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Collins Gary",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Colturi Thomas",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Confer-Seeley Kim",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Confer-Seeley Kim",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Cooperider Todd",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Crescenzo Donald",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Dargart Jamie",
+    "SpecialtyName": "Pediatric Hematology/Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "DeBenedetti Laura",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Diment Michael",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Dolsey Brian",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Dolsey Brian",
+    "SpecialtyName": "Interventional Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Emmert Gregor",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Emmert Gregor",
+    "SpecialtyName": "Prostate Cancer",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Evans Jason",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Francis Todd",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Francis Todd",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gallup William",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Garritano Nina",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Georgiadis Gregory",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Gerlach Katherine",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Gill Kaleem",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Gramling Jeffrey",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Grande Robert",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hartley Brenda",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Issa Mark",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Josh Sanjiv",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Josh Sanjiv",
+    "SpecialtyName": "Palliative Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kanios Chris",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kanios Chris",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Keaton Meghan",
+    "SpecialtyName": "Pediatric Pulmonary Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Keaton Meghan",
+    "SpecialtyName": "Pediatric Pulmonary and Sleep Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kidner Ryan",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Klada Emile",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Klada Emile",
+    "SpecialtyName": "Sleep Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Klada Emile",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Knieriem David",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kruse Roger",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kruse Roger",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Lodge Kevin",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Loomus Mark",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Maaieh Mohammed",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Machanda Katie",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Machanda Katie",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Marshall Rebecca",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Masyk Tatiana",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "McAlear Thomas",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "McClure Jeffrey",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Miller Julie",
+    "SpecialtyName": "Pediatric Physical Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Miller Julie",
+    "SpecialtyName": "Rehabilitation",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Miller Julie",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Mohammadione Dayna",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Mohammadione Dayna",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Monroe Todd",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Monroe Todd",
+    "SpecialtyName": "Interventional Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Moront Michael",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Morse Willis",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Mucha Samantha",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Muler Jeffrey",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Muler Jeffrey",
+    "SpecialtyName": "Oncology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "North James",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Okin Cynthia",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Okin Cynthia",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Pappas Michael",
+    "SpecialtyName": "Pediatric Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Pappas Thomas",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Perring Paul",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Pizza Eric",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Przynosch Stephen",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Puckett Sarah",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Puckett Sarah",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rachwal William",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ramanathan P. Kasi",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ramanathan P. Kasi",
+    "SpecialtyName": "Interventional Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rashid Michael",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rashid Michael",
+    "SpecialtyName": "Prostate Cancer",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rhee Ann",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rhee Ann",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Riordan Christopher",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Robinson Howard",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Roth Matt",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Roth Matt",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rubin Allan",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ruddy Jennifer",
+    "SpecialtyName": "Pediatric Pulmonary Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ruddy Jennifer",
+    "SpecialtyName": "Pediatric Pulmonary and Sleep Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Russell Todd",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Schuster Timothy",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Schuster Timothy",
+    "SpecialtyName": "Prostate Cancer",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Scovell William",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Silverman III Henry",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Smale Robin",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Smale Robin",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Smiley Nasser",
+    "SpecialtyName": "Cardiac Electrophysiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Smiley Nasser",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Smolinski Steven",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Smolinski Steven",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Songco A. Vincent",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Songco A. Vincent",
+    "SpecialtyName": "Interventional Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Sontchi Shari",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Spyra Darlene",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Stadler Nancy",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Stein Dagmar",
+    "SpecialtyName": "Pediatric Hematology/Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stockton Frederick",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Stockton Frederick",
+    "SpecialtyName": "Interventional Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Strunk Crawford",
+    "SpecialtyName": "Pediatric Hematology/Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Szepiela Ryan",
+    "SpecialtyName": "Physical Medicine and Rehabilitation",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Szepiela Ryan",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Upamaka Gopinath",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Vannuyen Jackie",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Vannuyen Jackie",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wainz Ronald",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Wainz Ronald",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wainz Ronald",
+    "SpecialtyName": "Sleep Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ward Kristel",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ward Kristel",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Watkins Traci",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Wharry Laura",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wharry Laura",
+    "SpecialtyName": "Endocrine Surgery",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wharry Laura",
+    "SpecialtyName": "Hepatopancreaticobiliary Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gibbs Terry",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Pizza Mary Ellen",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Tao Stanley",
+    "SpecialtyName": "Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Jindal Jay",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Baxter Ellen",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "McCutcheon Susan",
+    "SpecialtyName": "Optometry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wagener Robbin",
+    "SpecialtyName": "Optometry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Karamali Adil",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Siddiqi  Tariq",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Jones  Kristie",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Weaver Janel",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Weaver Janel",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Root Amber",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Stull Cyle",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Williams James",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Travis Ryan",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Suing Lisa",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Harr Stacy",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Wollenweber Kara",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Stengle John",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Sferra Joseph",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Tsang Albert",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Perry Kelsey",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Chikonka Andrew",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Seo-Patel Sonyoung",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Seo-Patel Sonyoung",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Tillman Jennifer",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Uhrman Lauren",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Franklin Julie",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Benson Daniel",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Evans Christine",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kregel Stacie",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kregel Stacie",
+    "SpecialtyName": "Sleep Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kregel Stacie",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Spangler Matthew",
+    "SpecialtyName": "Pediatric Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Varga Jennifer",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kattar Rajendra",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "DeVries Brent",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Schwan Patti",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Witt David",
+    "SpecialtyName": "Podiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Lewis Suzanne",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Matthews Clarissa",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Smith Kay",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Vogel Jeff",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Somerville Terence",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Seymour Mark",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Doyle James",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Melonakos Anthony",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kantz Barnett",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Charboneau Michael",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Chartier Michelle",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Lynn Amy",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "DeFrance David",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bondra John",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stepanic George",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Huddleston James",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hiestand John J.",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hiestand John J.",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Peters Ralph",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Jumaa Mouhammad",
+    "SpecialtyName": "Vascular Neurology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Jumaa Mouhammad",
+    "SpecialtyName": "Interventional Neurology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Jumaa Mouhammad",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Zaidi Syed",
+    "SpecialtyName": "Vascular Neurology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Zaidi Syed",
+    "SpecialtyName": "Interventional Neurology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Zaidi Syed",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Francis Barbara",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Francis Barbara",
+    "SpecialtyName": "Women's Health",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gemmill Jane",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "McBride Christine",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sommer Susan",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wilson Heather",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wilson Heather",
+    "SpecialtyName": "Women's Health",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Awada-Mitchell Hana",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bartson Tracy",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bartson Tracy",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bartson Tracy",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Beringer Robin",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Beringer Robin",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Beringer Robin",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Tweedy Karen",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Tweedy Karen",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Seiser Shannon",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Roth Jayne",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Roth Jayne",
+    "SpecialtyName": "Maternal-Fetal Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Richards Julie",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Richards Julie",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Richards Julie",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lamp Abby",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Foley-Bojanic Corinne",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Foley-Bojanic Corinne",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Foley-Bojanic Corinne",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Jacobson Cori",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Jacobson Cori",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Jacobson Cori",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kasper Gregory",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Striph Gerald",
+    "SpecialtyName": "Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Fish John ",
+    "SpecialtyName": "Vascular Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ethington Morgan",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ethington Morgan",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hertzfeld Kara",
+    "SpecialtyName": "Radiation Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kielhorn Eric",
+    "SpecialtyName": "Radiation Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kucway Roger",
+    "SpecialtyName": "Radiation Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Szymanski David",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Forquer Jeffrey",
+    "SpecialtyName": "Radiation Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Batchev Celeste",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Jin Ryan",
+    "SpecialtyName": "Radiation Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rubin Steven",
+    "SpecialtyName": "Radiation Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "McNamee Kenneth",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Krause Erica",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hasan S. Zaheer",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Madhira Murthy",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Abbas Jihad",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Abbas Jihad",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Mufti Rizwan",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Memon Mubeen",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hubbard Nicole",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Richard Gene",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Joshi Mandar",
+    "SpecialtyName": "Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Joshi Mandar",
+    "SpecialtyName": "Retinal Disorders",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gupta Anil K.",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Houghtaling John",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ervin David",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Walker Gregory",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Oetting Sandra",
+    "SpecialtyName": "Palliative Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wernet Mary",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Yassine Khaled",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "McBrier Nicole",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bomer James",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Linley Preston",
+    "SpecialtyName": "Optometry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kaul Rajat",
+    "SpecialtyName": "Pediatric Hospitalist",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kunisch Jill",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hunter Sara",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Whitmer Josh",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Luke Sheri",
+    "SpecialtyName": "Pediatric Endocrinology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Disher Michael",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Barchick Christine",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Carlisle Marla",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lachmiller Jaclyn",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Almadani S. Bashar",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Gornowicz Aron",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gornowicz Aron",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Reinhart Scott",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Godsey Erica",
+    "SpecialtyName": "Pediatric Hematology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Malas Ahmad",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Lewis Adrian",
+    "SpecialtyName": "Pediatric Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Seiwert Andrew",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Farmer Sarah",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rivera Litt Kathryn",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rivera Litt Kathryn",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Khurshid Nauman",
+    "SpecialtyName": "Maternal-Fetal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Khurshid Nauman",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Khurshid Nauman",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Gbur Carolyn",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Barkway Laurie",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Decker William",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Li Kun",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Tolek Cuneyd",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Klein Peter",
+    "SpecialtyName": "Colorectal Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Sipe Eilynn",
+    "SpecialtyName": "Colorectal Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Mustapha Abdulazim",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kumar Surendra",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Giovannone Rick",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Snider Alan",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Zahn Amanda",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Syed Razi",
+    "SpecialtyName": "Infectious Disease",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Burchfield John",
+    "SpecialtyName": "Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Currie Matthew",
+    "SpecialtyName": "Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Stephens Jeffery",
+    "SpecialtyName": "Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hecht Brian",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Heck Bruce",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Biyani Ashok",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Healy Michael",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "McCormick Patrick",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Harooni Hooman",
+    "SpecialtyName": "Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Zakeri Ahmad",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Zakeri Ahmad",
+    "SpecialtyName": "Pediatric Neurosurgery",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Zakeri Ahmad",
+    "SpecialtyName": "Vascular, benign and malignant brain and spine tumors, pituitary tumors",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Zakeri Ahmad",
+    "SpecialtyName": "Adult Neurosurgery",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hasan Syed",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Nagel Michael ",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Foetisch Christopher",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Frogameni Anthony",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Padanilam Thomas",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Saddemi Stephen",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Afridi M. Farooq",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Afridi M. Farooq",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Werning John",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Podboy David",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Podboy David",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Klein Kaitlyn",
+    "SpecialtyName": "Occupational Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hendricks-Jones Melinda",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Peckinpaugh Adam",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Peckinpaugh Adam",
+    "SpecialtyName": "Vascular Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dbouk Hassan",
+    "SpecialtyName": "Pediatric Pulmonary and Sleep Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dbouk Hassan",
+    "SpecialtyName": "Pediatric Critical Care Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dbouk Hassan",
+    "SpecialtyName": "Pediatric Pulmonary Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dbouk Hassan",
+    "SpecialtyName": "Pediatric Sleep Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Burke Lisa",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Moltz Kathleen",
+    "SpecialtyName": "Pediatric Endocrinology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bosio Raul ",
+    "SpecialtyName": "Colorectal Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bosio Raul ",
+    "SpecialtyName": "Robotic Colon and Rectal Surgery",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ostwani Waseem",
+    "SpecialtyName": "Pediatric Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ostwani Waseem",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Thomas Sharon",
+    "SpecialtyName": "Pediatric Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Thomas Sharon",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lorenc Kristi",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Reinard Kevin",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stanek Stephen",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stanek Stephen",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Knape Ryan",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rennels Matthew",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rennels Matthew",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Shaw Joanna",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Oriowo Babatunde",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Diep David",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kramer Kathryn",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Moore Jeffrey",
+    "SpecialtyName": "Pediatric Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Grillis Michael",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Jamil Tahir",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Jamil Tahir",
+    "SpecialtyName": "Surgical Intensive Care",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lucas Joshua",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lucas Joshua",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lucas Joshua",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Pietraszak Danielle",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Chudzinski Abigail",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Walter Adam",
+    "SpecialtyName": "Gynecology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hammond Amy",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Afridi Sophia ",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Houpt Mindy",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lewis Jennifer",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hutchison Stephanie",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hutchison Stephanie",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Patel Sohil",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bialecki Samantha",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Nolan Sharon",
+    "SpecialtyName": "Breast Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Elston Shanna",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Elston Shanna",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rychener Amber",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rychener Amber",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Assenmacher Andrew ",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Crosser Dena",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Coshway Loyal",
+    "SpecialtyName": "Pediatric Endocrinology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lutz Megan",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lutz Megan",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Narra Ravi",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Chamberlin Zachary",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Grima Laura ",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gehling Daniel",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Reighard Whitney",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Blanchard Stephanie",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hiser Jan",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Vincent Derik",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hamilton Anthony",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bitz James",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sorg Shannon",
+    "SpecialtyName": "Dietetics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Yergler Megan",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Yergler Megan",
+    "SpecialtyName": "Spine Care",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kaufmann Kristina",
+    "SpecialtyName": "Pediatric Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Arps Johnson Jennifer",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Koch Ashley",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Donovan Kelli",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Payne Courtney",
+    "SpecialtyName": "Gynecology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wenzel Jessica",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sisi Davis Trisha",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Borucki Heidi",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Drummond Brenda",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lance Stephanie",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bellman Brooke",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Faust Kim",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kemp Laura",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sholey Gayla",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sholey Gayla",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sholey Gayla",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Riley Chelsea",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Riley Chelsea",
+    "SpecialtyName": "Women's Health",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Weirich Bethany ",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Morse Kelly",
+    "SpecialtyName": "Genetic Counseling",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Van Hook James",
+    "SpecialtyName": "Maternal-Fetal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hummer Kaitlyn",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hummer Kaitlyn",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rauch Bryan",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Damiani John",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Damiani John",
+    "SpecialtyName": "Prostate Cancer",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Castillo Valerie",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stroder Elisha",
+    "SpecialtyName": "Podiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Yoakam Aaron",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Schak Jeffrey",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Schak Jeffrey",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dankert Kevin",
+    "SpecialtyName": "Physical Medicine and Rehabilitation",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Dankert Kevin",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Saste Abhijit",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Saste Abhijit",
+    "SpecialtyName": "Oncology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Malin Paris",
+    "SpecialtyName": "Podiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Reiner Matthew",
+    "SpecialtyName": "Podiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Palmer Anthony",
+    "SpecialtyName": "Pediatric Hematology/Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Tisdale Stephen",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bosinger Tabitha",
+    "SpecialtyName": "Plastic and Reconstructive Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Siewert Jordan",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Jiang Feng",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Raufi Ali",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Raufi Ali",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Goldstein Benjamin",
+    "SpecialtyName": "Pediatric Pulmonary Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Goldstein Benjamin",
+    "SpecialtyName": "Pediatric Pulmonary and Sleep Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kastel Stephanie",
+    "SpecialtyName": "Podiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Simman Richard",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Simman Richard",
+    "SpecialtyName": "Plastic and Reconstructive Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Haas Rachel",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Haas Rachel",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Phelan Timothy",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Phelan Timothy",
+    "SpecialtyName": "Cardiac Electrophysiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Howard  Mindy",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Howard  Mindy",
+    "SpecialtyName": "Pulmonary and Sleep Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Skie Martin",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Shendge Vithal",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sanford Christopher",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Elgafy Hossein",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Tremains Michael",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Nye Darin",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Boyle Williams Kathryn",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Boyle Williams Kathryn",
+    "SpecialtyName": "Sleep Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Witte Robert",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Drenchko Robert",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Drenchko Robert",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Oostra Drew",
+    "SpecialtyName": "Vascular Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Oostra Drew",
+    "SpecialtyName": "Blood Management",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Oostra Katelyn",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Assenmacher Benjamin",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Morrison Shaun",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Trautwein Colleen",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Pickens Brian",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Pickens Brian",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sell Karter",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sell Karter",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Brow Daniel",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Brow Daniel",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dieringer Joseph",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dieringer Joseph",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Davis Lisa",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Davis Lisa",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lehmann Shelly",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Smith Janette",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Smith Janette",
+    "SpecialtyName": "Vascular Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Egler Michelle",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Mustafa Khader",
+    "SpecialtyName": "Rheumatology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ghali Mohammad",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Olson Colleen",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Roberto Jason",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Walkup Natalie",
+    "SpecialtyName": "Gynecology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Vandemark Cindy",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Vandemark Cindy",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Butts Anne",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Knoll Kristina",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Westphal C. Carl",
+    "SpecialtyName": "Optometry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Herschman Jonathan",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ybarra Timothy",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kinney Hannah",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rafiq Naheed",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Fries Kathleen",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bowers Allison",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Armstrong Michael",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Armstrong Michael",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Franco Lisa",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Franco Lisa",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Franco Lisa",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Franco Lisa",
+    "SpecialtyName": "Women's Health",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Franco Lisa",
+    "SpecialtyName": "Lactation Consultant",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hall Alisha",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hall Alisha",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Corbett  Jacob",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Schoenrock Richard",
+    "SpecialtyName": "Cardiac Electrophysiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Awa Basel",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Zahradnik Julia",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gillespie Lisa",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rubel Cathy",
+    "SpecialtyName": "Psychology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Brady Brenda",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Schlachter Kendra",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ali Imran",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Elmer Larry",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Koffman Boyd",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kung Vieh",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Li Hongyan",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Mahfooz Naeem",
+    "SpecialtyName": "Pediatric Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Pirzada Noor",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ramsey-Williams Vicky ",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rashid Mehmood",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sheikh Ajaz",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Utley Christine",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Schroeder Jason",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stephan Megan",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Samberg Katherine",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Graffice Patricia",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Miller Jacob",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Roberts Sarah",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kumar Rakesh",
+    "SpecialtyName": "Pediatric Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Poole Trevor",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Williams Dustin",
+    "SpecialtyName": "Pediatric Hospitalist",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Elsayed Ahmed",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Elsayed Ahmed",
+    "SpecialtyName": "Oncology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wahl Heather",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Wahl Heather",
+    "SpecialtyName": "Women's Health",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Malas Hazem",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Staifer Kathryn",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Mayo Meagan",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Elamin Mohamed",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Elamin Mohamed",
+    "SpecialtyName": "Advanced Cardiac Imaging",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Oyer Kelsie",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Chamberlain Justin",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Manis Erika",
+    "SpecialtyName": "Sleep Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Alamina Folu",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Berry Tania",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Davis Troy",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Casey Amber",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Howard Ashley",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "DeGraff Nicole",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Everline Lindsey",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Miller Timothy",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wilson Sheresa",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Santure Jennifer",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Beckett Shedd Danielle",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Patterson Taylor",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Barnett Hamen Sara",
+    "SpecialtyName": "Pediatric Hospitalist",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Yunghans Sara",
+    "SpecialtyName": "Physical Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bruhl Alisha",
+    "SpecialtyName": "Physical Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ticchi-Junkins Samantha",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ticchi-Junkins Samantha",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Daniel Cara",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Shelle Dennis",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Shelle Dennis",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Beaulieu Sarah",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Treloar Brooke",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Brodsky Burton",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Brodsky Burton",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Crim Aleia",
+    "SpecialtyName": "Gynecology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gabel Brandon",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Marchand Alisha",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Marchand Alisha",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Iachini Ehden",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Diuble Angela",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Evans Steve",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Oehler Carol",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Munson Alexandra",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Munson Alexandra",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Munson Alexandra",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Olszewski Colleen",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Parker David",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Gray Elise",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Schade Hoerig Melissa",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Black Sabrina",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Mullins Rachel",
+    "SpecialtyName": "Vascular Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Mullins Rachel",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Luring Christopher",
+    "SpecialtyName": "Physical Medicine and Rehabilitation",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Schlosser Mischell",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hensley Kelci",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Vu Quynh-Nhu",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Burgess Richard",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Burgess Richard",
+    "SpecialtyName": "Interventional Neurology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Malaiyandi Deepa",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Schuh Lori",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Nuckols Amanda",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Nuckols Amanda",
+    "SpecialtyName": "Oncology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Imm John",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Switzer Alesha",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hajjar Monica",
+    "SpecialtyName": "Vascular Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hughes Leah",
+    "SpecialtyName": "Pediatric Pulmonary and Sleep Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hughes Leah",
+    "SpecialtyName": "Cystic Fibrosis",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hughes Leah",
+    "SpecialtyName": "Pediatric Pulmonary Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Niles Todd",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Crescenzo Maura",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Michalak Jill",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Griffith Sarah",
+    "SpecialtyName": "Physical Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ariss Michelle",
+    "SpecialtyName": "Pediatric Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hall Patricia",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dy Edelwina",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Steiner Doug",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Filipiak Charles",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Davidson Zachary",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Case James",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Khan Waqar",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Martin Erica",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Martin Erica",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Pillai Kanchan",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Tilson Michael",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Dusa Emily",
+    "SpecialtyName": "Cardiothoracic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stephan Zachary",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Muszynski Ashley",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Orzechowski Erin",
+    "SpecialtyName": "Plastic and Reconstructive Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Simmons Sarah",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Burns Jessica A.",
+    "SpecialtyName": "Breast Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Goldschmidt Kellen",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Goldschmidt Kellen",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rulong Geoffrey",
+    "SpecialtyName": "Pediatric Pulmonary and Sleep Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rulong Geoffrey",
+    "SpecialtyName": "Pulmonary and Sleep Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Siemen Kevin",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Meller Ryan",
+    "SpecialtyName": "Radiation Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sandhu Ravinder",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Badi Hani",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Da-Silva Shonola",
+    "SpecialtyName": "Pediatric Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Da-Silva Shonola",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Al Jubouri Mustafa",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Al Jubouri Mustafa",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Herrington Nolan",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Schenk Nicholas",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hayes Andrea",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Olzak Matthew",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Olzak Matthew",
+    "SpecialtyName": "Oncology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Keibler Matthew",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bishop Kassidy",
+    "SpecialtyName": "Gynecology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Shipe Martha",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Darr Mahmood",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bommana Venugopala",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Federer Jill",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Heilman Lindsey",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Podgorski Cierra",
+    "SpecialtyName": "Radiation Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Smart Catherine",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Reaume Rachel",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hartkopf Smith Lisa",
+    "SpecialtyName": "Survivorship",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Franks Tiffany",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kassas Emad",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Major Cindy",
+    "SpecialtyName": "Palliative Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wong Philip",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Patel Jaydutt",
+    "SpecialtyName": "Cardiac Electrophysiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Aplin Brett",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bohnsack Pandora",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rublaitus Allison",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Riaz Anum",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Thomas Kelly",
+    "SpecialtyName": "Pediatric Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Burgoon Rebecca",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ball Katherine",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Good Ashley",
+    "SpecialtyName": "Bariatric Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "McLaughlin Bridget",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Raja Sumrine",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Luebke Suzanne",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Floyd Megan",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Floyd Megan",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Floyd Megan",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "VanAken Rachelle",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Van Niel Rachel",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Van Niel Rachel",
+    "SpecialtyName": "Sleep Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Parker Colby Rachel",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Cassavar Daniel",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "White Mallory",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Mann Stephanie",
+    "SpecialtyName": "Maternal-Fetal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Robbins Sarah",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "LaGrange Melissa",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kern Amy",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Nnaji Assumpta",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rogier Ashley",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Petee Madeline",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sander Shannon",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hartle Jessica",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Barth Kevin",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Osinowo Thomas",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Study Kylie",
+    "SpecialtyName": "Acupuncture",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Chams Nour",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Macari David",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Macari David",
+    "SpecialtyName": "Oncology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Afreen Ehad",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Gwin Stephanie",
+    "SpecialtyName": "Palliative Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Yonkof Jennifer",
+    "SpecialtyName": "Allergy and Immunology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Sheikh Mujeeb",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Sheikh Mujeeb",
+    "SpecialtyName": "Interventional Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Fumo David",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hariri Imad",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Hariri Imad",
+    "SpecialtyName": "Advanced Heart Failure and Transplant Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Horton Nicholas",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Trayer Travis",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Fourman Matthew",
+    "SpecialtyName": "Bariatric Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Fourman Matthew",
+    "SpecialtyName": "Revisional Bariatric Surgery",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kahaly Omar",
+    "SpecialtyName": "Cardiac Electrophysiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kahaly Omar",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rahman Syed",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ochi Marshall",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ochi Marshall",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ryan Justin",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Said Ahmed Tamer",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Said Ahmed Tamer",
+    "SpecialtyName": "Sleep Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Li Rosie",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Li Rosie",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hyder Jalal",
+    "SpecialtyName": "Radiation Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Spencer Kristen",
+    "SpecialtyName": "Physical Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Miller Nichole",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Istephan Steven",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Istephan Steven",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Younes Stephanie",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Younes Stephanie",
+    "SpecialtyName": "Interventional Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Pratt Sarah",
+    "SpecialtyName": "Bariatric Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Pratt Sarah",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Al-Shoha Mohammad",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Coughlin Lisa",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Charnesky Melissa",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Day Carolyn",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ismail Sahar",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ismail Sahar",
+    "SpecialtyName": "Interventional Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Davis Elizabeth",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Davis Elizabeth",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Asava Aree Chompunut",
+    "SpecialtyName": "Vascular Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Smithason Saksith",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Deames Marian",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Dolly Jennifer",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dolly Jennifer",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dolly Jennifer",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kado Jenna",
+    "SpecialtyName": "Sleep Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Valkier Christopher",
+    "SpecialtyName": "Podiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Valkier Sophia",
+    "SpecialtyName": "Podiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bingle Kevin",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Cornoyer Ryan",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ellithorpe Alison",
+    "SpecialtyName": "Audiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Putnam Jessica",
+    "SpecialtyName": "Audiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Tunis Tracy",
+    "SpecialtyName": "Audiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ocasio Joseph",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Remley Debra",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Remley Debra",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gomez Tracy",
+    "SpecialtyName": "Clinical Psychology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Rossi Sharon",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Moreno Lucy",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Junge Tamara",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bowden Kristine",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Thayer Ross",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Saunders Tara",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dock Joyce",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gustwiller Bridget",
+    "SpecialtyName": "Physical Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stokey Brandon",
+    "SpecialtyName": "Anesthesia",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stokey Brandon",
+    "SpecialtyName": "Pain Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Shuaib Mohammed",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Li Jack",
+    "SpecialtyName": "Cardiac Electrophysiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Li Jack",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Fernsler Jared",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Alam Shaheen",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Doumet Bouchra",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Doumet Mahdi",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Watson Tanya",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Watson Tanya",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kelly Sara",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kelly Sara",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kelly Sara",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Javed Arshad",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kwok Lai Lai",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Guinta Kara",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Miller Madison",
+    "SpecialtyName": "Child Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Zirker Bernadine",
+    "SpecialtyName": "Infectious Disease",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Shenouda Mary",
+    "SpecialtyName": "Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Persaud Jessica",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dickerson Jennifer",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Pilmore Tayler",
+    "SpecialtyName": "Gynecology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Tabbert Andrea",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Tabbert Andrea",
+    "SpecialtyName": "Podiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Creedon Kevin",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Vasquez Monica",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Koltz Peter",
+    "SpecialtyName": "Plastic and Reconstructive Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ingle Ashley",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Plewniak Kaitlyn",
+    "SpecialtyName": "Audiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ragan Luke",
+    "SpecialtyName": "Sports Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Smith Asher",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bryan Zefiryn",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ceglarek Catlin",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Cruz Arnold",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dier Meghan",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gerken Stephanie",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Jurkiewicz Bridget",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Musgrave Theresa",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Onweller Paige",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Scherger Joseph",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sinco Gilbert",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stanford Meredith",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Williams Kassandra",
+    "SpecialtyName": "Women's Health",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Williams Kassandra",
+    "SpecialtyName": "Weight Management",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Williams Kassandra",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Williams Kassandra",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Orabi Najib-Abraham",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Peabody Brandy",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Moore Melissa",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Boecker Felix",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Faulhaber Tanya",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Canas Lindsay",
+    "SpecialtyName": "Infectious Disease",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Cheney Brooke",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Cheney Brooke",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Cheney Brooke",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Braden Kelly",
+    "SpecialtyName": "Gynecology and Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Younas Shumaila",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Lovell Douglas",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Reaume Stacey",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Reeves Sherrill",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Revels Susan",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stanifer David",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Walker David",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Massad David",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Naylor Kathleen",
+    "SpecialtyName": "Palliative Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Wozniak Jessica",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Mainzinger Sarah",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Homer Katherine",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Fricker-Elhai Adrienne",
+    "SpecialtyName": "Child Psychology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Muehlbauer Lauren",
+    "SpecialtyName": "Diabetes",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Muehlbauer Lauren",
+    "SpecialtyName": "Pediatric Endocrinology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Scott Gabrielle",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Almasri Mohamad",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Anderson Patrick",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hogg Christopher",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Seeley Sydney",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Howell Michael",
+    "SpecialtyName": "Podiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Schroeder Jacob",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Walker Sarah",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Leila Ahmad",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "DeLong Betty",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Brewton Kevin",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Clark John",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Clark John",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Van Zile Jacquelyn",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Patel Sanket",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Coccimiglio Elisa",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Marchese Bradley",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Bailey Jenna",
+    "SpecialtyName": "Optometry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sadowski Scott",
+    "SpecialtyName": "Optometry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Schlagheck Michele",
+    "SpecialtyName": "Optometry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Shah Niraj",
+    "SpecialtyName": "Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Li Qunfang",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rodriguez-Salinas Diana",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rodriguez-Salinas Diana",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Zekaj Mark",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Vovos Tyler",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rasquinha Simona",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Schlotterer Melissa",
+    "SpecialtyName": "Applied Behavioral Analysis, Autism Spectrum Disorder",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Fishman Stephanie",
+    "SpecialtyName": "Applied Behavioral Analysis, Autism Spectrum Disorder",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Brogan Kristine",
+    "SpecialtyName": "Maternal-Fetal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lavoy Colleen",
+    "SpecialtyName": "Maternal-Fetal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Vilchez Tina",
+    "SpecialtyName": "Blood Management",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sedlak Emily",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Andrews Kyle",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Fox Bradley",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Iaciofano Ellen",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Huffman Shayna",
+    "SpecialtyName": "Physical Medicine and Rehabilitation",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Abowd Michael",
+    "SpecialtyName": "Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Garber Charity",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Steiner Brent",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Scannell Caitlin",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Carson Samantha",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stockdale Amelia",
+    "SpecialtyName": "Applied Behavioral Analysis, Autism Spectrum Disorder",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Moehling Arielle",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stotz Rebecca",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dsouza Nigel",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gates Kate",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Miller Patricia",
+    "SpecialtyName": "Spine Care",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Parish Alexi",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ford Angela",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ford Angela",
+    "SpecialtyName": "Lactation Consultant",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Archer Chasity",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dutkowski Ashley",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kazmi Alamdar",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kazmi Alamdar",
+    "SpecialtyName": "Child Psychiatry",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sanei Moghaddam Amin",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Antoniolli Anita",
+    "SpecialtyName": "Breast Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Grieb Danielle",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Moussa Hind",
+    "SpecialtyName": "Maternal-Fetal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Moussa Hind",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Moussa Hind",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Walsh F. Michael",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Shapiro Susan",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Vazquez Diaz Sandra",
+    "SpecialtyName": "Pediatric Endocrinology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Vazquez Diaz Sandra",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 0,
+    "IsCertified": 1
+  },
+  {
+    "name": "Felker Laura",
+    "SpecialtyName": "Infectious Disease",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Brenner Brian",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Ewry Christopher",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hamilton Shannon",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kuhlman Gretchen",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Derrow Avram",
+    "SpecialtyName": "Allergy and Immunology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Patel Manishkumar",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Keiser Lisa",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Keiser Lisa",
+    "SpecialtyName": "Vascular Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Cutcher Kelsey",
+    "SpecialtyName": "Pulmonary Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Miklos Brian",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "DeChristopher Brianna",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Williams Erin",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gagen Jessica",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Reynolds Mary Anne",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Forchetti Derrick",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Guo Rongjun",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kotevski Niki",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kutaish Nadeem",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Prince Gregory",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Singh Surendra",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Smythe Peter",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Butler Dawn",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Duckworth Lizette",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gregurek Steven",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lane Zhaoli",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lund Lidiya",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Smith Saron Ann",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Thompson Sherry",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gohara Amira",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dominiak Nicole",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Koltz Brooke",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stanoszek Lauren",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Laposata Michael",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Warren Jeffrey",
+    "SpecialtyName": "Pathology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Garza Nichole",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Short Timothy",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stasa Kelly",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Foltz Beverly",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Jezak Jaclyn",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Winkle Mackenzie",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Regueyra Lauren",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Regueyra Lauren",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Fernando Ashley",
+    "SpecialtyName": "Podiatry",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "McCoy Kendall",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Staudinger Jaycie",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Layton Xiaxi",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Chopra Lesa",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Garrity Susan",
+    "SpecialtyName": "Applied Behavioral Analysis, Autism Spectrum Disorder",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Biersack Hayley",
+    "SpecialtyName": "Applied Behavioral Analysis, Autism Spectrum Disorder",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Essel Kathleen",
+    "SpecialtyName": "Gynecology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bailey Katherine",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lindsley Eric",
+    "SpecialtyName": "Physical Medicine and Rehabilitation",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Fox Melissa",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Reiter Kendall",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Cartwright Cynthia",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Strenk Morgan",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dwyer Trisha",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Anagnos Sylvia",
+    "SpecialtyName": "Neurology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Asif Muhamid",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sell David",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Amin Ali",
+    "SpecialtyName": "Rheumatology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Uzelac Elizabeth",
+    "SpecialtyName": "Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Fischer Matthew",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Skibinski Roblyn",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Skibinski Roblyn",
+    "SpecialtyName": "Vascular Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Younes Ahmad",
+    "SpecialtyName": "Interventional Cardiology / Endovascular",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Zaciek Deanna",
+    "SpecialtyName": "Urogynecology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Pothireddy Ravi",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Carrigan Catherine",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Coleman Sydni",
+    "SpecialtyName": "Ophthalmology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Edler Lea",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "King Emily",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Riechman Abbi",
+    "SpecialtyName": "Audiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Streu Michelle",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stenquist Tania",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Stenquist Tania",
+    "SpecialtyName": "Trauma",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lucas-Vougiouklakis Christina",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Scouten Rachel",
+    "SpecialtyName": "Genetic Counseling",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Mitchell Darla",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Mitchell Darla",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Mitchell Darla",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Jaworski Christina",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Conlan Barry",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Figy Rex",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Issa Mohamad",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Prielipp Evan",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Avasilcai Cristian",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Tanna Lauren",
+    "SpecialtyName": "Critical Care Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kreh-Stanley Beth",
+    "SpecialtyName": "Adult Neurosurgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "French Rosemary",
+    "SpecialtyName": "Colorectal Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Carr John",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Baldwin Tara",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Flynn Michelle",
+    "SpecialtyName": "Wound Care",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Nelson Shelby",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Nelson Shelby",
+    "SpecialtyName": "Vascular Medicine",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Lloyd Nicole",
+    "SpecialtyName": "Physical Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hahn Taylor Kae",
+    "SpecialtyName": "Audiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Steyer Taylor",
+    "SpecialtyName": "Genetic Counseling",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Willard Lindsay",
+    "SpecialtyName": "Genetic Counseling",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Smith Jennifer",
+    "SpecialtyName": "Hematology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Matrisciano Megan",
+    "SpecialtyName": "Hepatopancreaticobiliary Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Matrisciano Megan",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Furlong Dennis",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Iwema Morgan",
+    "SpecialtyName": "Ear, Nose and Throat (Otolaryngology)",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Sheehan Nicole",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Katzakis Nicole",
+    "SpecialtyName": "Palliative Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Henry Hannah",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hirschfeld Alexa",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Spangler Amy",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bridges Ryan",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Barron William",
+    "SpecialtyName": "Clinical Psychology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Barron William",
+    "SpecialtyName": "Psychodynamic psychotherapy",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Oates Brittaney",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hughes Jennifer",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Anello Kristie",
+    "SpecialtyName": "Pediatric Urology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Chung Anthony",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hallock Jamie",
+    "SpecialtyName": "Palliative Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Yuhas John",
+    "SpecialtyName": "Internal Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Chhan Jessica",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Wallace Vanessa",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Campos Kristin",
+    "SpecialtyName": "Orthopaedic Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Bonnell Alice",
+    "SpecialtyName": "Pediatric Urology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Lefevre Heather",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Craig Madeleine",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Craig Madeleine",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Glanz Allison",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Slutz Tiffany",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Slutz Tiffany",
+    "SpecialtyName": "Gynecology and Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gandert Katie",
+    "SpecialtyName": "Pediatrics",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Silvestri Mildred (Millie)",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Raghavan Ashwin",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Dunn Abbey",
+    "SpecialtyName": "Sleep Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Chandler Maria",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Williams Stephen",
+    "SpecialtyName": "Psychiatry",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gandhi Anjalika",
+    "SpecialtyName": "Gynecology Oncology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Kuns Mary",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Rauch Briana",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Oostra Carson",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Prabhakar Sourabh",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Kim Victoria",
+    "SpecialtyName": "Hepatopancreaticobiliary Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Frederick Heather",
+    "SpecialtyName": "Counseling and Therapy",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Blanchard Lauren",
+    "SpecialtyName": "Vascular Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Hess Katilyn",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Shendge Priya",
+    "SpecialtyName": "Rheumatology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Schuster Shelby",
+    "SpecialtyName": "Family Medicine",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Clegg Jessica",
+    "SpecialtyName": "Midwifery",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Clegg Jessica",
+    "SpecialtyName": "Gynecology",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Clegg Jessica",
+    "SpecialtyName": "Obstetrics",
+    "IsPrimary": 0,
+    "IsCertified": 0
+  },
+  {
+    "name": "Gray Evie",
+    "SpecialtyName": "Cardiology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "OConnell Helen",
+    "SpecialtyName": "Gynecology and Obstetrics",
+    "IsPrimary": 1,
+    "IsCertified": 1
+  },
+  {
+    "name": "Ferreira Cliff",
+    "SpecialtyName": "Urology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Romp Eric",
+    "SpecialtyName": "Gastroenterology",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  },
+  {
+    "name": "Whiteland Donielle",
+    "SpecialtyName": "General Surgery",
+    "IsPrimary": 1,
+    "IsCertified": 0
+  }
+]
