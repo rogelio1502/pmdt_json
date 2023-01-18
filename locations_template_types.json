@@ -1,0 +1,1954 @@
+[
+  {
+    "name": "ProMedica Bay Park Hospital",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "ProMedica Flower Hospital",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "ProMedica Fostoria Community Hospital",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "Lima Memorial Health System",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "ProMedica Memorial Hospital",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "ProMedica Monroe Regional Hospital",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "ProMedica Wildwood Orthopaedic and Spine Hospital",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "ProMedica Defiance Regional Hospital",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "ProMedica Toledo Hospital",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "ProMedica Russell J. Ebeid Childrens Hospital",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "ProMedica Physicians Breast Surgery",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Memorial Hospital - Womens Diagnostic Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Fostoria",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics | Gynecology - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics | Gynecology - Tecumseh",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiothoracic Surgeons",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Coping Center - Defiance Regional Hospital",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Endocrinology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Orthopaedics l Trauma and Adult Reconstruction",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Russell J. Ebeid Childrens Hospital Finnegan Family Autism Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica 360Health - Fremont",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine l Family Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians McClure Cardiology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Mary Ellen Falzone Diabetes Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Maternal-Fetal Medicine at ProMedica Toledo Hospital",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Orthopaedic Surgery - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics | Gynecology - Fostoria",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Critical Care",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica at Home",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Bay Park Hospital - Laboratory",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Bay Park Hospital - Radiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Bay Park Hospital - Womens Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Radiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Breast Care",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Defiance Regional Hospital Cardiac Rehab",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Fostoria Community Hospital Cardiac Rehab",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Memorial Hospital Cardiac Rehab - Fremont",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Flower Hospital Cardiac Rehab - Sylvania",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Psychiatric Services",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Defiance Regional Hospital - Laboratory",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Flower Hospital - Laboratory",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Flower",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Genito-Urinary Surgeons - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Genito-Urinary Surgeons - Archbold",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Genito-Urinary Surgeons - Fostoria",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Genito-Urinary Surgeons - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Genito-Urinary Surgeons - Maumee",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Nu el - A Lifetime Boutique",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Heart Failure Clinic - Toledo",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Jobst Medication Therapy Management - Fostoria",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Jobst Medication Therapy Management - Toledo",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Blissfield",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Onsted",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Adrian",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Lambertville",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Arrowhead",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Center for Health Services",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - McCord Road",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Tiffin",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Levis Commons",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Point Place",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Oregon",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Swanton",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Rossford",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Hudson",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Wolf Creek",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Memorial Hospital - Laboratory",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Memorial Hospital - Radiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica 360Health - Toledo",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pain Management - Defiance",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Pain Management - Fostoria",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Pain Management - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Assenmacher Orthopaedics - Oregon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Assenmacher Orthopaedics - Wildwood",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Beer Orthopaedics",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Karamali and Cassavar Cardiology - Perrysburg",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Karamali and Cassavar Cardiology - Defiance",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Adult Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Adult Neurology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Alexis Medical Center",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Arrowhead Family Practice",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Arrowhead Pediatrics",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians General Surgery Bariatrics - Wauseon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Bay Park Family Practice",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Lambertville",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Maumee",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Bowling Green",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Fostoria",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Napoleon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Bay Park",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Port Clinton",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Wauseon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Silverman Cardiology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Defiance Internal Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Defiance Orthopaedic Center",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Defiance Regional Ophthalmology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Ear, Nose and Throat - Sylvania",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Ear, Nose and Throat - Perrysburg",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Ear, Nose and Throat - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Ear, Nose and Throat - Tecumseh",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Ear, Nose and Throat - Defiance",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Eye Care - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Eye Care - Sylvania",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Defiance Family Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Metamora",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Practice of Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians General Surgery - Defiance",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Rossford",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Infectious Disease and Pediatrics",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics | Gynecology - Maumee",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics | Gynecology - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics | Gynecology - Port Clinton",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics | Gynecology - Defiance",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics | Gynecology - Sylvania",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics I Gynecology - Perrysburg",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Sunforest Obstetrics | Gynecology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Physical Medicine & Rehabilitation - Oregon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Cardiology - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Cardiology - Lima",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Cardiology - Sandusky ",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Gastroenterology - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Gastroenterology - Lima",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Gastroenterology - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Orthopaedic Surgery",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Pulmonary and Sleep Medicine and Cystic Fibrosis - Defiance",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatrics Sam M. Abaza, MD",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Perrysburg Pediatrics",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Port Sylvania Family Practice",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Behavioral Health - Sylvania",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians PulmonarySleep Medicine - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians PulmonarySleep Medicine - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians PulmonarySleep Medicine - Defiance",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians River Road Family Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Sylvania Adult & Pediatric Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians West Central Medical Group",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians General Surgery I Trauma",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians General Surgery - Oregon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Westgate Family Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Wildwood Family Practice",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine - Woodley",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Radiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Radiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Radiology - Levis Commons",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Sleep Center - Defiance",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Sleep Center - Fostoria",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Sleep Center - Fremont",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Sleep Center - Oregon",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Sleep Center - Sylvania",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Structural Heart Clinic",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica EAP",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Toledo & Russell J. Ebeid Childrens Hospitals - Laboratory",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Toledo Hospital - Radiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Palliative Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Total Rehab - Adrian",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Dundee",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Temperance",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Fostoria",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Onsted",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Sylvania",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Maumee",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Oregon",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Toledo",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Defiance",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Gibsonburg",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Clyde",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Fremont",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Levis Commons",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Holland",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Bowling Green",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Jobst Vascular Institute Vein Care",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Wildwood Orthopaedic and Spine Hospital - Radiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Womens Services",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Onsted",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Tecumseh Family Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Specialty Pharmacy ",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine I Pediatrics I Family Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Bay Park Hospital - Surgery Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Defiance Regional Hospital - Surgery Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Flower Hospital - Surgery Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Fostoria Community Hospital - Surgery Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Memorial Hospital - Surgery Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Cystic Fibrosis Center of Northwest Ohio",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Toledo Hospital - Surgery Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Russell J. Ebeid Childrens Hospital - Surgery Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Hickman Cancer Center - Sylvania",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Hickman Cancer Center - Adrian",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Debbie Brass Childrens Cancer Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Monroe Cancer Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Heart Failure Clinic - Oregon",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Flower Hospital - Radiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Oregon Pediatrics",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine I Family Medicine - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Ear, Nose And Throat  - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Orthopaedic Surgery - Elm Ave.",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Endoscopy Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - Maumee",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Palliative Care",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians PulmonarySleep Medicine - Fostoria",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics | Gynecology - Clyde",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Defiance Regional Hospital - Radiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Fostoria Community Hospital - Radiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Medical Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab Sports Medicine",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica 360Health - Monroe",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Podiatry - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Kaitlyns Cottage",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Jobst Medication Therapy Management - Fremont",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Orthopaedic Surgery - Monroe St.",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Consultants in Laboratory Medicine ",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Stroke Network",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics and Gynecology - Oregon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics and Gynecology - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Defiance",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular  - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Tecumseh",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular  - Wauseon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Toledo Orthopaedic and Spine Surgeons",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Bellevue ",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Urgent Care - Oregon",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Urgent Care - Perrysburg",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Allergy and Immunology - Oregon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Physical Medicine and Rehabilitation",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Dorothy L. Kern Cancer Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine I Sports Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Total Rehab - Monroe",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Monroe Regional Hospital",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Cardiac and Pulmonary Rehab - Fostoria ",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Neurosurgery - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Market on the Green",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Jobst Vascular Institute",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Monroe Regional Hospital - Radiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Jobst Medication Therapy Management - Oregon",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians General Surgery",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine - Sylvania",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Toledo Pediatrics",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Weight Loss Surgery - Sylvania",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Sylvania",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Imaging",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Health and Wellness Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Optical",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Womens Imaging Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Food Clinic - Sylvania",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pulmonary Clinic - Monroe",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians at Owens Corning",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics | Gynecology - Rossford",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Urgent Care - Holland",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Urgent Care - Toledo (Central)",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories- Dundee Westside Medical Building",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories- Ahadi",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories- Kabir",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories- Monroe Professional Office Building",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories- Monroe Diagnostic Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories- Delisle Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories- Newport",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Fostoria",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Express Care - Defiance",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab- Defiance",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab Pediatrics",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pulmonary  COPD Education Clinic - Toledo",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Orthopaedic Surgery - Sylvania",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular- Bowling Green",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Tiffin",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians General Surgery - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians General Surgery - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Sylvania",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine - Elmore",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Defiance Regional Hospital - Emergency Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Bay Park Hospital - Emergency Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Flower Hospital - Emergency Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Fostoria Community Hospital - Emergency Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Memorial Hospital - Emergency Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Monroe Regional Hospital - Emergency Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Russell J. Ebeid Childrens Hospital - Emergency Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Toledo Hospital - Emergency Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Monroe Regional Hospital - Surgery Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Monroe Regional Hospital Family Medicine Residency",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Hepatobiliary, Pancreatic and Endocrine Surgery",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Bay Park Hospital Cardiac Rehab - Oregon",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Monroe Regional Hospital Cardiac Rehab",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Maumee",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Carleton",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Jobst Medication Therapy Management - Defiance",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Jobst Medication Therapy Management - Monroe",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pulmonary Clinic - Sylvania",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pulmonary Clinic - Oregon",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Jobst Medication Therapy Management - Sylvania",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Falzone Diabetes Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Colorectal Surgery",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Fostoria Community Hospital Outpatient Pharmacy",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Adherence Pharmacy",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Laboratories - Fremont",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Oregon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Oregon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Parkway Surgery Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Heart Failure Clinic - Fremont",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Genito-Urinary Surgeons - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine - Clyde",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Audiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Ebeid Institute",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Bay Park Hospital - Cancer Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Toledo Hospital - Cancer Care",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Defiance Regional Hospital - Cancer Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Fostoria Community Hospital - Cancer Care",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Newport",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Laboratories - Tecumseh",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Bay Park Hospital - Orthopaedics",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Defiance Regional Hospital - Orthopaedics",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Fostoria Community Hospital - Orthopaedics",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Memorial Hospital - Orthopaedics",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Russell J. Ebeids Childrens Hospital - Orthopaedics",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Flower Hospital - Orthopaedics",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Monroe Regional Hospital - Orthopaedics",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Port Clinton",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Urgent Care - Toledo (Secor)",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Rheumatology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica HematologyOncology Associates - Wauseon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Behavioral Health - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Behavioral Health - Findlay",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Pulmonary Clinic - Defiance",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pulmonary Clinic - Fostoria",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pulmonary Clinic - Fremont",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Food Clinic - Toledo",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Urology - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Monroe Regional Hospital - Womens Health Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Coldwater Regional Hospital",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "ProMedica Physicians at Owens Corning - Newark",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians at Owens Corning - Granville",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Pulmonary Rehab - Oregon",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pulmonary Rehab - Defiance",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pulmonary Rehab - Sylvania",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pulmonary Rehab - Fostoria",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pulmonary Rehab - Fremont",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pulmonary Rehab - Monroe",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Device Clinic",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Heart Rhythm Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Learning and Education Building",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - Tecumseh",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Neurosciences Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Neurophysiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Total Rehab - Neurology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Audiology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Behavioral Health - Defiance",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurosurgery - Defiance",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Monroe Regional Hospital - Cancer and Infusion Services",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica 360Health - Greenville",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Monroe Cardiology - Amin",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Sleep Center - Monroe",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics | Gynecology - Levis Commons",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Spine Care",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Podiatry - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Ear, Nose and Throat - Maumee",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Integrated Medical Solutions",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Hudson",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Adrian Pediatrics",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Maumee Cancer Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Coldwater Family Medical Center",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Litchfield Family Medical Center",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Family Practice of Bronson",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Coldwater Regional Hospital - Emergency Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Neurosurgery - Perrysburg",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Obstetrics l Gynecology - Paulding",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Pelvic Health",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Health Specialists of Lenawee",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurosurgery - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians PulmonarySleep Medicine - Sylvania",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Family Medicine - Fostoria",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Behavioral Health - Fostoria",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Urogynecology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Gynecology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Allergy and Immunology - Maumee",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Fostoria Community Hospital - Medical Office Building ",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - Multi-Specialty Care",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Orthopaedics - Multi-Specialty Care",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Ear, Nose And Throat - Coldwater",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Coldwater Obstetrics | Gynecology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians General Surgery - Coldwater",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Coldwater Regional Hospital - Internal Medicine",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine | Family Medicine - Perrysburg",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Behavioral Health - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Behavioral Health - Coldwater",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians PulmonarySleep Medicine - Tecumseh",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians PulmonarySleep Medicine - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Behavioral Health - Lenawee",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Monroe Gastroenterology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Rheumatology - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Defiance Internal Medicine - Waterville",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurosurgery - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Perrysburg",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Colorectal Surgery - Perrysburg",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine - Port Clinton",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Laboratories - Coldwater",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Urgent Care for Kids",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Regenerative Medicine",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Natural Wellness Shop",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Comprehensive Adult Sickle Cell Clinic",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Weight Loss Surgery - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Gynecology | Oncology - Sylvania",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Allergy and Immunology - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Jobst Vascular - Port Clinton",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - Fostoria",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Bay Park Hospital - Labor and Delivery",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Defiance Regional Hospital - Labor and Delivery",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Memorial Hospital - Labor and Delivery",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Monroe Regional Hospital - Labor and Delivery",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Toledo Hospital - Labor and Delivery",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "My Baby & Me Boutique",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Coldwater Regional Hospital - Labor and Delivery",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Coldwater Regional Hospital - Womens Health Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Cardiology - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Total Rehab - Coldwater",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Gbur Cardiology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Infectious Disease",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Charles and Virginia Hickman Hospital",
+    "TemplateType": "Hospital"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine I Pediatrics",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Plastic and Reconstructive Surgery",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine - Oregon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine - Tiffin",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Coldwater Cancer Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Eidi Family Rehabilitation Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Farms",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Weight Management",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Defiance Family Medicine - Napoleon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Coldwater Regional Hospital - Cardiac Rehab",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - Hasan",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - Szymanski",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - MaumeeHasan",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - MonroeHasan",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - MaumeeSzymanski",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - MonroeSzymanski",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Ear, Nose and Throat - Oregon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Coldwater Regional Hospital Pain Management",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Heart Failure Clinic - Monroe",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Coldwater Regional Hospital - Orthopaedic Surgery",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Coldwater Regional Hospital - Foot and Ankle",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Coldwater Regional Hospital - Urology",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Jobst Medication Therapy Management - ProMedica Health and Wellness Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Jobst Medication Therapy Management - Adrian",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Vision Associates - Toledo",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Vision Associates - Bowling Green",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Pulmonary and Sleep Medicine and Cystic Fibrosis - Fremont",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Diabetes Education - ProMedica Charles and Virginia Hickman Hospital",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Diabetes Education - ProMedica Monroe Regional Hospital",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Diabetes Education - ProMedica Bay Park Hospital",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Diabetes Education - ProMedica Fostoria Community Hospital",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Diabetes Education - ProMedica Defiance Regional Hospital",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "Diabetes Education - ProMedica Memorial Hospital",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Fostoria Community Hospital Dialysis Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Weight Loss Surgery - Tecumseh",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Neurology - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Charles and Virginia Hickman Hospital - Laboratory",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Charles and Virginia Hickman Hospital - Womens Health Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Charles and Virginia Hickman Hospital - Emergency Center",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Toledo Hospital Emergency and Urgent Care",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Headquarters",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians ENT",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Pediatric Clinic",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Comprehensive Pediatric Sickle Cell Clinic",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Pain Management - Monroe",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Cardiology - Toledo Hospital",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Digestive Healthcare - Maumee",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Palliative Care Clinic",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Monroe Regional Hospital - Palliative Medicine",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Monroe Pediatrics",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "Macomb Pharmacy - ProMedica Monroe Regional Hospital",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Physicians Toledo Orthopaedic and Spine Surgeons - Hand Clinic",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Retina",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica COVID Care Clinic",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Genito-Urinary Surgeons - Adrian",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Spine Care - Fostoria",
+    "TemplateType": "Tier 2/Tier 3"
+  },
+  {
+    "name": "ProMedica Genito-Urinary Surgeons - Oregon",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Pediatric Urology",
+    "TemplateType": "PPG"
+  },
+  {
+    "name": "ProMedica Physicians Internal Medicine I Family Medicine",
+    "TemplateType": "PPG"
+  }
+]
