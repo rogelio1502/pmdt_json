@@ -1,0 +1,582 @@
+[
+  {
+    "LocationName": "ProMedica Hospice (Akron)",
+    "name": "ProMedica Hospice - Akron",
+    "directURL": "promedica-hospice-akron"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Albuquerque)",
+    "name": "ProMedica Hospice - Albuquerque",
+    "directURL": "promedica-hospice-albuquerque"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Allentown)",
+    "name": "ProMedica Hospice - Allentown",
+    "directURL": "promedica-hospice-allentown"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Ann Arbor)",
+    "name": "ProMedica Hospice - Ann Arbor",
+    "directURL": "promedica-hospice-ann-arbor"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Atlanta)",
+    "name": "ProMedica Hospice - Atlanta",
+    "directURL": "promedica-hospice-atlanta"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Augusta)",
+    "name": "ProMedica Hospice - Augusta",
+    "directURL": "promedica-hospice-augusta"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Bad Axe)",
+    "name": "ProMedica Hospice - Bad Axe",
+    "directURL": "promedica-hospice-bad-axe"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Baltimore)",
+    "name": "ProMedica Hospice - Baltimore",
+    "directURL": "promedica-hospice-baltimore"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Bay City)",
+    "name": "ProMedica Hospice - Bay City",
+    "directURL": "promedica-hospice-bay-city"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Beltsville)",
+    "name": "ProMedica Hospice - Beltsville",
+    "directURL": "promedica-hospice-beltsville"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Brainerd)",
+    "name": "ProMedica Hospice - Brainerd",
+    "directURL": "promedica-hospice-brainerd"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Broward)",
+    "name": "ProMedica Hospice - Broward",
+    "directURL": "promedica-hospice-broward"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Brunswick)",
+    "name": "ProMedica Hospice - Brunswick",
+    "directURL": "promedica-hospice-brunswick"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Burlingame)",
+    "name": "ProMedica Hospice - Burlingame",
+    "directURL": "promedica-hospice-burlingame"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Butler)",
+    "name": "ProMedica Hospice - Butler",
+    "directURL": "promedica-hospice-butler"
+  },
+  {
+    "LocationName": "Heartland Hospice (Capitola)",
+    "name": "Heartland Hospice - Capitola",
+    "directURL": "heartland-hospice-capitola"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Carlisle)",
+    "name": "ProMedica Hospice - Carlisle",
+    "directURL": "promedica-hospice-carlisle"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Cartersville)",
+    "name": "ProMedica Hospice - Cartersville",
+    "directURL": "promedica-hospice-cartersville"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Chadds Ford)",
+    "name": "ProMedica Hospice - Chadds Ford",
+    "directURL": "promedica-hospice-chadds-ford"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Chambersburg)",
+    "name": "ProMedica Hospice - Chambersburg",
+    "directURL": "promedica-hospice-chambersburg"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Charleston)",
+    "name": "ProMedica Hospice - Charleston",
+    "directURL": "promedica-hospice-charleston"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Cincinnati)",
+    "name": "ProMedica Hospice - Cincinnati",
+    "directURL": "promedica-hospice-cincinnati"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Circleville)",
+    "name": "ProMedica Hospice - Circleville",
+    "directURL": "promedica-hospice-circleville"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Cleveland)",
+    "name": "ProMedica Hospice - Cleveland",
+    "directURL": "promedica-hospice-cleveland"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Columbus)",
+    "name": "ProMedica Hospice - Columbus",
+    "directURL": "promedica-hospice-columbus"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Davenport)",
+    "name": "ProMedica Hospice - Davenport",
+    "directURL": "promedica-hospice-davenport"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Dayton)",
+    "name": "ProMedica Hospice - Dayton",
+    "directURL": "promedica-hospice-dayton"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Eau Claire)",
+    "name": "ProMedica Hospice - Eau Claire",
+    "directURL": "promedica-hospice-eau-claire"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Erie)",
+    "name": "ProMedica Hospice - Erie",
+    "directURL": "promedica-hospice-erie"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Fairfax)",
+    "name": "ProMedica Hospice - Fairfax",
+    "directURL": "promedica-hospice-fairfax"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Fairview Heights)",
+    "name": "ProMedica Hospice - Fairview Heights",
+    "directURL": "promedica-hospice-fairview-heights"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Flint)",
+    "name": "ProMedica Hospice - Flint",
+    "directURL": "promedica-hospice-flint"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Fond du Lac)",
+    "name": "ProMedica Hospice - Fond du Lac",
+    "directURL": "promedica-hospice-fond-du-lac"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Frankfort)",
+    "name": "ProMedica Hospice - Frankfort",
+    "directURL": "promedica-hospice-frankfort"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Fremont, MI)",
+    "name": "ProMedica Hospice - Fremont, MI",
+    "directURL": "promedica-hospice-fremont-mi"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Fremont)",
+    "name": "ProMedica Hospice - Fremont",
+    "directURL": "promedica-hospice-fremont"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Fort Wayne)",
+    "name": "ProMedica Hospice - Fort Wayne",
+    "directURL": "promedica-hospice-fort-wayne"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Grand Rapids)",
+    "name": "ProMedica Hospice - Grand Rapids",
+    "directURL": "promedica-hospice-grand-rapids"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Green Bay)",
+    "name": "ProMedica Hospice - Green Bay",
+    "directURL": "promedica-hospice-green-bay"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Greenville)",
+    "name": "ProMedica Hospice - Greenville",
+    "directURL": "promedica-hospice-greenville"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Hermitage)",
+    "name": "ProMedica Hospice - Hermitage",
+    "directURL": "promedica-hospice-hermitage"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Indianapolis)",
+    "name": "ProMedica Hospice - Indianapolis",
+    "directURL": "promedica-hospice-indianapolis"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Irwin)",
+    "name": "ProMedica Hospice - Irwin",
+    "directURL": "promedica-hospice-irwin"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Jacksonville)",
+    "name": "ProMedica Hospice - Jacksonville",
+    "directURL": "promedica-hospice-jacksonville"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Kingsland)",
+    "name": "ProMedica Hospice - Kingsland",
+    "directURL": "promedica-hospice-kingsland"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Kalamazoo)",
+    "name": "ProMedica Hospice - Kalamazoo",
+    "directURL": "promedica-hospice-kalamazoo"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Kansas City)",
+    "name": "ProMedica Hospice - Kansas City",
+    "directURL": "promedica-hospice-kansas-city"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Kenosha)",
+    "name": "ProMedica Hospice - Kenosha",
+    "directURL": "promedica-hospice-kenosha"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Macon)",
+    "name": "ProMedica Hospice - Macon",
+    "directURL": "promedica-hospice-macon"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Madison)",
+    "name": "ProMedica Hospice - Madison",
+    "directURL": "promedica-hospice-madison"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Marion)",
+    "name": "ProMedica Hospice - Marion",
+    "directURL": "promedica-hospice-marion"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Mason)",
+    "name": "ProMedica Hospice - Mason",
+    "directURL": "promedica-hospice-mason"
+  },
+  {
+    "LocationName": "Heartland Hospice (McAlester)",
+    "name": "Heartland Hospice - McAlester",
+    "directURL": "heartland-hospice-mcalester"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Milwaukee)",
+    "name": "ProMedica Hospice - Milwaukee",
+    "directURL": "promedica-hospice-milwaukee"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Minneapolis)",
+    "name": "ProMedica Hospice - Minneapolis",
+    "directURL": "promedica-hospice-minneapolis"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Moline)",
+    "name": "ProMedica Hospice - Moline",
+    "directURL": "promedica-hospice-moline"
+  },
+  {
+    "LocationName": "Heartland Hospice (Monterey)",
+    "name": "Heartland Hospice - Monterey",
+    "directURL": "heartland-hospice-monterey"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Mount Pleasant)",
+    "name": "ProMedica Hospice - Mount Pleasant",
+    "directURL": "promedica-hospice-mount-pleasant"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Myrtle Beach)",
+    "name": "ProMedica Hospice - Myrtle Beach",
+    "directURL": "promedica-hospice-myrtle-beach"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Newark)",
+    "name": "ProMedica Hospice - Newark",
+    "directURL": "promedica-hospice-newark"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Newport News)",
+    "name": "ProMedica Hospice - Newport News",
+    "directURL": "promedica-hospice-newport-news"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Northbrook)",
+    "name": "ProMedica Hospice - Northbrook",
+    "directURL": "promedica-hospice-northbrook"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Northfield)",
+    "name": "ProMedica Hospice - Northfield",
+    "directURL": "promedica-hospice-northfield"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Jackson)",
+    "name": "ProMedica Hospice - Jackson",
+    "directURL": "promedica-hospice-jackson"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Homestead)",
+    "name": "ProMedica Hospice - Homestead",
+    "directURL": "promedica-hospice-homestead"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Philadelphia)",
+    "name": "ProMedica Hospice - Philadelphia",
+    "directURL": "promedica-hospice-philadelphia"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Pittsburgh)",
+    "name": "ProMedica Hospice - Pittsburgh",
+    "directURL": "promedica-hospice-pittsburgh"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Portsmouth)",
+    "name": "ProMedica Hospice - Portsmouth",
+    "directURL": "promedica-hospice-portsmouth"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Raleigh)",
+    "name": "ProMedica Hospice - Raleigh",
+    "directURL": "promedica-hospice-raleigh"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Reading)",
+    "name": "ProMedica Hospice - Reading",
+    "directURL": "promedica-hospice-reading"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Richmond)",
+    "name": "ProMedica Hospice - Richmond",
+    "directURL": "promedica-hospice-richmond"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Roanoke)",
+    "name": "ProMedica Hospice - Roanoke",
+    "directURL": "promedica-hospice-roanoke"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Rochester)",
+    "name": "ProMedica Hospice - Rochester",
+    "directURL": "promedica-hospice-rochester"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Rockford)",
+    "name": "ProMedica Hospice - Rockford",
+    "directURL": "promedica-hospice-rockford"
+  },
+  {
+    "LocationName": "Heartland Hospice (San Rafael)",
+    "name": "Heartland Hospice - San Rafael",
+    "directURL": "heartland-hospice-san-rafael"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Santa Clara)",
+    "name": "ProMedica Hospice - Santa Clara",
+    "directURL": "promedica-hospice-santa-clara"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Santa Rosa)",
+    "name": "ProMedica Hospice - Santa Rosa",
+    "directURL": "promedica-hospice-santa-rosa"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Seven Fields)",
+    "name": "ProMedica Hospice - Seven Fields",
+    "directURL": "promedica-hospice-seven-fields"
+  },
+  {
+    "LocationName": "Heartland Hospice (Shawnee)",
+    "name": "Heartland Hospice - Shawnee",
+    "directURL": "heartland-hospice-shawnee"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Somerset)",
+    "name": "ProMedica Hospice - Somerset",
+    "directURL": "promedica-hospice-somerset"
+  },
+  {
+    "LocationName": "ProMedica Hospice (South Bend)",
+    "name": "ProMedica Hospice - South Bend",
+    "directURL": "promedica-hospice-south-bend"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Southfield)",
+    "name": "ProMedica Hospice - Southfield",
+    "directURL": "promedica-hospice-southfield"
+  },
+  {
+    "LocationName": "ProMedica Hospice (St. Cloud)",
+    "name": "ProMedica Hospice - St. Cloud",
+    "directURL": "promedica-hospice-st-cloud"
+  },
+  {
+    "LocationName": "ProMedica Hospice (St. Louis)",
+    "name": "ProMedica Hospice - St. Louis",
+    "directURL": "promedica-hospice-st-louis"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Stevens Point)",
+    "name": "ProMedica Hospice - Stevens Point",
+    "directURL": "promedica-hospice-stevens-point"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Suffolk)",
+    "name": "ProMedica Hospice - Suffolk",
+    "directURL": "promedica-hospice-suffolk"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Terre Haute)",
+    "name": "ProMedica Hospice - Terre Haute",
+    "directURL": "promedica-hospice-terre-haute"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Toledo)",
+    "name": "ProMedica Hospice - Toledo",
+    "directURL": "promedica-hospice-toledo"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Topeka)",
+    "name": "ProMedica Hospice - Topeka",
+    "directURL": "promedica-hospice-topeka"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Traverse City)",
+    "name": "ProMedica Hospice - Traverse City",
+    "directURL": "promedica-hospice-traverse-city"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Tucson)",
+    "name": "ProMedica Hospice - Tucson",
+    "directURL": "promedica-hospice-tucson"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Virginia Beach)",
+    "name": "ProMedica Hospice - Virginia Beach",
+    "directURL": "promedica-hospice-virginia-beach"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Warrenton)",
+    "name": "ProMedica Hospice - Warrenton",
+    "directURL": "promedica-hospice-warrenton"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Washington)",
+    "name": "ProMedica Hospice - Washington",
+    "directURL": "promedica-hospice-washington"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Wentzville)",
+    "name": "ProMedica Hospice - Wentzville",
+    "directURL": "promedica-hospice-wentzville"
+  },
+  {
+    "LocationName": "ProMedica Hospice (West Branch)",
+    "name": "ProMedica Hospice - West Branch",
+    "directURL": "promedica-hospice-west-branch"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Westmont)",
+    "name": "ProMedica Hospice - Westmont",
+    "directURL": "promedica-hospice-westmont"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Wichita)",
+    "name": "ProMedica Hospice - Wichita",
+    "directURL": "promedica-hospice-wichita"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Woodbury)",
+    "name": "ProMedica Hospice - Woodbury",
+    "directURL": "promedica-hospice-woodbury"
+  },
+  {
+    "LocationName": "ProMedica Hospice (York)",
+    "name": "ProMedica Hospice - York",
+    "directURL": "promedica-hospice-york"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Johnstown)",
+    "name": "ProMedica Hospice - Johnstown",
+    "directURL": "promedica-hospice-johnstown"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Marion IN)",
+    "name": "ProMedica Hospice - Marion IN",
+    "directURL": "promedica-hospice-marion-in"
+  },
+  {
+    "LocationName": "ProMedica Ebeid Hospice Residence",
+    "name": "ProMedica Ebeid Hospice Residence",
+    "directURL": "promedica-ebeid-hospice-residence"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Monroe)",
+    "name": "ProMedica Hospice - Monroe",
+    "directURL": "promedica-hospice-monroe"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Coldwater)",
+    "name": "ProMedica Hospice - Coldwater",
+    "directURL": "promedica-hospice-coldwater"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Charlottesville)",
+    "name": "ProMedica Hospice - Charlottesville",
+    "directURL": "promedica-hospice-charlottesville"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Northwest Indiana)",
+    "name": "ProMedica Hospice - Northwest Indiana",
+    "directURL": "promedica-hospice-northwest-indiana"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Mankato)",
+    "name": "ProMedica Hospice - Mankato",
+    "directURL": "promedica-hospice-mankato"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Sedalia)",
+    "name": "ProMedica Hospice - Sedalia",
+    "directURL": "promedica-hospice-sedalia"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Washington Court House)",
+    "name": "ProMedica Hospice - Washington Court House",
+    "directURL": "promedica-hospice-washington-court-house"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Youngstown)",
+    "name": "ProMedica Hospice - Youngstown",
+    "directURL": "promedica-hospice-youngstown"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Des Moines)",
+    "name": "ProMedica Hospice - Des Moines",
+    "directURL": "promedica-hospice-des-moines"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Festus)",
+    "name": "ProMedica Hospice - Festus",
+    "directURL": "promedica-hospice-festus"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Cedar Rapids)",
+    "name": "ProMedica Hospice - Cedar Rapids",
+    "directURL": "promedica-hospice-cedar-rapids"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Lincoln)",
+    "name": "ProMedica Hospice - Lincoln",
+    "directURL": "promedica-hospice-lincoln"
+  },
+  {
+    "LocationName": "ProMedica Hospice (Aventura)",
+    "name": "ProMedica Hospice - Aventura",
+    "directURL": "promedica-hospice-aventura"
+  }
+]
