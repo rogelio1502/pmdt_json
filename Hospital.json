@@ -1,5 +1,6 @@
 [
   {
+    "name": "ProMedica Bay Park Hospital",
     "LocationId": 8,
     "Enabled": 1,
     "LocationName": "ProMedica Bay Park Hospital",
@@ -20,6 +21,7 @@
     "State": "Ohio"
   },
   {
+    "name": "ProMedica Flower Hospital",
     "LocationId": 18,
     "Enabled": 1,
     "LocationName": "ProMedica Flower Hospital",
@@ -40,6 +42,7 @@
     "State": null
   },
   {
+    "name": "ProMedica Fostoria Community Hospital",
     "LocationId": 19,
     "Enabled": 1,
     "LocationName": "ProMedica Fostoria Community Hospital",
@@ -60,6 +63,7 @@
     "State": "Ohio"
   },
   {
+    "name": "Lima Memorial Health System",
     "LocationId": 21,
     "Enabled": 1,
     "LocationName": "Lima Memorial Health System",
@@ -80,6 +84,7 @@
     "State": "Ohio"
   },
   {
+    "name": "ProMedica Memorial Hospital",
     "LocationId": 22,
     "Enabled": 1,
     "LocationName": "ProMedica Memorial Hospital",
@@ -100,6 +105,7 @@
     "State": "Ohio"
   },
   {
+    "name": "ProMedica Monroe Regional Hospital",
     "LocationId": 23,
     "Enabled": 1,
     "LocationName": "ProMedica Monroe Regional Hospital",
@@ -120,6 +126,7 @@
     "State": "Michigan"
   },
   {
+    "name": "ProMedica Wildwood Orthopaedic and Spine Hospital",
     "LocationId": 27,
     "Enabled": 1,
     "LocationName": "ProMedica Wildwood Orthopaedic and Spine Hospital",
@@ -140,6 +147,7 @@
     "State": "Ohio"
   },
   {
+    "name": "ProMedica Defiance Regional Hospital",
     "LocationId": 38,
     "Enabled": 1,
     "LocationName": "ProMedica Defiance Regional Hospital",
@@ -160,6 +168,7 @@
     "State": "Ohio"
   },
   {
+    "name": "ProMedica Toledo Hospital",
     "LocationId": 40,
     "Enabled": 1,
     "LocationName": "ProMedica Toledo Hospital",
@@ -180,6 +189,7 @@
     "State": "Ohio"
   },
   {
+    "name": "ProMedica Russell J. Ebeid Childrens Hospital",
     "LocationId": 41,
     "Enabled": 1,
     "LocationName": "ProMedica Russell J. Ebeid Childrens Hospital",
@@ -200,6 +210,7 @@
     "State": "Ohio"
   },
   {
+    "name": "ProMedica Coldwater Regional Hospital",
     "LocationId": 1149,
     "Enabled": 1,
     "LocationName": "ProMedica Coldwater Regional Hospital",
@@ -220,6 +231,7 @@
     "State": "Michigan"
   },
   {
+    "name": "ProMedica Charles and Virginia Hickman Hospital",
     "LocationId": 1326,
     "Enabled": 1,
     "LocationName": "ProMedica Charles and Virginia Hickman Hospital",
