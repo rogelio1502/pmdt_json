@@ -18,7 +18,8 @@
     "ExcludedKeywords": null,
     "City": "Oregon",
     "ZipCode": "43616",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-bay-park-hospital"
   },
   {
     "name": "ProMedica Flower Hospital",
@@ -39,7 +40,8 @@
     "ExcludedKeywords": null,
     "City": null,
     "ZipCode": "43560",
-    "State": null
+    "State": null,
+    "DirectURL": "promedica-flower-hospital"
   },
   {
     "name": "ProMedica Fostoria Community Hospital",
@@ -60,7 +62,8 @@
     "ExcludedKeywords": null,
     "City": "Fostoria",
     "ZipCode": "44830",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-fostoria-community-hospital"
   },
   {
     "name": "Lima Memorial Health System",
@@ -81,7 +84,8 @@
     "ExcludedKeywords": null,
     "City": "Lima",
     "ZipCode": "45804",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "lima-memorial-health-system"
   },
   {
     "name": "ProMedica Memorial Hospital",
@@ -102,7 +106,8 @@
     "ExcludedKeywords": null,
     "City": "Fremont",
     "ZipCode": "43420",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-memorial-hospital"
   },
   {
     "name": "ProMedica Monroe Regional Hospital",
@@ -123,7 +128,8 @@
     "ExcludedKeywords": null,
     "City": "Monroe",
     "ZipCode": "48162",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-monroe-regional-hospital"
   },
   {
     "name": "ProMedica Wildwood Orthopaedic and Spine Hospital",
@@ -144,7 +150,8 @@
     "ExcludedKeywords": null,
     "City": "Toledo",
     "ZipCode": "43615",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-wildwood-orthopaedic-and-spine-hospital"
   },
   {
     "name": "ProMedica Defiance Regional Hospital",
@@ -165,7 +172,8 @@
     "ExcludedKeywords": null,
     "City": "Defiance",
     "ZipCode": "43512",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-defiance-regional-hospital"
   },
   {
     "name": "ProMedica Toledo Hospital",
@@ -186,7 +194,8 @@
     "ExcludedKeywords": null,
     "City": "Toledo",
     "ZipCode": "43606",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-toledo-hospital"
   },
   {
     "name": "ProMedica Russell J. Ebeid Childrens Hospital",
@@ -207,7 +216,8 @@
     "ExcludedKeywords": null,
     "City": "Toledo",
     "ZipCode": "43606",
-    "State": "Ohio"
+    "State": "Ohio",
+    "DirectURL": "promedica-russell-j-ebeid-children-s-hospital"
   },
   {
     "name": "ProMedica Coldwater Regional Hospital",
@@ -228,7 +238,8 @@
     "ExcludedKeywords": null,
     "City": "Coldwater",
     "ZipCode": "49036",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-coldwater-regional-hospital"
   },
   {
     "name": "ProMedica Charles and Virginia Hickman Hospital",
@@ -249,6 +260,7 @@
     "ExcludedKeywords": null,
     "City": "Adrian",
     "ZipCode": "49221",
-    "State": "Michigan"
+    "State": "Michigan",
+    "DirectURL": "promedica-charles-and-virginia-hickman-hospital"
   }
 ]
